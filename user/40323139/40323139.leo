@@ -14,7 +14,7 @@
 <v t="leo.20160107155718.1"><vh>@button user pelican</vh></v>
 <v t="leo.20160107155707.1" a="E"><vh>@path ./</vh>
 <v t="leo.20160107155707.2"><vh>以下為投影片 ------------</vh></v>
-<v t="leo.20160109194435.1"><vh>@clean simplest.html</vh>
+<v t="leo.20160109194435.1" a="E"><vh>@clean simplest.html</vh>
 <v t="leo.20160109194435.2"><vh>檔案說明</vh></v>
 <v t="leo.20160109194435.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160109194435.4" a="E"><vh>body 標註</vh>
@@ -358,7 +358,7 @@ g.es("user pelican 執行完畢")</t>
 </t>
 <t tx="leo.20160109194435.8">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;操作步驟:&lt;/h1&gt;
-    &lt;p&gt;首先先去下載Ana3_lite2然後下載老師的fix和reveal2然後去github建立自己的檔案(Initialize this repository with a README要打勾) 然後複製網址git clone ，好了之後在遠端建一個分支然後再來近端也建一個分支git branch gh-pages，切換到新創的分支git checkout gh-pages ，再來把剛下載的reveal丟進去自己創的檔案，丟完之後就可以把reveal.leo丟進去leo進行編輯，編輯完之後按save再來把她git push 上去&lt;/p&gt;
+    &lt;p&gt;首先先去下載Ana3_lite2然後下載老師的fix和reveal2然後去github建立自己的檔案(Initialize this repository with a README要打勾) 然後複製網址git clone ，好了之後在遠端建一個分支然後再來近端也建一個分支git branch gh-pages，切換到新創的分支git checkout gh-pages ，再來把剛下載的reveal丟進去自己創的檔案，丟完之後就可以把reveal.leo丟進去leo進行編輯，編輯完之後按save再來把她git push 上去。&lt;/p&gt;
   
 &lt;/section&gt;
 				
