@@ -19,10 +19,10 @@
 </v>
 <v t="leo.20151224142747.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151224142747.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20160113215528.1"><vh>@clean g9_w15_1.md</vh>
+<v t="leo.20160113215528.1" a="E"><vh>@clean g9_w15_1.md</vh>
 <v t="leo.20160113215528.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160113215526.1"><vh>@clean g9_w14_1.md</vh>
+<v t="leo.20160113215526.1" a="E"><vh>@clean g9_w14_1.md</vh>
 <v t="leo.20160113215526.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160113195221.1" a="E"><vh>@clean g9_w13_1.md</vh>
@@ -317,7 +317,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 零件繪製：
 
-&lt;img src="https://goo.gl/photos/9WTC1L85J3666N5S6" width="600" height="430"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;img src="https://goo.gl/A0lrtQ" width="600" height="430"&gt;&lt;/a&gt;&lt;br /&gt;
 
 &lt;hr&gt;
 
@@ -325,9 +325,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：1&lt;br /&gt;
 繪製：賴武辰&lt;br /&gt;
 學號：40323156&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/7g5ANKq9Ht2DC8z27" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://player.vimeo.com/video/148461711" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster_base.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/QBw4xA" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/m9syVT" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/adjuster_base.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -335,9 +335,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：2&lt;br /&gt;
 繪製：張庭豪&lt;br /&gt;
 學號：40323133&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/8Jh2QBF2jh8SFW276" width="600" height="240"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/xXMN5ydpJoazqBECA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/5tdKEK" width="600" height="240"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/8xuSCe" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/adjuster.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -345,9 +345,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：3&lt;br /&gt;
 繪製：黃健華&lt;br /&gt;
 學號：40323147&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/zH1UYfSwujVUo7rcA" width="600" height="194"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/3B12WP4fNa7b1zh18" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/base.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/c633Ky" width="600" height="194"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/sP97NT" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/base.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -355,9 +355,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：4&lt;br /&gt;
 繪製：張庭豪&lt;br /&gt;
 學號：40323133&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/15nU8BRLoUvCviX97" width="600" height="400"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/pGuTsXHydVfkgkiX6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/connection.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/YBYRN9" width="600" height="400"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/Qd0TCH" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/connection.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -365,9 +365,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：5&lt;br /&gt;
 繪製：廖子誠&lt;br /&gt;
 學號：40323152&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/7YE3G6McrTqM7urm6" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/ErBe3GQ5tmiDnbc16" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/cylinder.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/ptv33J" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/YHei0w" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/cylinder.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -375,9 +375,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：6&lt;br /&gt;
 繪製：鄭弘暉&lt;br /&gt;
 學號：40323155&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/f7ibiXkQCv7o5tm5A" width="600" height="158"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/Cg6zq3vazP9oQxQm6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/handle.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/iktEML" width="600" height="158"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/jN5jqt" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/handle.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -385,9 +385,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：7&lt;br /&gt;
 繪製：賴武辰&lt;br /&gt;
 學號：40323156&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/Ya9oZyySMbMuUAEx7" width="600" height="450"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/9KxSvMPGsyKg16KT8" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/hinge.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/UojFpd" width="600" height="450"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/9KpIwX" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/hinge.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -395,9 +395,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：8&lt;br /&gt;
 繪製：黃健華&lt;br /&gt;
 學號：40323147&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/SMFVe5dqqDAMxAtdA" width="600" height="319"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/C179M9bernTzm84V6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/piston.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/M7ZyE9" width="600" height="319"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/rIvtG1" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/piston.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -405,23 +405,23 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 繪製：40323133
 
-&lt;iframe src="https://goo.gl/photos/749pY94Fj86SWRWUA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/53Lgkt" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323147
 
-&lt;iframe src="https://goo.gl/photos/Lb9RHWDwgi1Jh4TZA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/dKVnnb" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323152
 
-&lt;iframe src="https://goo.gl/photos/8ko2Whry9ymWUKhy5" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/cEl0Sp" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323155
 
-&lt;iframe src="https://goo.gl/photos/5jH3CtWBiTkHwfQM9" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/xxvm9E" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323156
 
-&lt;iframe src="https://goo.gl/photos/SeGv13vVLwajgT5m7" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/QmUHNI" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -458,7 +458,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 零件繪製：
 
-&lt;img src="https://goo.gl/photos/9WTC1L85J3666N5S6" width="600" height="430"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;img src="https://goo.gl/A0lrtQ" width="600" height="430"&gt;&lt;/a&gt;&lt;br /&gt;
 
 &lt;hr&gt;
 
@@ -466,9 +466,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：1&lt;br /&gt;
 繪製：賴武辰&lt;br /&gt;
 學號：40323156&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/7g5ANKq9Ht2DC8z27" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://player.vimeo.com/video/148461711" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/QBw4xA" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/m9syVT" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/adjuster_base.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -476,9 +476,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：2&lt;br /&gt;
 繪製：張庭豪&lt;br /&gt;
 學號：40323133&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/8Jh2QBF2jh8SFW276" width="600" height="240"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/xXMN5ydpJoazqBECA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/5tdKEK" width="600" height="240"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/8xuSCe" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/adjuster.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -486,9 +486,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：3&lt;br /&gt;
 繪製：黃健華&lt;br /&gt;
 學號：40323147&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/zH1UYfSwujVUo7rcA" width="600" height="194"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/3B12WP4fNa7b1zh18" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/c633Ky" width="600" height="194"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/sP97NT" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/base.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -496,9 +496,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：4&lt;br /&gt;
 繪製：張庭豪&lt;br /&gt;
 學號：40323133&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/15nU8BRLoUvCviX97" width="600" height="400"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/pGuTsXHydVfkgkiX6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/YBYRN9" width="600" height="400"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/Qd0TCH" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/connection.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -506,9 +506,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：5&lt;br /&gt;
 繪製：廖子誠&lt;br /&gt;
 學號：40323152&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/7YE3G6McrTqM7urm6" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/ErBe3GQ5tmiDnbc16" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/ptv33J" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/YHei0w" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/cylinder.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -516,9 +516,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：6&lt;br /&gt;
 繪製：鄭弘暉&lt;br /&gt;
 學號：40323155&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/f7ibiXkQCv7o5tm5A" width="600" height="158"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/Cg6zq3vazP9oQxQm6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/iktEML" width="600" height="158"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/jN5jqt" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/handle.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -526,9 +526,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：7&lt;br /&gt;
 繪製：賴武辰&lt;br /&gt;
 學號：40323156&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/Ya9oZyySMbMuUAEx7" width="600" height="450"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/9KxSvMPGsyKg16KT8" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/UojFpd" width="600" height="450"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/9KpIwX" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/hinge.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -536,9 +536,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：8&lt;br /&gt;
 繪製：黃健華&lt;br /&gt;
 學號：40323147&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/SMFVe5dqqDAMxAtdA" width="600" height="319"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/C179M9bernTzm84V6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/M7ZyE9" width="600" height="319"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/rIvtG1" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/piston.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -546,23 +546,23 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 繪製：40323133
 
-&lt;iframe src="https://goo.gl/photos/749pY94Fj86SWRWUA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/53Lgkt" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323147
 
-&lt;iframe src="https://goo.gl/photos/Lb9RHWDwgi1Jh4TZA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/dKVnnb" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323152
 
-&lt;iframe src="https://goo.gl/photos/8ko2Whry9ymWUKhy5" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/cEl0Sp" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323155
 
-&lt;iframe src="https://goo.gl/photos/5jH3CtWBiTkHwfQM9" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/xxvm9E" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323156
 
-&lt;iframe src="https://goo.gl/photos/SeGv13vVLwajgT5m7" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/QmUHNI" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
@@ -599,7 +599,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 零件繪製：
 
-&lt;img src="https://goo.gl/photos/9WTC1L85J3666N5S6" width="600" height="430"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;img src="https://goo.gl/A0lrtQ" width="600" height="430"&gt;&lt;/a&gt;&lt;br /&gt;
 
 &lt;hr&gt;
 
@@ -607,9 +607,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：1&lt;br /&gt;
 繪製：賴武辰&lt;br /&gt;
 學號：40323156&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/7g5ANKq9Ht2DC8z27" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://player.vimeo.com/video/148461711" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/QBw4xA" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/m9syVT" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/adjuster_base.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -617,9 +617,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：2&lt;br /&gt;
 繪製：張庭豪&lt;br /&gt;
 學號：40323133&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/8Jh2QBF2jh8SFW276" width="600" height="240"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/xXMN5ydpJoazqBECA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/5tdKEK" width="600" height="240"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/8xuSCe" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/adjuster.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -627,9 +627,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：3&lt;br /&gt;
 繪製：黃健華&lt;br /&gt;
 學號：40323147&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/zH1UYfSwujVUo7rcA" width="600" height="194"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/3B12WP4fNa7b1zh18" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/c633Ky" width="600" height="194"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/sP97NT" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/base.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -637,9 +637,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：4&lt;br /&gt;
 繪製：張庭豪&lt;br /&gt;
 學號：40323133&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/15nU8BRLoUvCviX97" width="600" height="400"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/pGuTsXHydVfkgkiX6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/YBYRN9" width="600" height="400"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/Qd0TCH" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/connection.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -647,9 +647,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：5&lt;br /&gt;
 繪製：廖子誠&lt;br /&gt;
 學號：40323152&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/7YE3G6McrTqM7urm6" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/ErBe3GQ5tmiDnbc16" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/ptv33J" width="600" height="500"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/YHei0w" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/cylinder.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -657,9 +657,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：6&lt;br /&gt;
 繪製：鄭弘暉&lt;br /&gt;
 學號：40323155&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/f7ibiXkQCv7o5tm5A" width="600" height="158"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/Cg6zq3vazP9oQxQm6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/iktEML" width="600" height="158"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/jN5jqt" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/handle.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -667,9 +667,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：7&lt;br /&gt;
 繪製：賴武辰&lt;br /&gt;
 學號：40323156&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/Ya9oZyySMbMuUAEx7" width="600" height="450"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/9KxSvMPGsyKg16KT8" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/UojFpd" width="600" height="450"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/9KpIwX" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/hinge.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -677,9 +677,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 件號：8&lt;br /&gt;
 繪製：黃健華&lt;br /&gt;
 學號：40323147&lt;br /&gt;
-&lt;img src="https://goo.gl/photos/SMFVe5dqqDAMxAtdA" width="600" height="319"&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;iframe src="https://goo.gl/photos/C179M9bernTzm84V6" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/gh-pages/parts/adjuster.stl"&gt;&lt;/script&gt;
+&lt;img src="https://goo.gl/M7ZyE9" width="600" height="319"&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;iframe src="https://goo.gl/rIvtG1" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;script src="https://embed.github.com/view/3d/2015fallhw/2015fallcadpa/gh-pages/user/40323133/parts/piston.stl"&gt;&lt;/script&gt;
 
 &lt;hr&gt;
 
@@ -687,23 +687,23 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 繪製：40323133
 
-&lt;iframe src="https://goo.gl/photos/749pY94Fj86SWRWUA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/53Lgkt" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323147
 
-&lt;iframe src="https://goo.gl/photos/Lb9RHWDwgi1Jh4TZA" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/dKVnnb" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323152
 
-&lt;iframe src="https://goo.gl/photos/8ko2Whry9ymWUKhy5" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/cEl0Sp" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323155
 
-&lt;iframe src="https://goo.gl/photos/5jH3CtWBiTkHwfQM9" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/xxvm9E" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 繪製：40323156
 
-&lt;iframe src="https://goo.gl/photos/SeGv13vVLwajgT5m7" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://goo.gl/QmUHNI" width="600" height="338" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
