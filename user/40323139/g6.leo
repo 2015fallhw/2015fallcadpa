@@ -31,8 +31,6 @@
 <v t="leo.20151121095422.3"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151121095422.4" a="E"><vh>@path content</vh>
 <v t="leo.20151121095422.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20151121095422.6"><vh>@edit 9999_cp_w1.md</vh></v>
-<v t="leo.20151121105926.1"><vh>@edit 9999_cp_w2.md</vh></v>
 </v>
 </v>
 <v t="leo.20151210143156.1" a="E"><vh>@path ./../../</vh>
@@ -43,26 +41,17 @@
 </v>
 <v t="leo.20151210143206.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151210143206.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151210145146.1" a="E"><vh>@clean g6_w11_1.md</vh>
-<v t="leo.20151210145146.2"><vh>其他內容</vh></v>
+<v t="leo.20160113200755.1" a="E"><vh>@clean g6_w11_1.md</vh>
+<v t="leo.20160113200755.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151210155148.1" a="E"><vh>@clean g6_w12_1.md</vh>
-<v t="leo.20151210155148.2"><vh>其他內容</vh></v>
+<v t="leo.20160113200802.1" a="E"><vh>@clean g6_w12_1.md</vh>
+<v t="leo.20160113200802.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151210160036.1" a="E"><vh>@clean g6_w13_1.md</vh>
-<v t="leo.20151210160036.2"><vh>其他內容</vh></v>
+<v t="leo.20160113200811.1" a="E"><vh>@clean g6_w13_1.md</vh>
+<v t="leo.20160113200811.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151231140716.1" a="E"><vh>@clean g6_w14_1.md</vh>
-<v t="leo.20151231142439.1"><vh>其他內容</vh></v>
-</v>
-<v t="leo.20151231140719.1" a="E"><vh>@clean g6_w15_1.md</vh>
-<v t="leo.20151231142517.1"><vh>其他內容</vh></v>
-</v>
-<v t="leo.20151231140720.1" a="E"><vh>@clean g6_w16_1.md</vh>
-<v t="leo.20151231142541.1"><vh>其他內容</vh></v>
-</v>
-<v t="leo.20151231141029.1" a="E"><vh>@clean g6_w17_1.md</vh>
-<v t="leo.20151231142551.1"><vh>其他內容</vh></v>
+<v t="leo.20160113200818.1" a="E"><vh>@clean g6_w14_1.md</vh>
+<v t="leo.20160113200818.2"><vh>其他內容</vh></v>
 </v>
 </v>
 <v t="leo.20160106135350.2" a="E"><vh>Recovered Nodes</vh>
@@ -278,1120 +267,6 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151210143156.3"></t>
 <t tx="leo.20151210143206.1"></t>
 <t tx="leo.20151210143206.2"></t>
-<t tx="leo.20151210145146.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W11  報告 
-Date: 2015-11-26 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w11_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20151210145146.2">以下為組員介紹
-組員：&lt;br /&gt;
-吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
-姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
-洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
-陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
-陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
-劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
-&lt;hr/&gt;
-
-以下為相關工作報告資料&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件1： ADJUSTER_BASE  負責人：40323115&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323139/group&gt;
-
-&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20adjuster_base.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件2： ADJUSTER  負責人：40323127&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323139/group&gt;
-
-&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20aduster.stl"&gt;&lt;/script&gt;
-
-
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件3： BASE  負責人：40323139&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323139/group&gt;
-
-&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20Part%201.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DoFdde9bPik" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件4： CONNECTION  負責人：40323141&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323139/group&gt;
-
-&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20connection.stl"&gt;&lt;/script&gt;
-
-
-&lt;p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/VKZkncyG58Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件5： CYLINDER  負責人：40323125&lt;/span&gt; 
-
-零件檔案位於:&lt;https://github.com/40323139/group&gt;
-
-&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20cylinder.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件6： HANDLE  負責人：40323153&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323139/group&gt;
-
-&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20handle.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/151216661" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件7： HINGE  負責人：40323139&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323139/group&gt;
-
-&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20Part%201%20(1).stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Apfxee816pE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件8： PISTON  負責人：40323127&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323139/group&gt;
-
-&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20piston.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-
-
-
-</t>
-<t tx="leo.20151210155148.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W12  報告
-Date: 2015-12-03 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w12_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20151210155148.2">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
-曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
-廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
-馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
-楊宗祐  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323148/"&gt;40323148&lt;/a&gt;&lt;br /&gt;
-
-&lt;hr/&gt;
-
-以下為相關工作報告資料&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件1： ADJUSTER_BASE  負責人：40323148&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
-
-&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/adjuster-base1.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件2： ADJUSTER  負責人：40323148&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
-
-&lt;img src="https://copy.com/pKaZTquStVwKWCpV"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/FvVXuWvJJImMzVf9"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/S3xudB1Vf3ZgrTvk"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/euzcEQQGLK6EuQVO"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CBWAhZwDrWiNvgM8"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/adjuster1.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件3： BASE  負責人：40323105&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
-
-&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/base2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件4： CONNECTION  負責人：40323105&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
-
-&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/connection2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件5： CYLINDER  負責人：40323106&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323106&gt;
-
-&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323106/40323106_cylinder.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150781188" width="500" height="294" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件6： HANDLE  負責人：40323106&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323106&gt;
-
-&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323106/40323106-handle.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150770345" width="500" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件7： HINGE  負責人：40323107&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323107&gt;
-
-&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/HANDLE_6.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件8： PISTON  負責人：40323107&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323107&gt;
-
-&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/HANDLE_6.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;機構組裝&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;負責人：40323146&lt;/span&gt; 
-
-&lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;
-
-&lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/fix-2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-
-</t>
-<t tx="leo.20151210160036.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W13  報告
-Date: 2015-12-10 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w13_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20151210160036.2">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
-曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
-廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
-馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
-楊宗祐  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323148/"&gt;40323148&lt;/a&gt;&lt;br /&gt;
-
-&lt;hr/&gt;
-
-以下為相關工作報告資料&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件1： ADJUSTER_BASE  負責人：40323146&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323146&gt;
-
-&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/adjuster-base1.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件2： ADJUSTER  負責人：40323146&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323146&gt;
-
-&lt;img src="https://copy.com/pKaZTquStVwKWCpV"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/FvVXuWvJJImMzVf9"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/S3xudB1Vf3ZgrTvk"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/euzcEQQGLK6EuQVO"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CBWAhZwDrWiNvgM8"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
-
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/adjuster1.stl"&gt;&lt;/script&gt;
-
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件3： BASE  負責人：40323148&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
-
-&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/base2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件4： CONNECTION  負責人：40323148&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
-
-&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
-
-&lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/connection2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件5： CYLINDER  負責人：40323105&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
-
-&lt;img src="https://copy.com/2nhhhCj8uIDJfxlX"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/iOGyRlkyYbW62bti"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/bTkHJ3rPY93TblSZ"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/8CiB1JYbvqwpo6Xv"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/XmDmZPPB8Gsrqzmg"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/poeISZJfi96AxufZ"&gt;&lt;/img&gt;
-
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/cylinder2.stl"&gt;&lt;/script&gt;
-
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件6： HANDLE  負責人：40323105&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/4032315&gt;
-
-&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/handle2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件7： HINGE  負責人：40323106&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323106&gt;
-
-&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323106/40323106_hinge.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150780011" width="500" height="272" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件8： PISTON  負責人：40323106&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323106&gt;
-
-&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323106/40323106-piston.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150780013" width="500" height="297" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;機構組裝&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;負責人：40323107&lt;/span&gt; 
-
-&lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;
-
-&lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/fix-2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-
-</t>
-<t tx="leo.20151231140716.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W14  報告
-Date: 2015-12-17 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w14_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20151231140719.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W15  報告 
-Date: 2015-12-24 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w15_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20151231140720.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W16  報告
-Date: 2015-12-31 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w16_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20151231141029.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W17  報告
-Date: 2016-01-07 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w17_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20151231142439.1">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
-曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
-廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
-馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
-楊宗祐  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323148/"&gt;40323148&lt;/a&gt;&lt;br /&gt;
-
-&lt;hr/&gt;
-
-以下為相關工作報告資料&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件1： ADJUSTER_BASE  負責人：40323107&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323107&gt;
-
-&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/adjuster-base1.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件2： ADJUSTER  負責人：40323107&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323107&gt;
-
-&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/adjuster1.stl"&gt;&lt;/script&gt;
-
-零件繪製流程：&lt;br /&gt;
-
-&lt;img src="https://copy.com/pKaZTquStVwKWCpV"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/FvVXuWvJJImMzVf9"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/S3xudB1Vf3ZgrTvk"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/euzcEQQGLK6EuQVO"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CBWAhZwDrWiNvgM8"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件3： BASE  負責人：40323146&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323146&gt;
-
-&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/base2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件4： CONNECTION  負責人：40323146&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323146&gt;
-
-&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
-
-&lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/connection2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件5： CYLINDER  負責人：40323148&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
-
-&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/CYLINDER_5.5.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件6： HANDLE  負責人：40323148&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
-
-&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323148/HANDLE_6.STL"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件7： HINGE  負責人：40323105&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
-
-&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/hinge2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件8： PISTON  負責人：40323105&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323105&gt;
-
-&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/piston2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;機構組裝&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;負責人：40323106&lt;/span&gt; 
-
-&lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;
-
-&lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323106/40323106-asm.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150563381" width="500" height="288" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-
-</t>
-<t tx="leo.20151231142517.1">以下為組員介紹
-組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
-曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
-廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
-馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
-楊宗祐  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323148/"&gt;40323148&lt;/a&gt;&lt;br /&gt;
-
-&lt;hr/&gt;
-
-以下為相關工作報告資料&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件1： ADJUSTER_BASE  負責人：40323106&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323106&gt;
-
-&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323106/40323106-base.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150780012" width="500" height="297" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件2： ADJUSTER  負責人：40323106&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323106&gt;
-
-&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
-
-&lt;img src="https://copy.com/pKaZTquStVwKWCpV"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/FvVXuWvJJImMzVf9"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/S3xudB1Vf3ZgrTvk"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/euzcEQQGLK6EuQVO"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CBWAhZwDrWiNvgM8"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
-
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323106/40323106-adjust.stl"&gt;&lt;/script&gt;
-
-&lt;br /&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150782311" width="500" height="297" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-&lt;/p&gt;
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件3： BASE  負責人：40323107&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323107&gt;
-
-&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/base2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件4： CONNECTION  負責人：40323107&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323107&gt;
-
-&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
-
-&lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/connection2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件5： CYLINDER  負責人：40323146&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323146&gt;
-
-&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/CYLINDER_5.5.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件6： HANDLE  負責人：403231046&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323146&gt;
-
-&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323146/HANDLE_6.STL"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件7： HINGE  負責人：40323148&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
-
-&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/HANDLE_6.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件8： PISTON  負責人：40323148&lt;/span&gt; 
-
-零件檔案位於: &lt;https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323148&gt;
-
-&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/HANDLE_6.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;機構組裝&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;負責人：40323105&lt;/span&gt; 
-
-&lt;img src="https://copy.com/8iXBQF8cJhyxGQ8y"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/d0NoizYwAbrgnmkj"&gt;&lt;/img&gt;
-
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/fix-2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148455279" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-&lt;iframe src="https://player.vimeo.com/video/148455280" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-&lt;iframe src="https://player.vimeo.com/video/148455283" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-&lt;iframe src="https://player.vimeo.com/video/148455282" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-&lt;iframe src="https://player.vimeo.com/video/148455281" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-&lt;iframe src="https://player.vimeo.com/video/148455284" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-&lt;iframe src="https://player.vimeo.com/video/148455286" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-
-&lt;/p&gt;
-
-</t>
-<t tx="leo.20151231142541.1">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
-曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
-廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
-馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
-楊宗祐  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323148/"&gt;40323148&lt;/a&gt;&lt;br /&gt;
-
-&lt;hr/&gt;
-
-以下為相關工作報告資料&lt;br /&gt;
-
-&lt;hr/&gt;
-
-這週主要是針對 Onshape軟體，所以請組員將各自的零件影片上傳至下方。&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;零件繪製影片&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-&lt;br /&gt;
-
-By：40323106
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oyDG8a9rIbA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k2pFB36Ao7A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-By：40323146
-&lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-By：40323105
-&lt;iframe src="https://player.vimeo.com/video/150013185" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-&lt;iframe src="https://player.vimeo.com/video/150013184" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-By：40323107
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;  
-
-&lt;br /&gt;
-
-這週主要是針對 Onshape軟體，所以請組員將各自的組裝影片上傳至下方。&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;機構組裝影片&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-&lt;br /&gt;
-
-By：40323105
-&lt;iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-
-
-By：40323106
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JEPgzA5JaqE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-
-By：40323107
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-By：40323146
-&lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-
-By：40323148
-&lt;iframe src="https://player.vimeo.com/video/150393214" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-
-</t>
-<t tx="leo.20151231142551.1">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行
-
-以下可以引入 reveal.js 投影片
-
-可以引入 vimeo 影片
-
-可以導入組員的 Jupyter notebook
-
-也可以加入其他 html 格式或 md 格式的心得報告
-
-有關此一測試的詳細內容, 請參考 user/9999/9999.leo 檔案中的節點配置
-
-基本的工作模式:
-
-&lt;ol&gt;
-
-&lt;li&gt;可以直接在 user 目錄下各組員的 leo 檔案中, 建立外部目錄 pelican/content 中的 md 檔案&lt;/li&gt;
-&lt;li&gt;唯一要注意的就是, 各組各週的分組報告 .md 名稱與 slug 設定, 不能互相覆寫&lt;/li&gt;
-&lt;li&gt;透過將 Jupyter 在 content/notebook/g9999 中啟動, 分組報告可以直接引用各組員所建立的 Notebook 報告檔案內容
-&lt;li&gt; 各組分別完成各週的分組報告 .md 檔案後, 必須記得點按 admin pelican button, 以便產生對應的網誌內容, 否則 .md 內容不會出現在全班的 gh-pages 網誌中&lt;/li&gt;
-
-&lt;/ol&gt;
-
-當 git pull origin gh-pages 之後, 該如何解決遠端拉下的版本與近端的版本衝突?
-
-&lt;ol&gt;
-
-&lt;li&gt;先檢查所有檔案中有7個小於符號的衝突標示字串的內容, 假入在 windows, 利用 grepwin, 假如在 Linux 使用 grep -r "查詢字串"&lt;/li&gt;
-&lt;li&gt;假如所有衝突都在 .html 檔案, 只要 git pull origin gh-pages 之後 ,取得近端沒有的 .md 檔案, 再執行一次 pelican 轉檔的指令 (也就是再按一次 admin-pelican 後, 再檢查是否所有 衝突標示內容都已經消失&lt;/li&gt;
-&lt;li&gt; 確定所有 .leo 與 html 檔案內容都無衝突, 且 .leo 檔案節點可以正確開啟後, 就可以將端的版本推向遠端&lt;/li&gt;
-
-&lt;/ol&gt;
-
-以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
-
-零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
-
-使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
-
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
-
-&lt;br /&gt;
-以下利用 Brython 語法, 在網頁繪圖:
-
-使用方法: &lt;http://www.brython.info/&gt;
-
-&lt;!-- 導入 brython_dist.js --&gt;
-&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
-&lt;!-- 啟動 brython() --&gt;
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
-&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
-&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
-&lt;script type="text/python3"&gt;
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-flag_w = canvas.width
-flag_h = canvas.height
-circle_x = flag_w/4
-circle_y = flag_h/4
-# 先畫滿地紅
-ctx.fillStyle='rgb(255, 0, 0)'
-ctx.fillRect(0,0,flag_w,flag_h)
-# 再畫青天
-ctx.fillStyle='rgb(0, 0, 150)'
-ctx.fillRect(0,0,flag_w/2,flag_h/2)
-# 畫十二道光芒白日
-ctx.beginPath()
-star_radius = flag_w/8
-angle = 0
-for i in range(24):
-    angle += 5*math.pi*2/12
-    toX = circle_x + math.cos(angle)*star_radius
-    toY = circle_y + math.sin(angle)*star_radius
-    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
-    if (i):
-        ctx.lineTo(toX, toY)
-    else:
-        ctx.moveTo(toX, toY)
-ctx.closePath()
-# 將填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-# 白日:藍圈
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為藍色
-ctx.fillStyle = 'rgb(0, 0, 149)'
-ctx.fill()
-# 白日:白心
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-&lt;/script&gt;
-</t>
 <t tx="leo.20160106135350.2"></t>
 <t tx="leo.20160106135350.3">(uncached) leo.20151210145146.2
 Diff...
@@ -1937,6 +812,512 @@ Diff...
 &lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
+
+
+</t>
+<t tx="leo.20160113200755.1">@language md
+Title: 2015 電腦輔助設計實習 CADPA G6  W11  CREO零件
+Date: 2015-11-26 13:30
+Category: G6
+Tags: leo editor 應用
+Slug: g6_w11_1
+Authors: G6
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="leo.20160113200755.2">以下為組員介紹
+組員：&lt;br /&gt;
+吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
+姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
+洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
+陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
+陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
+劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
+&lt;hr/&gt;
+
+以下為相關工作報告資料&lt;br /&gt;
+
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+
+&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件1： ADJUSTER_BASE  負責人：40323115&lt;/span&gt;
+ 
+&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件2： ADJUSTER  負責人：40323127&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20aduster.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vi7nGuVrn9o" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件3： BASE  負責人：40323139&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20Part%201.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DoFdde9bPik" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件4： CONNECTION  負責人：40323141&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20connection.stl"&gt;&lt;/script&gt;
+
+
+&lt;p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/VKZkncyG58Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件5： CYLINDER  負責人：40323125&lt;/span&gt; 
+
+零件檔案位於:&lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20cylinder.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Lf1ZflXQrYY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件6： HANDLE  負責人：40323153&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20handle.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/151216661" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件7： HINGE  負責人：40323139&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20Part%201%20(1).stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Apfxee816pE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件8： PISTON  負責人：40323127&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20piston.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/zReh_eMk8qs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+
+
+
+</t>
+<t tx="leo.20160113200802.1">@language md
+Title: 2015 電腦輔助設計實習 CADPA G6  W12  CREO 組合
+Date: 2015-12-03 13:30
+Category: G6
+Tags: leo editor 應用
+Slug: g6_w12_1
+Authors: G6
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="leo.20160113200802.2">以下為組員介紹
+組員：&lt;br /&gt;
+吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
+姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
+洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
+陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
+陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
+劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
+&lt;hr/&gt;
+
+以下為相關工作報告資料&lt;br /&gt;
+
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+
+&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+1.Creo組合圖  負責人：40323115&lt;/span&gt; 
+
+
+&lt;p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/R-Fmh3r40xs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+2.Creo組合圖   負責人：40323125&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vxb9xmOZeTA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+3.Creo組合圖  負責人：40323127&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/UHFxRtjUvPY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+4.Creo組合圖  負責人：40323139&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Jg_vneAQlgc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+5.Creo組合圖  負責人：40323141&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FdydCM4RtpQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+6.Creo組合圖 負責人：40323153&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/5-kzG6XvEpc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+
+</t>
+<t tx="leo.20160113200811.1">@language md
+Title: 2015 電腦輔助設計實習 CADPA G6  W13  ONSHAPE 零件
+Date: 2015-12-10 13:30
+Category: G6
+Tags: leo editor 應用
+Slug: g6_w13_1
+Authors: G6
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="leo.20160113200811.2">以下為組員介紹
+組員：&lt;br /&gt;
+吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
+姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
+洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
+陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
+陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
+劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
+&lt;hr/&gt;
+
+以下為相關工作報告資料&lt;br /&gt;
+
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+
+&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件1： ADJUSTER_BASE  負責人：40323115&lt;/span&gt;
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+ 
+&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20adjuster_base.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/l-ObA31CpdQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件2： ADJUSTER  負責人：40323127&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20aduster.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/mA6uuQUDobo" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件3： BASE  負責人：40323139&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20Part%201.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/UWW_InsFFeQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件4： CONNECTION  負責人：40323141&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20connection.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IrRPXLUFBuA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件5： CYLINDER  負責人：40323125&lt;/span&gt; 
+
+零件檔案位於:&lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20cylinder.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/U_Fe9TmQOSI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件6： HANDLE  負責人：40323153&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20handle.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/151216489" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件7： HINGE  負責人：40323139&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20Part%201%20(1).stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_LiXcz1pMOk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;零件8： PISTON  負責人：40323127&lt;/span&gt; 
+
+零件檔案位於: &lt;https://github.com/40323139/group&gt;
+
+&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323139/group/master/a_g6_nutcracker%20-%20piston.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BJcBk4Y06uI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+
+
+</t>
+<t tx="leo.20160113200818.1">@language md
+Title: 2015 電腦輔助設計實習 CADPA G6  W14  ONSHAPE 組合
+Date: 2015-12-17 13:30
+Category: G6
+Tags: leo editor 應用
+Slug: g6_w14_1
+Authors: G6
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="leo.20160113200818.2">以下為組員介紹
+組員：&lt;br /&gt;
+吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
+姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
+洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
+陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
+陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
+劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
+&lt;hr/&gt;
+
+
+以下為相關工作報告資料&lt;br /&gt;
+
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+
+&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+1.Onshape組合圖  負責人：40323115&lt;/span&gt; 
+
+
+&lt;p&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/R-Fmh3r40xs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+2.Onshape組合圖   負責人：40323125&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jcC17yWJ_zY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+3.Onshape組合圖  負責人：40323127&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pBMQmXwqeSs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+4.Onshape組合圖  負責人：40323139&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7BTVYLt0DVI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+5.Onshape組合圖  負責人：40323141&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_s4eylqc1mU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
+6.Onshape組合圖 負責人：40323153&lt;/span&gt; 
+
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/151209411" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;br /&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
 
 
 </t>
