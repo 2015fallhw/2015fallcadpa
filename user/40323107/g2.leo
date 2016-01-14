@@ -290,7 +290,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20151210145146.2">以下為組員介紹
 組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -316,9 +316,17 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/adjuster-base1.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/iQ0Aa0rm3RTKX4LM"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/PnZEoVMlVC8X6Xz7"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/vBcdUMSBITXSB7Ja"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/BsXjpAAAtm7lm2Jh"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/3Cl8C7MGzn8pbfyd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/AQe4NfFSizI2t30p"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -425,9 +433,15 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/HANDLE_6.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/T0QCTFgjiUWm3TvJ"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/6yyaJTEEzGFySOJy"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Dciwn9R8YL1SEyQl"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/i9NDYDc64KX4Wf91"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/3jZfjhorExwyX66E"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -440,7 +454,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/HANDLE_6.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/149251269" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -456,12 +470,8 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;
 
 &lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/F99NUfaBAgw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/fix-2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
 
 
 
@@ -477,7 +487,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
 <t tx="leo.20151210155148.2">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -504,7 +514,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/adjuster-base1.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/uz_ddzBfAGc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -530,7 +540,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/adjuster1.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/v4-s0MSA6ZQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -547,9 +557,21 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/base2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/tFWrg4zm4iBB2TOS"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/z4OHqchLfj9EF1MV"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/aQEDzzK9UJ3tfXWp"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/YE6MOAWqqqHRpXh0"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/FpXG9qvvvKXwlc0a"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/MDLYXbuyQKATngO8"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Ty8731Ie6WTVGlzb"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/aW1o22o9HHlNFOk3"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -561,9 +583,11 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/connection2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/NSxtlLrF32a9WYMN"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/DrpeOrbz7mQLAqTW"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/8xjM9MSBuGWQyuGv"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -662,7 +686,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
 <t tx="leo.20151210160036.2">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -688,9 +712,18 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/adjuster-base1.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/iQ0Aa0rm3RTKX4LM"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/PnZEoVMlVC8X6Xz7"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/vBcdUMSBITXSB7Ja"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/BsXjpAAAtm7lm2Jh"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/3Cl8C7MGzn8pbfyd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/AQe4NfFSizI2t30p"width="450"height="350"&gt;
+
 
 &lt;br /&gt;
 
@@ -731,7 +764,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/base2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/gWssw3_S_M8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -745,7 +778,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/connection2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/hRpZyt1WtR8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -784,9 +817,19 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/handle2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/WaqT4DCZEWDNqdEd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/MZImRCtTz4J2qwwd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/PJKCqTtT8yL68IwE"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/O48s3BqIx7KpHEzb"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/NxjgbRbB4CxuLBEh"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/OimpsbLzAVRSruMR"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/joBlLgp24jwmB9Un"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -883,7 +926,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
 <t tx="leo.20151231142439.1">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -953,9 +996,21 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/base2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/tFWrg4zm4iBB2TOS"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/z4OHqchLfj9EF1MV"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/aQEDzzK9UJ3tfXWp"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/YE6MOAWqqqHRpXh0"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/FpXG9qvvvKXwlc0a"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/MDLYXbuyQKATngO8"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Ty8731Ie6WTVGlzb"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/aW1o22o9HHlNFOk3"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -968,7 +1023,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/connection2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/149251270" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -986,7 +1041,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/CYLINDER_5.5.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/RWEwGMoKJT0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1000,7 +1055,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323148/HANDLE_6.STL"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/ttjIir3IH1w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1017,9 +1072,15 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/hinge2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/T0QCTFgjiUWm3TvJ"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/6yyaJTEEzGFySOJy"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Dciwn9R8YL1SEyQl"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/i9NDYDc64KX4Wf91"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/3jZfjhorExwyX66E"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -1031,9 +1092,23 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/piston2.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/R8Ujayd4ikshFD8t"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/rQaTiZIHpYtSDk6j"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/XPexMfrmjIp2jVuZ"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/oo4SPETInbb8VaO1"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/hZtU9OpkeVijTJ4J"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/xWWVOF88GzUgkAim"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/g7pu8NvGlCxUPD4D"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/1YuujCehSNzTmxb6"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/Elc4KJh7BEMAAPQQ"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -1059,7 +1134,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20151231142517.1">以下為組員介紹
 組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -1163,9 +1238,18 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/CYLINDER_5.5.stl"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/2nhhhCj8uIDJfxlX"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/iOGyRlkyYbW62bti"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/bTkHJ3rPY93TblSZ"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/8CiB1JYbvqwpo6Xv"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/XmDmZPPB8Gsrqzmg"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/poeISZJfi96AxufZ"&gt;&lt;/img&gt;
+
 
 &lt;br /&gt;
 
@@ -1177,9 +1261,19 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323146/HANDLE_6.STL"&gt;&lt;/script&gt;
 
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;img src="https://copy.com/WaqT4DCZEWDNqdEd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/MZImRCtTz4J2qwwd"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/PJKCqTtT8yL68IwE"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/O48s3BqIx7KpHEzb"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/NxjgbRbB4CxuLBEh"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/OimpsbLzAVRSruMR"width="450"height="350"&gt;
+
+&lt;img src="https://copy.com/joBlLgp24jwmB9Un"width="450"height="350"&gt;
 
 &lt;br /&gt;
 
@@ -1196,8 +1290,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/HANDLE_6.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/uP9XYrBokH4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;br /&gt;
 
@@ -1210,7 +1303,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/HANDLE_6.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/Ko18T8kqEvI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1249,7 +1342,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 </t>
 <t tx="leo.20151231142541.1">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
+莊舜婷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323105/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
 曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
 廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
 馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
@@ -1272,9 +1365,9 @@ By：40323106
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k2pFB36Ao7A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 By：40323146
-&lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/150983578" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 
-&lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/150983371" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 
 By：40323105
 &lt;iframe src="https://player.vimeo.com/video/150013185" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
@@ -1298,12 +1391,27 @@ By：40323107
 &lt;br /&gt;
 
 By：40323105
-&lt;iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+
+&lt;img src="https://copy.com/pf2dhkEa0tv9X4FA"width="550"height="450"&gt;
+
+&lt;img src="https://copy.com/Jgr2vu9tst8mJygP"width="550"height="450"&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/151139137" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;   
+
+&lt;iframe src="https://player.vimeo.com/video/151139139" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;   
+
+&lt;iframe src="https://player.vimeo.com/video/151139141" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;   
+
+&lt;iframe src="https://player.vimeo.com/video/151139142" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;   
+
+&lt;iframe src="https://player.vimeo.com/video/151139140" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;   
+
+&lt;iframe src="https://player.vimeo.com/video/151139138" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 
+   
 By：40323106
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JEPgzA5JaqE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
 
 By：40323107
 &lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -1312,7 +1420,7 @@ By：40323146
 &lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 
 By：40323148
-&lt;iframe src="https://player.vimeo.com/video/150393214" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+
 
 </t>
 <t tx="leo.20151231142551.1">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行

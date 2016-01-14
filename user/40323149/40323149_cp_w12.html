@@ -1,0 +1,93 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號: 40323149"; }</style>
+
+    <section>
+    <p><font size="5" face="Arial"><marquee border="0">版本於 2015 / 12 / 06 更新</marquee></font></p>
+    <br>
+    <br>
+    <h2>四設計二甲</h2>
+    <br>
+    <h3>40323149 楊智堯</h3>
+    <h3>第十二週作業</h3>		
+    </section>
+    
+</section>
+	
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號: 40323149"; }</style>
+    <section>
+    <h3>課程筆記</h3>
+    <hr size="1" align="center" noshade width="100%" color=blue>
+    <p align="left">1.組合零件</p>
+    <br>
+    <p align="left">2.提到要開始建立組別的倉儲</p>
+    <br>
+    </section>
+</section>
+
+
+
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號: 40323149"; }</style>
+
+    <h3>心得與自評</h3>
+    <br>
+    <p>心得:各組成員分工合作,有人畫零件,有的用leo...等，增加效率更快完成。</p>
+    <br>
+    <p>評分 : 70 </p> 
+</section>		
+		
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

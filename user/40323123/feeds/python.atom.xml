@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-28T14:21:00+08:00</updated><entry><title>2015 協同產品設計實習 作業十五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-28T14:21:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;iframe src="40323123_cp_w15.html" width="550" height="350"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323123 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/python.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-07T14:21:00+08:00</updated><entry><title>2015 協同產品設計實習 作業十六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2016-01-07T14:21:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2016-01-07:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;iframe src="40323123_cp_w16.html" width="550" height="350"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323123_cp_w16.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;影片&lt;/h1&gt;
+&lt;p&gt;Onsharp 組裝NutCracker&lt;/p&gt;
+&lt;p&gt;繪畫&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NLB5bWwCeQk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;組裝
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a5ojyUFkaKQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業十五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2015-12-28T14:21:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-28:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;iframe src="40323123_cp_w15.html" width="550" height="350"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40323123_cp_w15.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;影片&lt;/h1&gt;
@@ -8,31 +17,31 @@
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NLB5bWwCeQk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;組裝
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a5ojyUFkaKQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業十三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-21T14:21:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;iframe src="40323123_cp_w13.html" width="550" height="350"&gt;&lt;/iframe&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/a5ojyUFkaKQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業十三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-21T14:21:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;iframe src="40323123_cp_w13.html" width="550" height="350"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40323123_cp_w13.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;影片&lt;/h1&gt;
 &lt;p&gt;Onsharp 畫Nutcracker&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/149629430" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/149629430"&gt;onsharp&lt;/a&gt; from &lt;a href="https://vimeo.com/user32373864"&gt;Roger&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業十二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-18T14:21:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-18:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;iframe src="40323123_cp_w12.html" width="550" height="350"&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/149629430"&gt;onsharp&lt;/a&gt; from &lt;a href="https://vimeo.com/user32373864"&gt;Roger&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業十二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-18T14:21:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-18:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;iframe src="40323123_cp_w12.html" width="550" height="350"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40323123_cp_w12.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;影片&lt;/h1&gt;
 &lt;p&gt;組裝creo 和畫Nutcracker&lt;/p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/B8uHAN1Y6E4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業十一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-17T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/B8uHAN1Y6E4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業十一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-17T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
 &lt;p&gt;修理fix檔案和猜數字&lt;/p&gt;
 &lt;iframe src="40323123_cp_w11.html" width="550" height="350"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40323123_cp_w11.html" target="_blank"&gt;投影片放大&lt;/a&gt;&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qIBHPLdwU1s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業七</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-29T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-29:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Otl0EKJ9oYw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;h1&gt;Delta 3d printer&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/qIBHPLdwU1s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業七</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-10-29T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-29:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Otl0EKJ9oYw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w6.html" rel="alternate"></link><updated>2015-10-22T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-22:reveal/2015cp_hw_w6.html</id><summary type="html">&lt;h1&gt;Delta 3d printer&lt;/h1&gt;
 &lt;p&gt;零件圖檔&lt;/p&gt;
 &lt;p&gt;目前正在將solid work 板以及設定&lt;/p&gt;
 &lt;p&gt;運動模型&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/144231952" width="500" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/144231952"&gt;delta 3d printer&lt;/a&gt; from &lt;a href="https://vimeo.com/user32373864"&gt;Roger&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h1&gt;組裝Atom 2.0&lt;/h1&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/144231952"&gt;delta 3d printer&lt;/a&gt; from &lt;a href="https://vimeo.com/user32373864"&gt;Roger&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w5.html" rel="alternate"></link><updated>2015-10-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-15:reveal/2015cp_hw_w5.html</id><summary type="html">&lt;h1&gt;組裝Atom 2.0&lt;/h1&gt;
 &lt;p&gt;atom2.0  為市面上用open source 軟硬件改出來的機台。
 組裝地點:8F kmol 實驗室&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/0f0lHHuIxVKm8dsF" width="500" alt="零件打開照片"&gt;&lt;/img&gt;&lt;/p&gt;
@@ -41,7 +50,7 @@
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/144153346"&gt;atom assembly&lt;/a&gt; from &lt;a href="https://vimeo.com/user32373864"&gt;Roger&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;心得:
     心得:
-    一般實習課程，除了有理論課程，當然實做也是必要的，'當我們在組機台時，發現到工具有所不足，像是一般的套筒板手，或者是悍錫都有點少，而在製作一些零組件時，需要的膠水或者是螺絲，也因為這樣，就算有了Arduino但是周邊可以搭配的東西，卻很少，可能材料都要找對面拿，相對比較麻煩。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-08T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;h1&gt;Ubuntu&lt;/h1&gt;
+    一般實習課程，除了有理論課程，當然實做也是必要的，'當我們在組機台時，發現到工具有所不足，像是一般的套筒板手，或者是悍錫都有點少，而在製作一些零組件時，需要的膠水或者是螺絲，也因為這樣，就算有了Arduino但是周邊可以搭配的東西，卻很少，可能材料都要找對面拿，相對比較麻煩。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w4.html" rel="alternate"></link><updated>2015-10-08T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-08:reveal/2015cp_hw_w4.html</id><summary type="html">&lt;h1&gt;Ubuntu&lt;/h1&gt;
 &lt;p&gt;一套開源的作業系統，被大家公認為安全性極高的作業系統，可惜的是許多軟體不支援。
 因為許多的server是基於Unix系統，在開發上也比較快
 Nginx&lt;/p&gt;
@@ -75,7 +84,7 @@ sudo reboot
 &lt;p&gt;推完後可以得到這個畫面&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/nx0gH9D8WaDmJBtt" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;心得:
-    Ubuntu 是三大系統中其中的一環，和windows mac一樣，都是許多人使用的作業系統，裝了desktop，雖然可以用滑鼠，但是還是建議大家，背一點指令，會對未來大家使用比較方便且實用，因為不像windows有使用者,權限，雖然可以設定但不建議大家使用，因為權限跑掉，最壞的情況有可能要從灌電腦。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-01T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-01:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;h1&gt;Solvespace&lt;/h1&gt;
+    Ubuntu 是三大系統中其中的一環，和windows mac一樣，都是許多人使用的作業系統，裝了desktop，雖然可以用滑鼠，但是還是建議大家，背一點指令，會對未來大家使用比較方便且實用，因為不像windows有使用者,權限，雖然可以設定但不建議大家使用，因為權限跑掉，最壞的情況有可能要從灌電腦。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-10-01T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-10-01:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;h1&gt;Solvespace&lt;/h1&gt;
 &lt;p&gt;SolveSpace是一個開源的2D和3D CAD（計算機輔助設計）方案。它是一個基於約束的參數化建模與簡單的機械模擬功能。&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;  作業
 &lt;/pre&gt;&lt;/div&gt;
@@ -110,7 +119,7 @@ git push origin gh-pages
 &lt;p&gt;推完後可以得到這個畫面&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/rGRWsyJDktPVSxRs" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;心得:
-    Solvespace和一般我們學習的大型3D繪圖軟體截然不同，他沒有很直覺化的設計，也許是我們使用別套軟體造成習慣了，因為說明是英文，所以對我們也是一大挑戰，還是要去看懂英文，才會學習得更快，資料也比較新。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-24T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-09-24:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;h1&gt;Git 協同倉儲&lt;/h1&gt;
+    Solvespace和一般我們學習的大型3D繪圖軟體截然不同，他沒有很直覺化的設計，也許是我們使用別套軟體造成習慣了，因為說明是英文，所以對我們也是一大挑戰，還是要去看懂英文，才會學習得更快，資料也比較新。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-24T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-09-24:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;h1&gt;Git 協同倉儲&lt;/h1&gt;
 &lt;p&gt;123
 &lt;em&gt;git 是一種指令，用在做協同倉儲
 &lt;/em&gt;git 可以自己建立伺服器做管理或者是使用網路上github開源空間
@@ -150,7 +159,7 @@ git push origin gh-pages
 &lt;p&gt;推完後可以得到這個畫面&lt;/p&gt;
 &lt;p&gt;&lt;img src="https://copy.com/zOjUEwod6Euvv8aK" width="500" alt="完成後的照片"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;心得:
-    下學期一開始就來個震撼彈，一個完全新的東西，但是還是在繞著github中，以後交作業也比較輕鬆，不需要再從新來一次了，可以直接在網路上看到我們所作的成果。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-09-15:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+    下學期一開始就來個震撼彈，一個完全新的東西，但是還是在繞著github中，以後交作業也比較輕鬆，不需要再從新來一次了，可以直接在網路上看到我們所作的成果。&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry><entry><title>2015 協同產品設計實習 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-15T14:20:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-09-15:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="40323123_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -262,4 +271,4 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="G7"></category></entry></feed>

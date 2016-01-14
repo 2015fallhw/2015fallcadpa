@@ -4,7 +4,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>2015 電腦輔助設計實習 CADPa W12 g7.leo 測試 &mdash; 2015FALL CADPA 作業主頁</title>
+  <title>2015 電腦輔助設計實習 CADPa W12 g7 修改start位置、fix設定 &mdash; 2015FALL CADPA 作業主頁</title>
   <meta name="author" content="KMOL">
 
 
@@ -51,10 +51,16 @@
         <a href="./category/g2.html">G2</a>
       </li>
       <li >
+        <a href="./category/g3.html">G3</a>
+      </li>
+      <li >
         <a href="./category/g4.html">G4</a>
       </li>
       <li >
         <a href="./category/g5.html">G5</a>
+      </li>
+      <li >
+        <a href="./category/g6.html">G6</a>
       </li>
       <li class="active">
         <a href="./category/g7.html">G7</a>
@@ -66,6 +72,9 @@
         <a href="./category/g9.html">G9</a>
       </li>
       <li >
+        <a href="./category/ping-fen.html">評分</a>
+      </li>
+      <li >
         <a href="./category/python.html">Python</a>
       </li>
 </ul></nav>
@@ -74,41 +83,41 @@
 <div>
   <article class="hentry" role="article">
 <header>
-      <h1 class="entry-title">2015 電腦輔助設計實習 CADPa W12 g7.leo 測試</h1>
+      <h1 class="entry-title">2015 電腦輔助設計實習 CADPa W12 g7 修改start位置、fix設定</h1>
     <p class="meta">
 <time datetime="2015-12-03T13:30:00+08:00" pubdate>週四 03 十二月 2015</time>    </p>
 </header>
 
-  <div class="entry-content"><p>是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行</p>
-<p>以下可以引入 reveal.js 投影片</p>
-<p>可以引入 vimeo 影片</p>
-<p>可以導入組員的 Jupyter notebook</p>
-<p>也可以加入其他 html 格式或 md 格式的心得報告</p>
-<p>有關此一測試的詳細內容, 請參考 user/9999/9999.leo 檔案中的節點配置</p>
-<p>基本的工作模式:</p>
+  <div class="entry-content"><p>修改start.bat檔的pip install pelican Markdown路徑、
+更改啟動jupyter的路徑、
+和新增fix.bat內，在該路徑內新增leo-editor-broke-abbrev。</p>
 <ol>
-
-<li>可以直接在 user 目錄下各組員的 leo 檔案中, 建立外部目錄 pelican/content 中的 md 檔案</li>
-<li>唯一要注意的就是, 各組各週的分組報告 .md 名稱與 slug 設定, 不能互相覆寫</li>
-<li>透過將 Jupyter 在 content/notebook/g9999 中啟動, 分組報告可以直接引用各組員所建立的 Notebook 報告檔案內容
-<li> 各組分別完成各週的分組報告 .md 檔案後, 必須記得點按 admin pelican button, 以便產生對應的網誌內容, 否則 .md 內容不會出現在全班的 gh-pages 網誌中</li>
-
+<li>
+<p>在課程網站中，下載fix.zip壓縮檔。</p>
+</li>
+<li>
+<p>在leo-editor的gitcub下載leo-editor-broke-abbrev.zip壓縮檔，放在fix資料夾。</p>
+</li>
+<li>
+<p>打開\Ana3_lite2\data\SciTE\SciTE.exe</p>
+</li>
+<li>
+<p>SciTE開啟fix.bat，新增copy leo-editor-broke-abbrev C:\Ana3_2015\data\。</p>
+</li>
+<li>
+<p>SciTE開啟start.bat，內容中，啟動Jupyter從原本的notebook，改成tmp內執行。</p>
+</li>
+<li>
+<p>在start.bat檔內，將pip install ( http:/ /140.130.17.17/public/leo-editor-master.zip )
+   改成leo-editor-broke-abbrev.zip。</p>
+</li>
+<li>
+<p>打開fix.bat ，就會依照該路徑、位置進行安裝和執行。</p>
+</li>
 </ol>
+<iframe src="https://player.vimeo.com/video/151209147" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p>當 git pull origin gh-pages 之後, 該如何解決遠端拉下的版本與近端的版本衝突?</p>
-<ol>
-
-<li>先檢查所有檔案中有7個小於符號的衝突標示字串的內容, 假入在 windows, 利用 grepwin, 假如在 Linux 使用 grep -r "查詢字串"</li>
-<li>假如所有衝突都在 .html 檔案, 只要 git pull origin gh-pages 之後 ,取得近端沒有的 .md 檔案, 再執行一次 pelican 轉檔的指令 (也就是再按一次 admin-pelican 後, 再檢查是否所有 衝突標示內容都已經消失</li>
-<li> 確定所有 .leo 與 html 檔案內容都無衝突, 且 .leo 檔案節點可以正確開啟後, 就可以將端的版本推向遠端</li>
-
-</ol>
-
-<p>以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:</p>
-<p>零件檔案位於: <a href="https://github.com/2015fallhw/user9999/tree/master/parts">https://github.com/2015fallhw/user9999/tree/master/parts</a></p>
-<p>使用方法說明: <a href="https://help.github.com/articles/3d-file-viewer/">https://help.github.com/articles/3d-file-viewer/</a></p>
-<script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"></script>
-
+<p><p><a href="https://vimeo.com/151209147">修改start位置、fix設定</a> from <a href="https://vimeo.com/user44938638">郭世欣</a> on <a href="https://vimeo.com">Vimeo</a>.</p></p>
 <p><br />
 以下利用 Brython 語法, 在網頁繪圖:</p>
 <p>使用方法: <a href="http://www.brython.info/">http://www.brython.info/</a></p>
@@ -207,19 +216,19 @@ ctx.fill()
     <h1>Recent Posts</h1>
     <ul id="recent_posts">
       <li class="post">
-          <a href="./g2_w17_1.html">2015 電腦輔助設計實習 CADPA G2 W17 報告</a>
+          <a href="./9999_final.html">2015 Fall 電腦輔助設計實習 期末評分註記</a>
       </li>
       <li class="post">
-          <a href="./g2_w16_1.html">2015 電腦輔助設計實習 CADPA G2 W16 報告</a>
+          <a href="./g8_w10_1.html">2015 電腦輔助設計實習 CADPA G8 W10 報告</a>
       </li>
       <li class="post">
-          <a href="./g7_w16_1.html">2015 電腦輔助設計實習 CADPa W16 g7 OnShape 活動</a>
+          <a href="./g8_w12_1.html">2015 電腦輔助設計實習 CADPA G8 W12 報告</a>
       </li>
       <li class="post">
-          <a href="./g2_w15_1.html">2015 電腦輔助設計實習 CADPA G2 W15 報告</a>
+          <a href="./g8_w13_1.html">2015 電腦輔助設計實習 CADPA G8 W13 報告</a>
       </li>
       <li class="post">
-          <a href="./g7_w15_1.html">2015 電腦輔助設計實習 CADPa W15 g7 OnShape 繪製</a>
+          <a href="./g8_w14_1.html">2015 電腦輔助設計實習 CADPA G8 W14 報告</a>
       </li>
     </ul>
   </section>
@@ -231,11 +240,14 @@ ctx.fill()
         <li><a href="./category/ce-shi.html">測試</a></li>
         <li><a href="./category/g1.html">G1</a></li>
         <li><a href="./category/g2.html">G2</a></li>
+        <li><a href="./category/g3.html">G3</a></li>
         <li><a href="./category/g4.html">G4</a></li>
         <li><a href="./category/g5.html">G5</a></li>
+        <li><a href="./category/g6.html">G6</a></li>
         <li><a href="./category/g7.html">G7</a></li>
         <li><a href="./category/g8.html">G8</a></li>
         <li><a href="./category/g9.html">G9</a></li>
+        <li><a href="./category/ping-fen.html">評分</a></li>
         <li><a href="./category/python.html">Python</a></li>
     </ul>
   </section>
@@ -243,7 +255,7 @@ ctx.fill()
 
   <section>
   <h1>Tags</h1>
-    <a href="./tag/ipython.html">IPython</a>,    <a href="./tag/onshape-ying-yong.html">OnShape 應用</a>,    <a href="./tag/leo-editor-ying-yong.html">leo editor 應用</a>,    <a href="./tag/mechanism.html">mechanism</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/jupyter.html">Jupyter</a>  </section>
+    <a href="./tag/onshape-ying-yong.html">OnShape 應用</a>,    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/qi-mo-ping-fen.html">期末評分</a>,    <a href="./tag/leo-editor-ying-yong.html">leo editor 應用</a>,    <a href="./tag/mechanism.html">mechanism</a>,    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/ipython.html">IPython</a>  </section>
 
 
     <section>
@@ -251,13 +263,6 @@ ctx.fill()
         <ul>
             <li><a href="http://twitter.com/ametaireau" target="_blank">twitter</a></li>
             <li><a href="http://github.com/ametaireau" target="_blank">github</a></li>
-        </ul>
-    </section>
-    <section>
-        <h1>Blogroll</h1>
-        <ul>
-            <li><a href="http://wordpress-2015course.rhcloud.com/" target="_blank">2015課程網頁</a></li>
-            <li><a href="http://python.org/" target="_blank">Python</a></li>
         </ul>
     </section>
 
@@ -274,7 +279,7 @@ ctx.fill()
     var disqus_shortname = '2015fall';
     var disqus_identifier = '/g7_w12_1.html';
     var disqus_url = './g7_w12_1.html';
-    var disqus_title = '2015 電腦輔助設計實習 CADPa W12 g7.leo 測試';
+    var disqus_title = '2015 電腦輔助設計實習 CADPa W12 g7 修改start位置、fix設定';
     (function() {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
       dsq.src = "//" + disqus_shortname + '.disqus.com/embed.js';

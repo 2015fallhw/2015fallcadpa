@@ -46,9 +46,231 @@
 <v t="leo.20151210145146.1" a="E"><vh>@clean g4_w13_1.md</vh>
 <v t="leo.20151210145146.2"><vh>其他內容</vh></v>
 </v>
+<v t="123.20160107145452.44"><vh>@clean g4_w14_1.md</vh>
+<v t="123.20160107145452.45"><vh>其他內容</vh></v>
+</v>
+<v t="123.20160107145452.42" a="E"><vh>@clean g4_w15_1.md</vh>
+<v t="123.20160107145452.43"><vh>其他內容</vh></v>
+</v>
 </v>
 </vnodes>
 <tnodes>
+<t tx="123.20160107145452.42">@language md
+Title: 2015 電腦輔助設計實習 CADPa W13 g4.leo 
+Date: 2015-12-10 13:30
+Category: G4
+Tags: leo editor 應用
+Slug: g4_w13_1
+Authors: 40323116
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="123.20160107145452.43">
+
+以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
+組員40323116、40323110、40323113、40323117、40323151、40323121
+
+零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
+
+使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/1.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/2.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/3.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/4.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/5.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/6.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/7.stl"&gt;&lt;/script&gt;
+  
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/prt0006.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/asm0001.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/149249647" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149249647"&gt;活塞運動&lt;/a&gt; from &lt;a href="https://vimeo.com/user39742301"&gt;luke&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;br /&gt;
+以下利用 Brython 語法, 在網頁繪圖:
+
+使用方法: &lt;http://www.brython.info/&gt;
+
+&lt;!-- 導入 brython_dist.js --&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;!-- 啟動 brython() --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
+# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
+# 以下採用 canvas 原始座標繪圖
+flag_w = canvas.width
+flag_h = canvas.height
+circle_x = flag_w/4
+circle_y = flag_h/4
+# 先畫滿地紅
+ctx.fillStyle='rgb(255, 0, 0)'
+ctx.fillRect(0,0,flag_w,flag_h)
+# 再畫青天
+ctx.fillStyle='rgb(0, 0, 150)'
+ctx.fillRect(0,0,flag_w/2,flag_h/2)
+# 畫十二道光芒白日
+ctx.beginPath()
+star_radius = flag_w/8
+angle = 0
+for i in range(24):
+    angle += 5*math.pi*2/12
+    toX = circle_x + math.cos(angle)*star_radius
+    toY = circle_y + math.sin(angle)*star_radius
+    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
+    if (i):
+        ctx.lineTo(toX, toY)
+    else:
+        ctx.moveTo(toX, toY)
+ctx.closePath()
+# 將填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+# 白日:藍圈
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為藍色
+ctx.fillStyle = 'rgb(0, 0, 149)'
+ctx.fill()
+# 白日:白心
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+&lt;/script&gt;
+</t>
+<t tx="123.20160107145452.44">@language md
+Title: 2015 電腦輔助設計實習 CADPa W13 g4.leo 
+Date: 2015-12-10 13:30
+Category: G4
+Tags: leo editor 應用
+Slug: g4_w13_1
+Authors: 40323116
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="123.20160107145452.45">
+
+以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
+組員40323116、40323110、40323113、40323117、40323151、40323121
+
+零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
+
+使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/1.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/2.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/3.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/4.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/5.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/6.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/7.stl"&gt;&lt;/script&gt;
+  
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/prt0006.stl"&gt;&lt;/script&gt;
+
+&lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/asm0001.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/149249647" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149249647"&gt;活塞運動&lt;/a&gt; from &lt;a href="https://vimeo.com/user39742301"&gt;luke&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;br /&gt;
+以下利用 Brython 語法, 在網頁繪圖:
+
+使用方法: &lt;http://www.brython.info/&gt;
+
+&lt;!-- 導入 brython_dist.js --&gt;
+&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
+&lt;!-- 啟動 brython() --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
+&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
+&lt;script type="text/python3"&gt;
+# 導入 doc
+from browser import document as doc
+import math
+
+# 準備繪圖畫布
+canvas = doc["plotarea"]
+ctx = canvas.getContext("2d")
+# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
+# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
+# 以下採用 canvas 原始座標繪圖
+flag_w = canvas.width
+flag_h = canvas.height
+circle_x = flag_w/4
+circle_y = flag_h/4
+# 先畫滿地紅
+ctx.fillStyle='rgb(255, 0, 0)'
+ctx.fillRect(0,0,flag_w,flag_h)
+# 再畫青天
+ctx.fillStyle='rgb(0, 0, 150)'
+ctx.fillRect(0,0,flag_w/2,flag_h/2)
+# 畫十二道光芒白日
+ctx.beginPath()
+star_radius = flag_w/8
+angle = 0
+for i in range(24):
+    angle += 5*math.pi*2/12
+    toX = circle_x + math.cos(angle)*star_radius
+    toY = circle_y + math.sin(angle)*star_radius
+    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
+    if (i):
+        ctx.lineTo(toX, toY)
+    else:
+        ctx.moveTo(toX, toY)
+ctx.closePath()
+# 將填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+# 白日:藍圈
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為藍色
+ctx.fillStyle = 'rgb(0, 0, 149)'
+ctx.fill()
+# 白日:白心
+ctx.beginPath()
+ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
+ctx.closePath()
+# 填色設為白色
+ctx.fillStyle = '#fff'
+ctx.fill()
+&lt;/script&gt;
+</t>
 <t tx="leo.20151121093509.2"></t>
 <t tx="leo.20151121093513.1"></t>
 <t tx="leo.20151121093513.2">QTreeWidget {
@@ -267,6 +489,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 <t tx="leo.20151210145146.2">
 
 以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
+組員40323116、40323110、40323113、40323117、40323151、40323121
 
 零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
 

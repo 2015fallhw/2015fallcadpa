@@ -18,29 +18,109 @@
 </head>
 <body>
 <!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
 <div class="reveal">
 <!-- 將所有投影片包在 "slides" class 中 -->
 <div class="slides">
 <!-- 以下為投影片 -->
 <!-- 每一個 section 都代表一張投影片,  -->
-<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
-<section>
-    <h1>有關我的作業</h1>
-    <p>學號姓名與日期</p>		
-</section>
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 --><!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號: 40323154"; }</style>
+
+    <section>
+    <p><font size="5" face="Arial"><marquee border="0">版本於 2015 / 12 / 06 更新</marquee></font></p>
+    <br>
+    <br>
+    <h2>四設計二甲</h2>
+    <br>
+    <h3>40323154 蔡俊佶</h3>
+    <h3>第十二週作業</h3>		
+    </section>
+    
 	
-<section id="hw-task-one">
-    <h1>作業任務一</h1>
-    <p>有關作業任務一的說明</p>
-    <p>請參考 <a href="http://www.google.com">Google</a>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號: 40323154"; }</style>
+    <section>
+    <h3>啟動 C 槽的可攜系統</h3>
+    <hr size="1" align="center" noshade width="100%" color=blue>
+    <p align="left">安裝 pelican Markdown 模組</p>
+    <br>
+    <p align="left">安裝 Leo Editor 5.1 版</p>
+    <br>
+    <p align="left">將 Jupyter 在tmp目錄中啟動</p>
+    <br>
 </section>
-				
-<section>
-    <h1>第3張投影片</h1>
-    <p>成績自評分數的量化依據?</p>
-    <p>可以連結到內部投影片<a href="#/hw-task-one">作業任務一</a>
+
+
+
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323154"; }</style>
+    <section>
+    <h3>修改設定讓Leo正常啟動</h3>
+    <hr size="1" align="center" noshade width="100%" color=blue>
+    <p align="left">修改python路徑，把V槽改成Y槽</p>
+    <br>
+    <p align="left">pip install leo下載網址</p>
+    <br>
+    <p align="left">pip install pelican Markdown</p>
+    <br>
+    <p align="left">修改start，指定launchLeo.py 路徑</p>
+    <br>
+    <p align="left">修改start，把cd notebook 改成 cd tmp</p>
+    <br>
 </section>
-				
+
+
+
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習A 學號: 40323154"; }</style>
+    <section>
+    <h3>近端電腦安裝 leo 5.1</h3>
+    <hr size="1" align="center" noshade width="100%" color=blue>
+    <p align="left">再組裝方面，見一是在零件存檔時便存成檔名，不要存成01、02......之類的。會搞混</p>
+    <br>
+    <p align="left">再組裝時一次叫一個檔案來組裝，而不是全部一次叫進來組裝</p>
+    <br>
+    <p align="left">再組裝時，先軸對軸，固定完距離之後，再讓面跟面之間的距離不見</p>
+    <br>
+</section>
+
+
+
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習B \A 學號: 40323154"; }</style>
+
+    <h3>心得與自評</h3>
+    <br>
+    <p>這週所教的是用 creo 畫零件，在使用時感覺跟 solidworks 沒有差很多，畫起來的感覺也不錯，就是在標註尺寸方面跟 solidworks 差蠻大的</p>
+    <br>
+    <p>評分 : 75 </p> 
+</section>		
+		
 </div>
 </div>
 <script src="lib/js/head.min.js"></script>

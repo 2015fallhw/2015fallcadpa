@@ -1,9 +1,9 @@
 Title:2015 電腦輔助設計與實習 作業十二
-Date: 2015-12-24 14:41
+Date: 2015-12-10 20:05
 Category: Python
 Tags: pelican, publishing
-Slug: 2015cp_hw_w12
-Authors: coursemdetw
+Slug: 40323154_hw_w12
+Authors: 40323154
 Summary: 各自目錄下建立 leo 檔案, 主要在無互動協同時的模式下可以
 
 

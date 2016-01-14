@@ -1,0 +1,66 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <section>
+        <h2>班級協同投影片</h2>
+        <p>四設計二甲</p>
+    </section>
+    <section>
+        <h2>My  profile</h2>
+        <p>40323113  余嘉偉</p>
+    </section>	
+</section>
+
+<section id="hw-task-one">
+    <h2>第十二周</h2>
+    <p>繼續畫圖開始把自己畫好的圖分給其他組員，開始組合並錄製影片</p>
+</section>
+				
+<section>
+    <h2>第十二周心得</h2>
+    <p>軟體在資料上的傳輸有點不方便沒辦法直接在網路上傳輸，在現代分工來說不好用</p>
+  
+</section>
+
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>1.第十二周:65</p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

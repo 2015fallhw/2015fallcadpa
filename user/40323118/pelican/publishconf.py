@@ -26,11 +26,11 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'))
+         ('JavaScrip', 'http://python.org/'),('2015作業主頁', '../../'))
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
+SOCIAL = (('李冠鋐', 'http://twitter.com/ametaireau'),
+          ('github', 'http://github.com/40323118'),)
           
 DEFAULT_PAGINATION = 10
 

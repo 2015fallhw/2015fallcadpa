@@ -51,10 +51,16 @@
         <a href="./category/g2.html">G2</a>
       </li>
       <li >
+        <a href="./category/g3.html">G3</a>
+      </li>
+      <li >
         <a href="./category/g4.html">G4</a>
       </li>
       <li >
         <a href="./category/g5.html">G5</a>
+      </li>
+      <li >
+        <a href="./category/g6.html">G6</a>
       </li>
       <li class="active">
         <a href="./category/g7.html">G7</a>
@@ -64,6 +70,9 @@
       </li>
       <li >
         <a href="./category/g9.html">G9</a>
+      </li>
+      <li >
+        <a href="./category/ping-fen.html">評分</a>
       </li>
       <li >
         <a href="./category/python.html">Python</a>
@@ -80,28 +89,36 @@
 </header>
 
   <div class="entry-content"><p>以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:</p>
-<p>組員的頁面
-<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123">
-組長</a> 40323123
-<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131">
-組員</a> 40323131
-<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154">
-組員</a> 40323154
-<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137">
-組員</a> 40323137
-<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143">
-組員</a> 40323143
-<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145">
-組員</a> 40323145</p>
-<h1>OnShape組裝圖</h1>
-<p>組員畫的Onshape</p>
-<p>基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。</p>
-<p><img src="https://copy.com/Nn6duGlEKuJECHUw"></p>
-<p><img src="https://copy.com/HXKuqaNT4LOFUOzs"></p>
-<p>使用方法說明: <a href="https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide">https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide</a></p>
-<p>和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改</p>
-<h1>組裝完成後移動</h1>
-<p><iframe width="420" height="315" src="https://www.youtube.com/embed/1Bk_dJQQ-jg" frameborder="0" allowfullscreen></iframe></p>
+<p>第十六週課程:<a href="http://wordpress-2015course.rhcloud.com/?p=4584">2015 Fall CADP W16</a></p>
+<p>組員:<br />
+<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/2015cp_hw_w16.html">40323123 W16</a><br />
+<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/2015cp_hw_w16.html">40323131 W16</a><br />
+<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/2015cp_hw_w16.html">40323137 W16</a><br />
+<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/2015cp_hw_w16.html">40323143 W16</a><br />
+<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/2015cp_hw_w16.html">40323145 W16</a><br />
+<a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/2015cp_hw_w16.html">40323154 W16</a><br /></p>
+<p>計算 Nutcracker 機構有效運動距離:</p>
+<div class="highlight"><pre><span class="err">老師提到的方法</span><span class="o">:</span>
+
+<span class="mi">1</span><span class="o">.</span><span class="err">實際利用</span> <span class="n">Onshape</span> <span class="err">中的組立</span><span class="o">,</span> <span class="err">移動</span> <span class="n">piston</span> <span class="err">零件</span><span class="o">,</span> <span class="err">靠目測概略決定</span> <span class="n">piston</span> <span class="err">的有效行程</span><span class="o">.</span> <span class="o">(</span><span class="err">目測法</span><span class="o">,</span> <span class="err">只能得到大概的行程範圍</span><span class="o">)</span>
+
+<span class="mi">2</span><span class="o">.</span><span class="err">利用</span> <span class="n">Solvespace</span> <span class="err">繪製</span> <span class="mi">2</span><span class="n">D</span> <span class="err">約束圖</span><span class="o">,</span> <span class="err">然後利用約束點在線或圓上的方式</span><span class="o">,</span> <span class="err">以圖解法解出有效行程</span>
+
+<span class="mi">3</span><span class="o">.</span><span class="err">利用</span> <span class="n">Jupyter</span> <span class="err">與</span> <span class="n">Python3</span> <span class="err">的</span> <span class="n">sympy</span> <span class="err">模組</span><span class="o">,</span> <span class="err">先進行符號式推導</span><span class="o">,</span> <span class="err">然後再利用數值分析解出</span> <span class="n">piston</span> <span class="err">的有效行程</span>
+
+<span class="mi">4</span><span class="o">.</span><span class="err">採用基因演算法</span>
+</pre></div>
+
+
+<p>詳細內容請參考<a href="http://wordpress-2015course.rhcloud.com/?p=4584">2015 Fall CADP W16</a></p>
+<p>在用Onshape畫出的零件上加上限制條件:</p>
+<p>1.點選想要加限制條件的定義<br />
+<img src="user\40323143\content/w16-1.jpg" width="500" alt="w16-1"></img><br />
+<img src="user\40323143\content/w16-4.jpg" width="500" alt="w16-4"></img><br />
+2.點Limits <br />
+<img src="user\40323143\content/w16-2.jpg" width="500" alt="w16-2"></img><br />
+3.填入計算好的限制條件<br />
+<img src="user\40323143\content/w16-3.jpg" width="500" alt="w16-3"></img><br /></p>
 <p><br /></p></div>
     <footer>
 <p class="meta">
@@ -129,19 +146,19 @@
     <h1>Recent Posts</h1>
     <ul id="recent_posts">
       <li class="post">
-          <a href="./g2_w17_1.html">2015 電腦輔助設計實習 CADPA G2 W17 報告</a>
+          <a href="./9999_final.html">2015 Fall 電腦輔助設計實習 期末評分註記</a>
       </li>
       <li class="post">
-          <a href="./g2_w16_1.html">2015 電腦輔助設計實習 CADPA G2 W16 報告</a>
+          <a href="./g8_w10_1.html">2015 電腦輔助設計實習 CADPA G8 W10 報告</a>
       </li>
       <li class="post">
-          <a href="./g7_w16_1.html">2015 電腦輔助設計實習 CADPa W16 g7 OnShape 活動</a>
+          <a href="./g8_w12_1.html">2015 電腦輔助設計實習 CADPA G8 W12 報告</a>
       </li>
       <li class="post">
-          <a href="./g2_w15_1.html">2015 電腦輔助設計實習 CADPA G2 W15 報告</a>
+          <a href="./g8_w13_1.html">2015 電腦輔助設計實習 CADPA G8 W13 報告</a>
       </li>
       <li class="post">
-          <a href="./g7_w15_1.html">2015 電腦輔助設計實習 CADPa W15 g7 OnShape 繪製</a>
+          <a href="./g8_w14_1.html">2015 電腦輔助設計實習 CADPA G8 W14 報告</a>
       </li>
     </ul>
   </section>
@@ -153,11 +170,14 @@
         <li><a href="./category/ce-shi.html">測試</a></li>
         <li><a href="./category/g1.html">G1</a></li>
         <li><a href="./category/g2.html">G2</a></li>
+        <li><a href="./category/g3.html">G3</a></li>
         <li><a href="./category/g4.html">G4</a></li>
         <li><a href="./category/g5.html">G5</a></li>
+        <li><a href="./category/g6.html">G6</a></li>
         <li><a href="./category/g7.html">G7</a></li>
         <li><a href="./category/g8.html">G8</a></li>
         <li><a href="./category/g9.html">G9</a></li>
+        <li><a href="./category/ping-fen.html">評分</a></li>
         <li><a href="./category/python.html">Python</a></li>
     </ul>
   </section>
@@ -165,7 +185,7 @@
 
   <section>
   <h1>Tags</h1>
-    <a href="./tag/ipython.html">IPython</a>,    <a href="./tag/onshape-ying-yong.html">OnShape 應用</a>,    <a href="./tag/leo-editor-ying-yong.html">leo editor 應用</a>,    <a href="./tag/mechanism.html">mechanism</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/jupyter.html">Jupyter</a>  </section>
+    <a href="./tag/onshape-ying-yong.html">OnShape 應用</a>,    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/qi-mo-ping-fen.html">期末評分</a>,    <a href="./tag/leo-editor-ying-yong.html">leo editor 應用</a>,    <a href="./tag/mechanism.html">mechanism</a>,    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/ipython.html">IPython</a>  </section>
 
 
     <section>
@@ -173,13 +193,6 @@
         <ul>
             <li><a href="http://twitter.com/ametaireau" target="_blank">twitter</a></li>
             <li><a href="http://github.com/ametaireau" target="_blank">github</a></li>
-        </ul>
-    </section>
-    <section>
-        <h1>Blogroll</h1>
-        <ul>
-            <li><a href="http://wordpress-2015course.rhcloud.com/" target="_blank">2015課程網頁</a></li>
-            <li><a href="http://python.org/" target="_blank">Python</a></li>
         </ul>
     </section>
 

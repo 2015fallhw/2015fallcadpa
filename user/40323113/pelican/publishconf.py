@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = '40323113'
-SITENAME = '2015FALL 40323113 CADPA 作業'
+SITENAME = '2015FALL C.A.D.P_A－40323113'
 SITEURL = ''
 
 PATH = 'content'
@@ -25,8 +25,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),(' my github', 'https://github.com/40323105/cadpa'),(' my HW pages', 'http://40323105.github.io/cadpa/'),(' my Vimeo', 'https://vimeo.com/home/myvideos'))
+LINKS = (('KMOL Course Blog (虎尾科大機械設計工程系)', 'http://wordpress-2015course.rhcloud.com/'),
+         ('Python', 'http://python.org/'),
+         ('My C.A.D.P', 'http://40323113.github.io/40323113'), )
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
@@ -45,13 +46,11 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-DISQUS_SITENAME = "2015fall"
+DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
 
 # 必須絕對目錄或相對於設定檔案所在目錄
-PLUGIN_PATHS = ['./../../../plugin']
+PLUGIN_PATHS = ['./../plugin']
 PLUGINS = ['liquid_tags.notebook']
 # 目錄設定相對於 reveal 下的 content 目錄
 NOTEBOOK_DIR = 'notebook'
-
-

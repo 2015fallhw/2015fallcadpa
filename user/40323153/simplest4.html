@@ -1,0 +1,59 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>班級協同投影片</h1>
+    <p>四設計二甲</p>
+    <p>MY PROFILE</p>
+<p>40323153 劉彥沛</p>
+</section>
+<section id="hw-task-one">
+    <p>筆記(第四周)</p>
+    <p>1.繼續完成未完成的投影片 2.使用繪圖軟體,畫出例題中的圖形 3.準備實物測繪</p>
+</section>
+				
+<section>
+    <p>第四周心得分享</p>
+    <p>這次上課因為網路的問題導致有些操作沒辦法做，於是我就先完成上次沒有作完的功課。也開始分工合作，一些人實物測繪依一些人做投影片，我在這次的操作出了些順序問題，導致檔案在上傳的時候出了些問題。</p>
+</section>
+				
+<section>
+    <p>自評分數</p>
+    <p>1.第四周:75</p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

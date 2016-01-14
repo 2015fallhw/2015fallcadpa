@@ -1,0 +1,61 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>設計二甲</h1>
+    <p>40323156 賴武辰 </p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>內容: </h1>
+    <p>
+1.reveal.與 js pelican 網誌投影片製作, 把內容送到 Github pages分支上面去
+2.學習繪圖軟體並操作
+3.載Solvespace檔案 </p>
+   
+</section>
+				
+<section>
+    <h1>自評與心得</h1>
+    <p>因為上週的還沒做完，所以導致這週的進度有點慢，也有點忘記老師講的東西。
+覺得當天就要做完不然真的不好做。可是有同學的幫助也慢慢補回來了。
+
+</p>
+    <p>自評分數:75<a href="#/hw-task-one"></a>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

@@ -1,0 +1,68 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <section>
+        <h2>介紹自己</h2>
+        <p>40323112 何秉霖</p>
+    </section>
+    <section>	
+        <h2>班級</h2>
+        <p>四設計二甲</p>	
+    </section>        
+</section>
+	
+<section id="hw-task-one">
+    <h2>筆記(w2)</h2>
+    <p>1.開始修改投影片
+          2.將python.properties中的V:\IDE\Python33修改成V:\anaconda3
+          3.老師有錄製影片,可自行去看
+          4.討論為何push上去github卻無法開啟網頁,怎麼處理以及更新資料</p>
+</section>	
+<section>
+        <h2>第二週心得</h2>
+        <p>
+             這週是本人首次上課,不知道是不是因為空了一個禮拜,總覺得老師好像在講外星語,幸好有同學的筆記勉強知道怎麼操作</p>
+        
+    </section>
+				
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>1.第二週:70</p>
+
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

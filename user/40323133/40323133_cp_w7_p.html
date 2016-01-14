@@ -1,0 +1,59 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>設計二甲</h1>
+    <p>40323102 林宛儒 </p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>做法: </h1>
+    <p>1.開啟leo,找到@edit publishconf.py  2.找到LINKS之後做修改(可以在網頁右下角連結自己的網址) 3.按save然後再按user-pelican  4.到近端確認可以後再push
+</p>
+   
+</section>
+				
+<section>
+    <h1>自評與心得</h1>
+    <p>這星期大家都接續上禮拜的進度,因為有時候失敗就得重推,所以有時候沒辦法一次就用得完,這次主要是改小部分,做網址的連結,而且有時候大家都在推,會有衝突導致leo掛掉,進度又更延遲了,都得多做幾次,順便增加熟練度,希望自己的心血不不要白費!
+
+
+</p>
+    <p>自評分數:70<a href="#/hw-task-one"></a>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

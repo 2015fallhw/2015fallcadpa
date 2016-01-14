@@ -26,7 +26,10 @@
 <v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151121095330.1"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151121095339.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
-<v t="leo.20151121095422.1"><vh>@path pelican</vh>
+<v t="amd.20160110154656.1" a="E"><vh>@path backup</vh>
+<v t="amd.20160110154703.1"><vh>@edit publishconf.py</vh></v>
+</v>
+<v t="leo.20151121095422.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151121095422.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151121095422.3"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151121095422.4" a="E"><vh>@path content</vh>
@@ -43,12 +46,14 @@
 </v>
 <v t="leo.20151210143206.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151210143206.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151210143206.3" a="E"><vh>@clean g9999_w13_1.md</vh>
+<v t="leo.20151210143206.3"><vh>@clean g9999_w13_1.md</vh>
 <v t="leo.20151210143206.4"><vh>其他內容</vh></v>
 </v>
+<v t="amd.20160110154212.1"><vh>@edit 9999_final.md</vh></v>
 </v>
 </vnodes>
 <tnodes>
+<t tx="amd.20160110154656.1"></t>
 <t tx="leo.20151121093509.2"></t>
 <t tx="leo.20151121093513.1"></t>
 <t tx="leo.20151121093513.2">QTreeWidget {

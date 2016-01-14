@@ -1,4 +1,4 @@
-Title: 2015 電腦輔助設計實習 #總結
+Title: 2015 電腦輔助設計實習 #期中總結
 Date: 2015-11-08 20:00
 Modified: 2015-11-08 20:00
 Category: Python

@@ -1,0 +1,86 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <section>
+        <h2>班級協同投影片</h2>
+        <p>四設計二甲</p>
+    </section>
+    <section>
+        <h2>My  profile</h2>
+        <p>40323105  莊舜婷</p>
+    </section>	
+</section>
+	
+<section id="hw-task-one">
+    <h2>筆記(第八周)</h2>
+    <p>1.開始進入班級協同倉儲裡改自己的檔案
+          2.解決衝突
+             (1)先將Leo檔打開至SciTE
+             (2)尋找<<<<<<<
+             (3)因為有新版本及舊版本,必須要將舊版本的刪掉
+             (4)它會有<x7+>x7把它們通通刪掉
+             (5)他們前面還會有一些等號也要把它刪掉
+             (6)儲存之後再重開一次檔案就好囉
+             </p>
+</section>
+				
+<section>
+    <section>
+        <h2>第八周心得分享</h2>
+        <p>時間過得很快,真的要交期中報告了,但是在學校剛在近端改好後
+    馬上就被同學拉過去,以至於本周進度幾乎沒有......後來決定自己在宿舍做了,想說這時間應該不會有人使用2015fallcadpa,但是當我push第二次的時候
+居然有人比我先push上去了,所以我必須先打git pull origin gh-pages,把新版拉下來後再推回去
+    </section>
+    <section>
+目前成功了,推第三次的時候,可能我與另一個同學同時推,它比我快,以至於我們發生了衝突,想說先pull下來再重新推,但還是失敗了,於是請教了祐生(TA)教我怎麼解決衝突,雖然有人也有教過我,但沒有實例果然還是想像不出來啊,經過這次的教導後,我知道怎麼改了,其實還蠻簡單的耶~~~~但是沒有把解決過程截圖其實蠻可惜的....
+    </section>
+    <section>
+剛剛才發現,嵌入影片不是在Link而是在Embed的地方,將程式碼複製後貼上,再做稍微修改就可以囉~~~~
+
+</p>
+    </section>
+  
+</section>
+
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>1.第八周:75</p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

@@ -1,0 +1,72 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <section>
+        <h2>班級協同投影片</h2>
+        <p>四設計二甲</p>
+    </section>
+    <section>
+        <h2>My  profile</h2>
+        <p>40323105  莊舜婷</p>
+    </section>	
+</section>
+	
+<section id="hw-task-one">
+    <h2>筆記(第七周)</h2>
+    <p>1.教同學怎麼將倉儲裡面的Leo做更改
+           2.教同學怎麼在班級倉儲裡建立使用者
+           3.我講到沒聲音了~~~~~~
+           4.教如何解決Leo衝突</p>
+</section>
+				
+<section>
+    <h2>第七周心得分享</h2>
+    <p>繼續教同學怎麼創建自己的倉儲並且將倉儲的Leo更改,以及在班級的倉儲
+        創建自己的資料夾和把它push上去,雖然在班級倉儲中Leo已經改好了, 但是因為
+        有人先推上去了,所以要再pull下來,但是當pull下來時,把已經掛掉的Leo也弄下來
+        了,以至於再次失敗.....想說應該有解決方法,但是不知如何動手,之後有人就有教我怎麼修改,但那是上完課之後的事,作法第8周再PO~~~~我教到失聲了...</p>
+  
+</section>
+
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>1.第七周:75</p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

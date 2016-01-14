@@ -19,13 +19,13 @@
 </v>
 <v t="leo.20151214183241.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151214183241.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151214183241.3"><vh>@clean g7_w11_1.md</vh>
+<v t="leo.20151214183241.3" a="E"><vh>@clean g7_w11_1.md</vh>
 <v t="leo.20151214183241.4"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.5"><vh>@clean g7_w12_1.md</vh>
+<v t="leo.20151214183241.5" a="E"><vh>@clean g7_w12_1.md</vh>
 <v t="leo.20151214183241.6"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151214183241.7"><vh>@clean g7_w13_1.md</vh>
+<v t="leo.20151214183241.7" a="E"><vh>@clean g7_w13_1.md</vh>
 <v t="leo.20151214183241.8"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
@@ -169,7 +169,7 @@ ctx.fill()
 &lt;/script&gt;
 </t>
 <t tx="leo.20151214183241.5">@language md
-Title: 2015 電腦輔助設計實習 CADPa W12 g7.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W12 g7 修改start位置、fix設定
 Date: 2015-12-03 13:30
 Category: G7
 Tags: leo editor 應用
@@ -177,46 +177,26 @@ Slug: g7_w12_1
 Authors: 40323123
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others</t>
-<t tx="leo.20151214183241.6">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行
+<t tx="leo.20151214183241.6">修改start.bat檔的pip install pelican Markdown路徑、
+更改啟動jupyter的路徑、
+和新增fix.bat內，在該路徑內新增leo-editor-broke-abbrev。
 
-以下可以引入 reveal.js 投影片
+1. 在課程網站中，下載fix.zip壓縮檔。
 
-可以引入 vimeo 影片
+2. 在leo-editor的gitcub下載leo-editor-broke-abbrev.zip壓縮檔，放在fix資料夾。
 
-可以導入組員的 Jupyter notebook
+3. 打開\Ana3_lite2\data\SciTE\SciTE.exe
 
-也可以加入其他 html 格式或 md 格式的心得報告
+4. SciTE開啟fix.bat，新增copy leo-editor-broke-abbrev C:\Ana3_2015\data\。
 
-有關此一測試的詳細內容, 請參考 user/9999/9999.leo 檔案中的節點配置
+5. SciTE開啟start.bat，內容中，啟動Jupyter從原本的notebook，改成tmp內執行。
 
-基本的工作模式:
+6. 在start.bat檔內，將pip install ( http:/ /140.130.17.17/public/leo-editor-master.zip )
+   改成leo-editor-broke-abbrev.zip。
 
-&lt;ol&gt;
+7. 打開fix.bat ，就會依照該路徑、位置進行安裝和執行。
 
-&lt;li&gt;可以直接在 user 目錄下各組員的 leo 檔案中, 建立外部目錄 pelican/content 中的 md 檔案&lt;/li&gt;
-&lt;li&gt;唯一要注意的就是, 各組各週的分組報告 .md 名稱與 slug 設定, 不能互相覆寫&lt;/li&gt;
-&lt;li&gt;透過將 Jupyter 在 content/notebook/g9999 中啟動, 分組報告可以直接引用各組員所建立的 Notebook 報告檔案內容
-&lt;li&gt; 各組分別完成各週的分組報告 .md 檔案後, 必須記得點按 admin pelican button, 以便產生對應的網誌內容, 否則 .md 內容不會出現在全班的 gh-pages 網誌中&lt;/li&gt;
-
-&lt;/ol&gt;
-
-當 git pull origin gh-pages 之後, 該如何解決遠端拉下的版本與近端的版本衝突?
-
-&lt;ol&gt;
-
-&lt;li&gt;先檢查所有檔案中有7個小於符號的衝突標示字串的內容, 假入在 windows, 利用 grepwin, 假如在 Linux 使用 grep -r "查詢字串"&lt;/li&gt;
-&lt;li&gt;假如所有衝突都在 .html 檔案, 只要 git pull origin gh-pages 之後 ,取得近端沒有的 .md 檔案, 再執行一次 pelican 轉檔的指令 (也就是再按一次 admin-pelican 後, 再檢查是否所有 衝突標示內容都已經消失&lt;/li&gt;
-&lt;li&gt; 確定所有 .leo 與 html 檔案內容都無衝突, 且 .leo 檔案節點可以正確開啟後, 就可以將端的版本推向遠端&lt;/li&gt;
-
-&lt;/ol&gt;
-
-以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
-
-零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
-
-使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
-
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
+&lt;iframe src="https://player.vimeo.com/video/151209147" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/151209147"&gt;修改start位置、fix設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user44938638"&gt;郭世欣&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;br /&gt;
 以下利用 Brython 語法, 在網頁繪圖:
@@ -299,19 +279,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20151214183241.8">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
+
 
 
 
@@ -319,24 +287,60 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
 
+繪製Nutcracker 機構與組裝
+
+零件adjuster
+
+&lt;img src="https://copy.com/scRqAnyqFnoGHf4O"&gt;
+&lt;iframe src="https://player.vimeo.com/video/148461711" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;
 
+零件adjuster_base
+&lt;img src="https://copy.com/wCeBt4IfP0T2VmL7"&gt;
+&lt;iframe src="https://player.vimeo.com/video/148457759" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster_base.stl"&gt;&lt;/script&gt;
 
+
+零件base
+
+&lt;img src="https://copy.com/xyZ1CzoQ7DIU01FU"&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PGPUGZul3Uw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/base.stl"&gt;&lt;/script&gt;
 
+零件connection
+
+&lt;img src="https://copy.com/pR6Ls2fAeyv6n2gb"&gt;
+&lt;iframe src="https://player.vimeo.com/video/149249005" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/connection.stl"&gt;&lt;/script&gt;
 
+零件cylinder
+
+&lt;img src="https://copy.com/gscxbmHWHuGPHmsO"&gt;
+&lt;iframe src="https://player.vimeo.com/video/149247675" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/cylinder.stl"&gt;&lt;/script&gt;
 
+零件handle
+
+&lt;img src="https://copy.com/fiNf9rC40EYLXj47"&gt;
+&lt;iframe src="https://player.vimeo.com/video/150400339" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/handle.stl"&gt;&lt;/script&gt;
 
+零件hinge
 
+&lt;img src="https://copy.com/BAV6csvkC7jkb1sP"&gt;
+&lt;iframe src="https://player.vimeo.com/video/148457739" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/hinge.stl"&gt;&lt;/script&gt;
+
+零件piston
+
+&lt;img src="https://copy.com/JPg9zGxcGPgT7V4H"&gt;
 
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/piston.stl"&gt;&lt;/script&gt;
 
+組裝
 
+&lt;img src="https://copy.com/OaG0cfYIWFaoIDUg"&gt;
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/c6HSNTaFVQg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/components/perfect.stl"&gt;&lt;/script&gt;
 
 
@@ -422,19 +426,6 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 </t>
 <t tx="leo.20160104182129.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
 
 
@@ -545,19 +536,6 @@ Summary: 讓組員各自利用OnShape進行繪畫並組立
 </t>
 <t tx="leo.20160104182723.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
 
 OnShape組裝圖
@@ -574,6 +552,39 @@ OnShape組裝圖
 使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
 
 和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
+
+利用 onshape 繪製 Nutcracker 的各個零件
+
+hinge
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vqm0Rk7wrgI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+adjuster_base
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cmXGum_OLjE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+base
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P9qJBka633M" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+cylinder
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NLB5bWwCeQk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+piston
+
+&lt;iframe src="https://player.vimeo.com/video/150161694" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+adjuster
+
+&lt;iframe src="https://player.vimeo.com/video/149942356" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149942356"&gt;用onshape繪製Adjuter&lt;/a&gt; from &lt;a href="https://vimeo.com/user44938638"&gt;郭世欣&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+handle
+
+&lt;iframe src="https://player.vimeo.com/video/150401392" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+
+connect
+
+&lt;iframe src="https://player.vimeo.com/video/150161647" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 
 &lt;br /&gt;
 
@@ -590,39 +601,42 @@ Summary: 讓組員各自利用OnShape進行組立並做運動
 </t>
 <t tx="leo.20160104185603.2">以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
 
-組員的頁面
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/" title="組長40323123"&gt;
-組長&lt;/a&gt; 40323123
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/" title="組員40323131"&gt;
-組員&lt;/a&gt; 40323131
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/" title="組員40323154"&gt;
-組員&lt;/a&gt; 40323154
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/" title="組員40323137"&gt;
-組員&lt;/a&gt; 40323137
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/" title="組員40323143"&gt;
-組員&lt;/a&gt; 40323143
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/" title="組員40323145"&gt;
-組員&lt;/a&gt; 40323145
 
+第十六週課程:&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;2015 Fall CADP W16&lt;/a&gt;
+ 
+組員:&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323123/2015cp_hw_w16.html"&gt;40323123 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323131/2015cp_hw_w16.html"&gt;40323131 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323137/2015cp_hw_w16.html"&gt;40323137 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323143/2015cp_hw_w16.html"&gt;40323143 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/2015cp_hw_w16.html"&gt;40323145 W16&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/2015cp_hw_w16.html"&gt;40323154 W16&lt;/a&gt;&lt;br /&gt;
 
-OnShape組裝圖
-============
-組員畫的Onshape
+計算 Nutcracker 機構有效運動距離:
+    
+    老師提到的方法:
 
-基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。
+    1.實際利用 Onshape 中的組立, 移動 piston 零件, 靠目測概略決定 piston 的有效行程. (目測法, 只能得到大概的行程範圍)
+    
+    2.利用 Solvespace 繪製 2D 約束圖, 然後利用約束點在線或圓上的方式, 以圖解法解出有效行程
+    
+    3.利用 Jupyter 與 Python3 的 sympy 模組, 先進行符號式推導, 然後再利用數值分析解出 piston 的有效行程
+    
+    4.採用基因演算法
 
-&lt;img src="https://copy.com/Nn6duGlEKuJECHUw"&gt;
+詳細內容請參考&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;2015 Fall CADP W16&lt;/a&gt;
 
-&lt;img src="https://copy.com/HXKuqaNT4LOFUOzs"&gt;
+在用Onshape畫出的零件上加上限制條件:
 
+1.點選想要加限制條件的定義&lt;br /&gt;
+&lt;img src="user\40323143\content/w16-1.jpg" width="500" alt="w16-1"&gt;&lt;/img&gt;&lt;br /&gt;
+&lt;img src="user\40323143\content/w16-4.jpg" width="500" alt="w16-4"&gt;&lt;/img&gt;&lt;br /&gt;
+2.點Limits &lt;br /&gt;
+&lt;img src="user\40323143\content/w16-2.jpg" width="500" alt="w16-2"&gt;&lt;/img&gt;&lt;br /&gt;
+3.填入計算好的限制條件&lt;br /&gt;
+&lt;img src="user\40323143\content/w16-3.jpg" width="500" alt="w16-3"&gt;&lt;/img&gt;&lt;br /&gt;
+    
 
-使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
-
-和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
-
-組裝完成後移動
-============
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/1Bk_dJQQ-jg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;br /&gt;
 

@@ -1,0 +1,72 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <section>
+        <h2>班級協同投影片</h2>
+        <p>四設計二甲</p>
+    </section>
+    <section>
+        <h2>My  profile</h2>
+        <p>40323105  莊舜婷</p>
+    </section>	
+</section>
+	
+<section id="hw-task-one">
+    <h2>筆記(第五周)</h2>
+    <p>1.延續上禮拜未完成的投影片
+          2.派兩個人開始實物測繪
+          3.reveal有更新過,並且有新的reavel,裡面只更改資料,如
+           bootstrap3改成octopress</p>
+</section>
+				
+<section>
+    <h2>第五周心得分享</h2>
+    <p>這禮拜老師有更新reaveal2,想說這之間有甚麼不同,原來是bootstrap3改成octopress,其餘沒什麼變,另外老師
+        還幫我們更改了notebook.py,這樣以後就不用再打開來改了,而這周也開始了實物測繪,雖然我們派了2個人去,
+        但好像沒什麼進展,跟我的Leo一樣阿,一直失敗,這周我也學習到怎麼將投影片一周一周的分開,其實不難,
+        我覺得我把它想得太複雜了,其實明白它的道理就OK了,不過遠端真的跑得還蠻久的耶..... </p>
+  
+</section>
+
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>1.第五周:70</p>
+
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

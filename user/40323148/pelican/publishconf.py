@@ -7,8 +7,8 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = '40323148'
-SITENAME = '2015FALL 40323148 CADPA 作業'
+AUTHOR = 'KMOL'
+SITENAME = '電腦輔助設計與實習  CADPA'
 SITEURL = ''
 
 PATH = 'content'
@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),(' my github', 'https://github.com/40323148/cadpa'),(' my HW pages', 'http://40323148.github.io/cadpa/'),(' my Vimeo', 'https://vimeo.com/home/myvideos'))
+         ('Python', 'http://python.org/'),(' my github', 'https://github.com/40323148/cadpa'),(' my youtube', 'https://www.youtube.com/channel/UCGFyI7tfNCDldL3KxBRDaoA'),(' my page ', 'http://40323148.github.io/cadpa/'),(' my group', 'http://2015fallhw.github.io/2015fallcadpa/category/g2.html'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
@@ -49,9 +49,15 @@ DISQUS_SITENAME = "2015fall"
 #GOOGLE_ANALYTICS = ""
 
 # 必須絕對目錄或相對於設定檔案所在目錄
-PLUGIN_PATHS = ['./../../../plugin']
+PLUGIN_PATHS = ['./../plugin']
 PLUGINS = ['liquid_tags.notebook']
 # 目錄設定相對於 reveal 下的 content 目錄
 NOTEBOOK_DIR = 'notebook'
-
+'''
+if not os.path.exists('_nb_header.html'):     
+    import warnings 
+    warnings.warn("_nb_header.html not found.") 
+else: 
+    EXTRA_HEADER = open('_nb_header.html', encoding="utf-8").read()
+'''
 

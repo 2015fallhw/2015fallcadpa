@@ -1,0 +1,62 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <p><font size="5" face="Arial"><marquee border="0">版本於 2016 / 01 / 09 更新</marquee></font></p>
+    <br>
+    <br>
+    <h1>班級協同投影片</h1>
+    <p>四設計二甲</p>
+    <p>MY PROFILE</p>
+<p>40323153 劉彥沛</p>
+</section>
+<section id="hw-task-one">
+    <p>筆記(第十一周)</p>
+    <p>1.多下載一份班上倉儲並回復到原始的版本(git reset --hard ssl網址)。</p><p> 2.舊版內自己的內容，獨立修改成自己的檔案(參考老師範例)，並存在新版的班上倉儲中(user內自己的資料夾)。</p><p>3.新版倉儲存檔後推回遠端即可(組別和個人檔案分開管理)。</p>
+</section>
+				
+<section>
+    <p>第十一周心得分享</p>
+    <p>此週目的為建立個人檔案，因為在user的節點已經被刪除了，因此這次大家都要回到上一個版次，去找到自己在之前的檔案根內容，在複製的過程中雖然有些麻煩，但是這樣一來就不會有發生像是其中考前的問題了。</p>
+</section>
+				
+<section>
+    <p>自評分數</p>
+    <p>1.第十一周:75</p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

@@ -1,0 +1,63 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>設計二甲</h1>
+    <p>40323102 林宛儒 </p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>做法: </h1>
+    <p>
+1.在SCITE資料夾裡面找到 Python.properties 
+2. 打開之後,按ctrl+f尋找 V:\IDE\Python33 然後改成  y:\Anaconda3\ 
+3.修改notebook.py
+4.修改投影片,最後把檔案推上去。
+</p>
+   
+</section>
+				
+<section>
+    <h1>自評與心得</h1>
+    <p>
+今天大部分都還是在延續上個禮拜的內容,
+因為建倉儲的時候,步驟都是正確的,最後好不容易推上去,以為可以成功,但是網頁卻出現404無法顯示,真是超讓人崩潰的,後來我又一直重做了三次,終於讓我的網頁成功跑出來了,覺得沒白費我的辛苦,也因此更熟悉了步驟。
+</p>
+    <p>自評分數:70<a href="#/hw-task-one"></a>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

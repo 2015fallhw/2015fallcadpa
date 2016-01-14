@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323118 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-17T14:21:00+08:00</updated><entry><title>2015 協同產品設計實習 作業十二</title><link href="http://coursemdetw.github.io/reveal/2015cp_w12.html" rel="alternate"></link><updated>2015-12-17T14:21:00+08:00</updated><author><name>4032318</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_w12.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323118 CADPA 作業</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-31T14:21:00+08:00</updated><entry><title>2015 協同產品設計實習 作業十五</title><link href="http://coursemdetw.github.io/reveal/2015cp_w15.html" rel="alternate"></link><updated>2015-12-31T14:21:00+08:00</updated><author><name>4032318</name></author><id>tag:coursemdetw.github.io,2015-12-31:reveal/2015cp_w15.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
+&lt;p&gt;Onshape 繪畫&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kd51QZzei1Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;組裝creo 和畫Nutcracker&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業十二</title><link href="http://coursemdetw.github.io/reveal/2015cp_w12.html" rel="alternate"></link><updated>2015-12-17T14:21:00+08:00</updated><author><name>4032318</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_w12.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/147715199" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/147715199"&gt;creo組裝-1&lt;/a&gt; from &lt;a href="https://vimeo.com/user40948986"&gt;陳先生&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -15,4 +19,30 @@
 &lt;p&gt;組裝creo 和畫Nutcracker&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業十一</title><link href="http://coursemdetw.github.io/reveal/2015cp_w11.html" rel="alternate"></link><updated>2015-12-17T14:20:00+08:00</updated><author><name>40323118</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_w11.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/TwHnlj6S25s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;修理fix檔案和猜數字&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;p&gt;修理fix檔案和猜數字&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業七</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w7.html" rel="alternate"></link><updated>2015-11-09T20:05:00+08:00</updated><author><name>40323118</name></author><id>tag:coursemdetw.github.io,2015-11-09:reveal/2015cp_hw_w7.html</id><summary type="html">&lt;p&gt;以下為作業七內容:&lt;/p&gt;
+&lt;iframe src="40323121_cp_w7_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323121_cp_w7_p.html" target="_blank"&gt;W7投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;備註:git clone 為下載所有分支資料 ， Download 為下載單一分支資料&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w3.html" rel="alternate"></link><updated>2015-11-08T20:05:00+08:00</updated><author><name>40323118</name></author><id>tag:coursemdetw.github.io,2015-11-08:reveal/2015cp_hw_w3.html</id><summary type="html">&lt;p&gt;以下為作業一內容:&lt;/p&gt;
+&lt;iframe src="40323121_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323121_cp_w1_p.html" target="_blank"&gt;W1投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;備註:git clone 為下載所有分支資料 ， Download 為下載單一分支資料&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-11-07T20:05:00+08:00</updated><author><name>40323118</name></author><id>tag:coursemdetw.github.io,2015-11-07:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;以下為作業一內容:&lt;/p&gt;
+&lt;iframe src="40323121_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323121_cp_w1_p.html" target="_blank"&gt;W1投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;備註:git clone 為下載所有分支資料 ， Download 為下載單一分支資料&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-11-06T20:05:00+08:00</updated><author><name>40323118</name></author><id>tag:coursemdetw.github.io,2015-11-06:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容:&lt;/p&gt;
+&lt;iframe src="40323121_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="40323121_cp_w1_p.html" target="_blank"&gt;W1投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;備註:git clone 為下載所有分支資料 ， Download 為下載單一分支資料&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業十六</title><link href="http://coursemdetw.github.io/reveal/2015cp_w16.html" rel="alternate"></link><updated>2015-01-07T14:21:00+08:00</updated><author><name>4032318</name></author><id>tag:coursemdetw.github.io,2015-01-07:reveal/2015cp_w16.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
+&lt;p&gt;在這周學習到設計和使用偕同產品的用途，像是設計和使用都是來自於觀察者，及使用者，那這個應該就是在未來設計的重點。&lt;/p&gt;
+&lt;p&gt;Onshape 繪畫&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kd51QZzei1Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;組裝creo 和畫Nutcracker&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 協同產品設計實習 作業十六</title><link href="http://coursemdetw.github.io/reveal/2015cp_w17.html" rel="alternate"></link><updated>2015-01-07T14:21:00+08:00</updated><author><name>4032318</name></author><id>tag:coursemdetw.github.io,2015-01-07:reveal/2015cp_w17.html</id><summary type="html">&lt;h1&gt;影片&lt;/h1&gt;
+&lt;p&gt;在這周學習到設計和使用偕同產品的用途，像是設計和使用都是來自於觀察者，及使用者，那這個應該就是在未來設計的重點。&lt;/p&gt;
+&lt;p&gt;Onshape 繪畫&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/kd51QZzei1Y" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;組裝creo 和畫Nutcracker&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
