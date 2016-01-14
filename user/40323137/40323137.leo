@@ -26,7 +26,7 @@
 <v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151217202209.1" a="E"><vh>以下為投影片 ------------</vh>
 <v t="leo.20151217202209.2" a="E"><vh>@button open html</vh>
-<v t="leo.20151217202209.18"><vh>@clean cadp_w11_simplest.html</vh>
+<v t="leo.20151217202209.18" a="E"><vh>@clean cadp_w11_simplest.html</vh>
 <v t="leo.20151217202209.19"><vh>檔案說明</vh></v>
 <v t="leo.20151217202209.20" a="E"><vh>html 標註</vh>
 <v t="leo.20151217202209.21" a="E"><vh>body 標註</vh>
@@ -134,7 +134,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151231154246.1" a="E"><vh>@clean cadp_w16_simplest.html</vh>
+<v t="leo.20151231154246.1"><vh>@clean cadp_w16_simplest.html</vh>
 <v t="leo.20151231154246.2"><vh>檔案說明</vh></v>
 <v t="leo.20151231154246.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151231154246.4" a="E"><vh>body 標註</vh>
@@ -155,7 +155,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160109121441.1" a="E"><vh>@clean cadp_w17_simplest.html</vh>
+<v t="leo.20160109121441.1"><vh>@clean cadp_w17_simplest.html</vh>
 <v t="leo.20160109121441.2"><vh>檔案說明</vh></v>
 <v t="leo.20160109121441.3" a="E"><vh>html 標註</vh>
 <v t="leo.20160109121441.4" a="E"><vh>body 標註</vh>
