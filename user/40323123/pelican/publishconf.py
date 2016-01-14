@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # 部落格
 LINKS = (('我的github', 'http://smpss91341.github.io/2015cadp/'),
-         ('作業主頁', 'http://python.org/'),('組別G7', 'http://2015fallhw.github.io/2015fallcadpa/category/g7.html'))
+         ('作業主頁', 'http://python.org/'),('組別G7', 'http://2015fallhw.github.io/2015fallcadpa/category/g7.html'),("40323123 個人網站",'http://smpss91341.github.io/2015cadpa_40323123/'))
 
 # 社交場合
 SOCIAL = (('FB', 'www.facebook.com.tw'),

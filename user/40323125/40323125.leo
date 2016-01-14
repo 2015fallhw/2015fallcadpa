@@ -10,11 +10,11 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151121093513.1" a="E"><vh>@settings</vh>
+<v t="leo.20151121093513.1"><vh>@settings</vh>
 <v t="leo.20151121093513.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151121093513.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20151121093509.2" a="E"><vh>個人專案系統</vh>
+<v t="leo.20151121093509.2"><vh>個人專案系統</vh>
 <v t="leo.20151121095223.1"><vh>設置步驟</vh></v>
 <v t="leo.20151121110456.1"><vh>以下為參考用的 batch 檔案</vh>
 <v t="leo.20151121110509.1"><vh>特別注意</vh></v>
