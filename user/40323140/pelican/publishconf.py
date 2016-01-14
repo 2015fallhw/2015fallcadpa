@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = 'KMOL'
-SITENAME = '電腦輔助設計與實習  CADPA 40323140的個人網站'
+SITENAME = '電腦輔助設計與實習  CADPA'
 SITEURL = ''
 
 PATH = 'content'
