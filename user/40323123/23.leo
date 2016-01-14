@@ -32,6 +32,7 @@
 <v t="leo.20151221194659.1"><vh>@edit 40323123_cp_w13.md</vh></v>
 <v t="leo.20151228193617.1"><vh>@edit 40323123_cp_w15.md</vh></v>
 <v t="leo.20160107101810.1"><vh>@edit 40323123_cp_w16.md</vh></v>
+<v t="leo.20160114213152.1"><vh>@edit 40323123_cp_w17.md</vh></v>
 </v>
 </v>
 </v>
@@ -928,6 +929,8 @@ content: "課程: 電腦輔助設計實習A 學號: 40323123"; }&lt;/style&gt;</
     &lt;p align="left"&gt;1. 算NutCracker角度
     &lt;br&gt;
     &lt;p align="left"&gt;2. 打分數&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3. Leo節點製作(補充&lt;/p&gt;
 
 
     &lt;/section&gt;
