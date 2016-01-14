@@ -12,8 +12,8 @@
 <vnodes>
 <v t="leo.20160107155641.2"><vh>NewHeadline</vh></v>
 <v t="leo.20160114140408.1"><vh>@button user pelican</vh></v>
-<v t="leo.20160114140415.1"><vh>@path ./</vh>
-<v t="leo.20160114140415.2" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="leo.20160114140415.1" a="E"><vh>@path ./</vh>
+<v t="leo.20160114140415.2"><vh>以下為 reveal 投影片</vh>
 <v t="leo.20160114140415.3" a="E"><vh>@clean cadpaw1.html</vh>
 <v t="leo.20160114140415.4" a="E"><vh>html 標註</vh>
 <v t="leo.20160114140415.5" a="E"><vh>head</vh>
@@ -273,7 +273,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160114140415.200"><vh>@clean simplest1.html</vh>
+<v t="leo.20160114140415.200" a="E"><vh>@clean simplest1.html</vh>
 <v t="leo.20160114140415.201"><vh>檔案說明</vh></v>
 <v t="leo.20160114140415.202" a="E"><vh>html 標註</vh>
 <v t="leo.20160114140415.203" a="E"><vh>body 標註</vh>
@@ -289,7 +289,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160114140415.211"><vh>@clean simplest2.html</vh>
+<v t="leo.20160114140415.211" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20160114140415.212"><vh>檔案說明</vh></v>
 <v t="leo.20160114140415.213" a="E"><vh>html 標註</vh>
 <v t="leo.20160114140415.214" a="E"><vh>body 標註</vh>
@@ -630,7 +630,7 @@
 <v t="leo.20160114140415.449" a="E"><vh>@path pelican</vh>
 <v t="leo.20160114140415.450"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20160114140415.451"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20160114140415.452"><vh>@path content</vh>
+<v t="leo.20160114140415.452" a="E"><vh>@path content</vh>
 <v t="leo.20160114140415.453"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20160114140415.454"><vh>@edit 2015cphww2.md</vh></v>
 <v t="leo.20160114140415.455"><vh>@edit 2015cphww1.md</vh></v>
