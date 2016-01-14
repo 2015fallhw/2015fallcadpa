@@ -12,7 +12,7 @@
 <vnodes>
 <v t="leo.20151228205439.2"><vh>NewHeadline</vh></v>
 <v t="leo.20151228205451.1"><vh>@button user pelican</vh></v>
-<v t="leo.20151228205502.1"><vh>@path ./</vh>
+<v t="leo.20151228205502.1" a="E"><vh>@path ./</vh>
 <v t="leo.20151228205502.2"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151228205502.3"><vh>@edit 40323131_cp_w1_p.html</vh></v>
 <v t="leo.20151228210119.1"><vh>@edit 40323131_cp_w2_p.html</vh></v>
