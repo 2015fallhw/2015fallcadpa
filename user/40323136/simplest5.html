@@ -1,0 +1,67 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <section>
+        <h2>介紹自己</h2>
+        <p>40323138  郭鐙元</p>
+    </section>
+    <section>	
+        <h2>班級</h2>
+        <p>四設計二甲</p>	
+    </section>        
+</section>
+	
+<section id="hw-task-one">
+    <h2>作業任務六</h2>
+    <p>筆記(第六周)</p>
+    <p>1.終於開始要進入正課!!已建立全班共同倉儲 2.git clone 2015fallcadpa 4.與第一周的東西相同(分支...) 5.user資料夾,複製9999,copy並將它改成自己的學號,之後點進去 6.pelican裡的content,md檔案都刪掉) 7.在Leo複製@Path9999,一樣改學號 8.有9999全改成自己的學號 9.選起!自己!的節點!!按user-pelican 10.SAVE
+</p>
+          
+</section>
+<section>
+        <h2>第六周心得</h2>
+        <p> 本周終於進入正課,開始用班級來做協統處理,大家一起做同一個東西,這時問題就來了,LEO 開始出現被改壞 ,出現缺點只要一個人出錯後來要下載資料的人都會跟著clone下錯誤的檔案,發現這缺點  </p>
+        
+    </section>
+				
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>1.第六周:75</p>
+
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
