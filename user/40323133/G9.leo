@@ -19,13 +19,13 @@
 </v>
 <v t="leo.20151224142747.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151224142747.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20160113215528.1" a="E"><vh>@clean g9_w17_1.md</vh>
+<v t="leo.20160113215528.1"><vh>@clean g9_w17_1.md</vh>
 <v t="leo.20160113215528.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160114141844.1" a="E"><vh>@clean g9_w16_1.md</vh>
+<v t="leo.20160114141844.1"><vh>@clean g9_w16_1.md</vh>
 <v t="leo.20160114141844.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160114141831.1" a="E"><vh>@clean g9_w15_1.md</vh>
+<v t="leo.20160114141831.1"><vh>@clean g9_w15_1.md</vh>
 <v t="leo.20160114141831.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160113215526.1"><vh>@clean g9_w14_1.md</vh>
@@ -176,7 +176,7 @@ ctx.fill()
 {% notebook g9999/g9999_u9999_w13.ipynb %}
 </t>
 <t tx="leo.20160113195215.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA W12 G9.leo 測試
+Title: 2015 電腦輔助設計實習 CADPA W12 G9.leo CERO零件繪製
 Date: 2015-12-10 13:30
 Category: G9
 Tags: leo editor 應用
@@ -599,7 +599,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 </t>
 <t tx="leo.20160113215528.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA W15 G9.leo Onshape零件繪製
+Title: 2015 電腦輔助設計實習 CADPA W17 G9.leo Onshape零件繪製
 Date: 2015-12-10 13:30
 Category: G9
 Tags: leo editor 應用
@@ -881,7 +881,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 </t>
 <t tx="leo.20160114141844.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA W15 G9.leo Onshape零件繪製
+Title: 2015 電腦輔助設計實習 CADPA W16 G9.leo Onshape零件繪製
 Date: 2015-12-10 13:30
 Category: G9
 Tags: leo editor 應用
