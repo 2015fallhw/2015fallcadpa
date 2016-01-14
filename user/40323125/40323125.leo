@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
+<!-- Created by Leo (http://leoeditor.com/leo_toc.html) -->
 <?xml-stylesheet ekr_test ?>
-<leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
+<leo_file xmlns:leo="http://www.leo-editor.org/2011/leo" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
 	<global_window_position top="50" left="50" height="500" width="700"/>
@@ -10,11 +10,11 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151121093513.1" a="E"><vh>@settings</vh>
+<v t="leo.20151121093513.1"><vh>@settings</vh>
 <v t="leo.20151121093513.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151121093513.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20151121093509.2" a="E"><vh>個人專案系統</vh>
+<v t="leo.20151121093509.2"><vh>個人專案系統</vh>
 <v t="leo.20151121095223.1"><vh>設置步驟</vh></v>
 <v t="leo.20151121110456.1"><vh>以下為參考用的 batch 檔案</vh>
 <v t="leo.20151121110509.1"><vh>特別注意</vh></v>
