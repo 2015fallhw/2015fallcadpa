@@ -50,7 +50,7 @@
 <t tx="123.20160114141037.9"></t>
 <t tx="123.20160114144919.1">@language python
 import os
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
+os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
 g.es("user pelican 執行完畢")</t>
 </tnodes>
 </leo_file>
