@@ -44,10 +44,10 @@
 <v t="leo.20160113200755.1"><vh>@clean g6_w11_1.md</vh>
 <v t="leo.20160113200755.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160113200802.1"><vh>@clean g6_w12_1.md</vh>
+<v t="leo.20160113200802.1" a="E"><vh>@clean g6_w12_1.md</vh>
 <v t="leo.20160113200802.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160113200811.1"><vh>@clean g6_w13_1.md</vh>
+<v t="leo.20160113200811.1" a="E"><vh>@clean g6_w13_1.md</vh>
 <v t="leo.20160113200811.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20160113200818.1" a="E"><vh>@clean g6_w14_1.md</vh>
@@ -56,11 +56,11 @@
 <v t="leo.20160114135131.1" a="E"><vh>@clean g6_w15_1.md</vh>
 <v t="leo.20160114135131.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160114135233.1"><vh>@clean g6_w16_1.md</vh>
+<v t="leo.20160114135233.1" a="E"><vh>@clean g6_w16_1.md</vh>
 <v t="leo.20160114135233.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160114135250.1"><vh>@clean g6_w17_1.md</vh>
-<v t="leo.20160114135250.2"><vh>其他內容</vh></v>
+<v t="leo.20160114135250.1" a="E"><vh>@clean g6_w17_1.md</vh>
+<v t="leo.20160114135250.2" a="M"><vh>其他內容</vh></v>
 </v>
 </v>
 </vnodes>
@@ -482,6 +482,39 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;br /&gt;
 
+
+
+</t>
+<t tx="leo.20160113200811.1">@language md
+Title: 2015 電腦輔助設計實習 CADPA G6  W13  CREO 組合
+Date: 2015-12-10 13:30
+Category: G6
+Tags: leo editor 應用
+Slug: g6_w13_1
+Authors: G6
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="leo.20160113200811.2">以下為組員介紹
+組員：&lt;br /&gt;
+吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
+姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
+洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
+陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
+陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
+劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
+&lt;hr/&gt;
+
+以下為相關工作報告資料&lt;br /&gt;
+
+&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
+
+&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
+
+&lt;hr/&gt;
+
+&lt;br /&gt;
+
 &lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
 4.Creo組合圖  負責人：40323139&lt;/span&gt; 
 
@@ -519,17 +552,17 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 
 </t>
-<t tx="leo.20160113200811.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W13  ONSHAPE 零件
-Date: 2015-12-10 13:30
+<t tx="leo.20160113200818.1">@language md
+Title: 2015 電腦輔助設計實習 CADPA G6  W14  ONSHAPE 零件
+Date: 2015-12-17 13:30
 Category: G6
 Tags: leo editor 應用
-Slug: g6_w13_1
+Slug: g6_w14_1
 Authors: G6
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
-<t tx="leo.20160113200811.2">以下為組員介紹
+<t tx="leo.20160113200818.2">以下為組員介紹
 組員：&lt;br /&gt;
 吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
 姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
@@ -538,6 +571,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
 劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
 &lt;hr/&gt;
+
 
 以下為相關工作報告資料&lt;br /&gt;
 
@@ -673,111 +707,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;br /&gt;
 
-
-
-</t>
-<t tx="leo.20160113200818.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W14  ONSHAPE 組合
-Date: 2015-12-17 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w14_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20160113200818.2">以下為組員介紹
-組員：&lt;br /&gt;
-吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
-姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
-洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
-陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
-陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
-劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
-&lt;hr/&gt;
-
-
-以下為相關工作報告資料&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #003366;"&gt;Nutcracker 機構&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-
-&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="550"height="450"&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
-1.Onshape組合圖  負責人：40323115&lt;/span&gt; 
-
-
-&lt;p&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/R-Fmh3r40xs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
-2.Onshape組合圖   負責人：40323125&lt;/span&gt; 
-
-&lt;p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/jcC17yWJ_zY" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
-3.Onshape組合圖  負責人：40323127&lt;/span&gt; 
-
-&lt;p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pBMQmXwqeSs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
-4.Onshape組合圖  負責人：40323139&lt;/span&gt; 
-
-&lt;p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/7BTVYLt0DVI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
-5.Onshape組合圖  負責人：40323141&lt;/span&gt; 
-
-&lt;p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/_s4eylqc1mU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
-6.Onshape組合圖 負責人：40323153&lt;/span&gt; 
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/151209411" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;
-
-&lt;br /&gt;
-
-
 </t>
 <t tx="leo.20160114135131.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W15  報告 
+Title: 2015 電腦輔助設計實習 CADPA G6  W15  ONSHAPE 組合 
 Date: 2015-12-24 13:30
 Category: G6
 Tags: leo editor 應用
@@ -839,6 +771,32 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;br /&gt;
 
+
+
+
+</t>
+<t tx="leo.20160114135233.1">@language md
+Title: 2015 電腦輔助設計實習 CADPA G6  W16  ONSHAPE 組合
+Date: 2015-12-31 13:30
+Category: G6
+Tags: leo editor 應用
+Slug: g6_w16_1
+Authors: G6
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+@others
+</t>
+<t tx="leo.20160114135233.2">以下為組員介紹
+組員：&lt;br /&gt;
+吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
+姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
+洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
+陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
+陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
+劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
+&lt;hr/&gt;
+
+以下為相關工作報告資料&lt;br /&gt;
+
 &lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;
 4.Onshape組合圖  負責人：40323139&lt;/span&gt; 
 
@@ -874,87 +832,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;br /&gt;
 
-
-</t>
-<t tx="leo.20160114135233.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W16  報告
-Date: 2015-12-31 13:30
-Category: G6
-Tags: leo editor 應用
-Slug: g6_w16_1
-Authors: G6
-Summary: 讓組員各自利用 Leo 檔案維護分組報告
-@others
-</t>
-<t tx="leo.20160114135233.2">組員：&lt;br /&gt;
-莊舜婷  &lt;a href="http://40323105.github.io/cadpa/"&gt;40323105&lt;/a&gt;&lt;br /&gt; 
-曾心榆  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323106/"&gt;40323106&lt;/a&gt;&lt;br /&gt;
-廖佑珊  &lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107&lt;/a&gt; &lt;br /&gt;
-馮俊翰  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323146/"&gt;40323146&lt;/a&gt;&lt;br /&gt;
-楊宗祐  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323148/"&gt;40323148&lt;/a&gt;&lt;br /&gt;
-
-&lt;hr/&gt;
-
-以下為相關工作報告資料&lt;br /&gt;
-
-&lt;hr/&gt;
-
-這週主要是針對 Onshape軟體，所以請組員將各自的零件影片上傳至下方。&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;零件繪製影片&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-&lt;br /&gt;
-
-By：40323106
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oyDG8a9rIbA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k2pFB36Ao7A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-By：40323146
-&lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-By：40323105
-&lt;iframe src="https://player.vimeo.com/video/150013185" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-&lt;iframe src="https://player.vimeo.com/video/150013184" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
-By：40323107
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;br /&gt;
-
-&lt;hr/&gt;  
-
-&lt;br /&gt;
-
-這週主要是針對 Onshape軟體，所以請組員將各自的組裝影片上傳至下方。&lt;br /&gt;
-
-&lt;span style="font-size: 22pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #7A0099;"&gt;機構組裝影片&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;
-&lt;br /&gt;
-
-By：40323105
-&lt;iframe src="https://player.vimeo.com/video/149553485" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-
-
-By：40323106
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/JEPgzA5JaqE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
-
-By：40323107
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-By：40323146
-&lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-
-By：40323148
-&lt;iframe src="https://player.vimeo.com/video/150393214" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-
 </t>
 <t tx="leo.20160114135250.1">@language md
-Title: 2015 電腦輔助設計實習 CADPA G6  W17  報告
+Title: 2015 電腦輔助設計實習 CADPA G6  W17  
 Date: 2016-01-07 13:30
 Category: G6
 Tags: leo editor 應用
@@ -963,115 +843,55 @@ Authors: G6
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others
 </t>
-<t tx="leo.20160114135250.2">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行
+<t tx="leo.20160114135250.2">以下為組員介紹
+組員：&lt;br /&gt;
+吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
+姚承佑  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/"&gt;40323125&lt;/a&gt;&lt;br /&gt;
+洪孟瑋  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/"&gt;40323127&lt;/a&gt;&lt;br /&gt;
+陳延誠  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/"&gt;40323139&lt;/a&gt;&lt;br /&gt;
+陳律廷  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/"&gt;40323141&lt;/a&gt;&lt;br /&gt;
+劉彥沛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/"&gt;40323153&lt;/a&gt;&lt;br /&gt;
+&lt;hr/&gt;
 
-以下可以引入 reveal.js 投影片
+組長 : 40323139 陳延誠
 
-可以引入 vimeo 影片
+心得 : 
+         關於這次的報告作業，我認為比期中的難多了，雖然都是同樣的指令，git clone 、 git checkout ，還有最重要、常用的 git add -A 、git commit -m 、git pull origin、git push origin 等等，雖然很難，但是最後對他們的了解也更多了，還有學到兩種繪圖軟體，一個是Creo；一個是Onshape ，我覺得Creo 在一開始使用的時候非常的不好用，因為標註不太好標註，但是軟體的流暢度是不錯的，那另外一個Onshape 我覺得Onshape比Creo好了解，不用那麼麻煩，最重要的一點是他可以跟別人分享；可以大家一起畫圖，但是他也有個大缺點就是他在使用的過程中是非常的延遲的，這是比較麻煩的問題。
+         二年級上學期就這樣過去了，雖然上課不是很認真的聽，但在期末的時候還是學到了非常多的東西，過程當然有很多不懂得地方，所以我馬上找同學求助，到後來自己也對使用過程有點了解，可以自己試著推看看，但是有時候還是會忘記一些步驟，需要同學提醒。
+         
+         
+組員 : 40323115 吳政德
 
-可以導入組員的 Jupyter notebook
+心得 : 
+         最後這一個學期，學到了很多，有關於軟體的操作和運用，最後也順便的打出了報告，還有學會了Creo和onshape 希望下學期可以更進步，學到更多東西。
+         
+         
+組員 : 40323125 姚承佑
 
-也可以加入其他 html 格式或 md 格式的心得報告
+心得 : 
+         期末了，我覺得我學了很多東西，不只python而已，還有一些繪圖軟體，雖然繪圖軟體一開始用還不習慣，不過用久了，發現這學期學的繪圖軟體很好用，學習不同繪圖軟體，才能增加自己繪圖能力。
+         
+         
+組員 : 40323127 洪孟瑋
 
-有關此一測試的詳細內容, 請參考 user/9999/9999.leo 檔案中的節點配置
+心得 : 
+         這學期感覺跟以往的上課內容差蠻多的，雖然都還是不停的got clone,hit push... 但是有多學了繪圖軟體，那就是on shape跟creo，這兩個算是我這學期學起來最上手的了，跟以往學的3D繪圖軟體差蠻多的，其中on shape可以在線上繪畫讓我覺得很方便，以後在業界的使用率我想也是很高的吧！
+經過這學期下來，也算是吸收了滿多東西，有不懂的就要趕快去問同學，期末報告關於leo的也是一直在尋求幫助，可能自己在推上去還是有些問題，不過已經算是很了解他的操作模式了，之後再遇到這些，應該也會慢慢得心應手的！
 
-基本的工作模式:
 
-&lt;ol&gt;
+組員 : 40323141 陳律廷
 
-&lt;li&gt;可以直接在 user 目錄下各組員的 leo 檔案中, 建立外部目錄 pelican/content 中的 md 檔案&lt;/li&gt;
-&lt;li&gt;唯一要注意的就是, 各組各週的分組報告 .md 名稱與 slug 設定, 不能互相覆寫&lt;/li&gt;
-&lt;li&gt;透過將 Jupyter 在 content/notebook/g9999 中啟動, 分組報告可以直接引用各組員所建立的 Notebook 報告檔案內容
-&lt;li&gt; 各組分別完成各週的分組報告 .md 檔案後, 必須記得點按 admin pelican button, 以便產生對應的網誌內容, 否則 .md 內容不會出現在全班的 gh-pages 網誌中&lt;/li&gt;
+心得 : 
+         不管是Creo還是onshape介面一開始都很陌生，聽老師在講解時真的覺得這個好麻煩不好畫，但實際操作起來卻發現沒有想像中的難，而且滿腦好上手都，只是有時候會卡卡的，onshape的組合雖然看起來也複雜，不過懂了介面後就簡單多啦，反而覺得真正難的是creo的組合圖，常常點錯，後面不太會組裝，後來問了同學好幾次才學會。
+         
+         
+ 組員 : 40323153 劉彥沛
 
-&lt;/ol&gt;
-
-當 git pull origin gh-pages 之後, 該如何解決遠端拉下的版本與近端的版本衝突?
-
-&lt;ol&gt;
-
-&lt;li&gt;先檢查所有檔案中有7個小於符號的衝突標示字串的內容, 假入在 windows, 利用 grepwin, 假如在 Linux 使用 grep -r "查詢字串"&lt;/li&gt;
-&lt;li&gt;假如所有衝突都在 .html 檔案, 只要 git pull origin gh-pages 之後 ,取得近端沒有的 .md 檔案, 再執行一次 pelican 轉檔的指令 (也就是再按一次 admin-pelican 後, 再檢查是否所有 衝突標示內容都已經消失&lt;/li&gt;
-&lt;li&gt; 確定所有 .leo 與 html 檔案內容都無衝突, 且 .leo 檔案節點可以正確開啟後, 就可以將端的版本推向遠端&lt;/li&gt;
-
-&lt;/ol&gt;
-
-以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:
-
-零件檔案位於: &lt;https://github.com/2015fallhw/user9999/tree/master/parts&gt;
-
-使用方法說明: &lt;https://help.github.com/articles/3d-file-viewer/&gt;
-
-&lt;script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"&gt;&lt;/script&gt;
-
-&lt;br /&gt;
-以下利用 Brython 語法, 在網頁繪圖:
-
-使用方法: &lt;http://www.brython.info/&gt;
-
-&lt;!-- 導入 brython_dist.js --&gt;
-&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
-&lt;!-- 啟動 brython() --&gt;
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
-&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
-&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
-&lt;script type="text/python3"&gt;
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-flag_w = canvas.width
-flag_h = canvas.height
-circle_x = flag_w/4
-circle_y = flag_h/4
-# 先畫滿地紅
-ctx.fillStyle='rgb(255, 0, 0)'
-ctx.fillRect(0,0,flag_w,flag_h)
-# 再畫青天
-ctx.fillStyle='rgb(0, 0, 150)'
-ctx.fillRect(0,0,flag_w/2,flag_h/2)
-# 畫十二道光芒白日
-ctx.beginPath()
-star_radius = flag_w/8
-angle = 0
-for i in range(24):
-    angle += 5*math.pi*2/12
-    toX = circle_x + math.cos(angle)*star_radius
-    toY = circle_y + math.sin(angle)*star_radius
-    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
-    if (i):
-        ctx.lineTo(toX, toY)
-    else:
-        ctx.moveTo(toX, toY)
-ctx.closePath()
-# 將填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-# 白日:藍圈
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為藍色
-ctx.fillStyle = 'rgb(0, 0, 149)'
-ctx.fill()
-# 白日:白心
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-&lt;/script&gt;
-</t>
+心得 : 
+         這次的小組合作，我們分配了繪圖，拍影片，小組網站等等的工作。分配工作後便開始做各自的任務，但雖然說是大家的工作內容都不一樣，但是還是有一些相似之處，因此我們更容易可以互相幫忙分工。在這學期中學習到了很多新的軟體，像是onshape,credo,還有錄影程式，之前從來沒有螢幕錄影的經驗。本來想說操作會很複雜，但其實實際操作是非常簡單的。雖然說這次學到的這些軟體都只有認識到皮毛而已，但還是很希望在未來還是有機會可以繼續的研究使用這些軟體。
+                 
+                 
+ 
+         </t>
 </tnodes>
 </leo_file>

@@ -4,7 +4,7 @@
 <!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
 <head>
   <meta charset="utf-8">
-  <title>2015 電腦輔助設計實習 CADPA G6 W17 報告 &mdash; 2015FALL CADPA 作業主頁</title>
+  <title>2015 電腦輔助設計實習 CADPA G6 W17 &mdash; 2015FALL CADPA 作業主頁</title>
   <meta name="author" content="KMOL">
 
 
@@ -83,113 +83,40 @@
 <div>
   <article class="hentry" role="article">
 <header>
-      <h1 class="entry-title">2015 電腦輔助設計實習 CADPA G6 W17 報告</h1>
+      <h1 class="entry-title">2015 電腦輔助設計實習 CADPA G6 W17</h1>
     <p class="meta">
 <time datetime="2016-01-07T13:30:00+08:00" pubdate>週四 07 一月 2016</time>    </p>
 </header>
 
-  <div class="entry-content"><p>是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行</p>
-<p>以下可以引入 reveal.js 投影片</p>
-<p>可以引入 vimeo 影片</p>
-<p>可以導入組員的 Jupyter notebook</p>
-<p>也可以加入其他 html 格式或 md 格式的心得報告</p>
-<p>有關此一測試的詳細內容, 請參考 user/9999/9999.leo 檔案中的節點配置</p>
-<p>基本的工作模式:</p>
-<ol>
-
-<li>可以直接在 user 目錄下各組員的 leo 檔案中, 建立外部目錄 pelican/content 中的 md 檔案</li>
-<li>唯一要注意的就是, 各組各週的分組報告 .md 名稱與 slug 設定, 不能互相覆寫</li>
-<li>透過將 Jupyter 在 content/notebook/g9999 中啟動, 分組報告可以直接引用各組員所建立的 Notebook 報告檔案內容
-<li> 各組分別完成各週的分組報告 .md 檔案後, 必須記得點按 admin pelican button, 以便產生對應的網誌內容, 否則 .md 內容不會出現在全班的 gh-pages 網誌中</li>
-
-</ol>
-
-<p>當 git pull origin gh-pages 之後, 該如何解決遠端拉下的版本與近端的版本衝突?</p>
-<ol>
-
-<li>先檢查所有檔案中有7個小於符號的衝突標示字串的內容, 假入在 windows, 利用 grepwin, 假如在 Linux 使用 grep -r "查詢字串"</li>
-<li>假如所有衝突都在 .html 檔案, 只要 git pull origin gh-pages 之後 ,取得近端沒有的 .md 檔案, 再執行一次 pelican 轉檔的指令 (也就是再按一次 admin-pelican 後, 再檢查是否所有 衝突標示內容都已經消失</li>
-<li> 確定所有 .leo 與 html 檔案內容都無衝突, 且 .leo 檔案節點可以正確開啟後, 就可以將端的版本推向遠端</li>
-
-</ol>
-
-<p>以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:</p>
-<p>零件檔案位於: <a href="https://github.com/2015fallhw/user9999/tree/master/parts">https://github.com/2015fallhw/user9999/tree/master/parts</a></p>
-<p>使用方法說明: <a href="https://help.github.com/articles/3d-file-viewer/">https://help.github.com/articles/3d-file-viewer/</a></p>
-<script src="https://embed.github.com/view/3d/2015fallhw/user9999/master/parts/spikeball.stl"></script>
-
-<p><br />
-以下利用 Brython 語法, 在網頁繪圖:</p>
-<p>使用方法: <a href="http://www.brython.info/">http://www.brython.info/</a></p>
-<!-- 導入 brython_dist.js -->
-
-<script type="text/javascript" src="http://brython.info/src/brython_dist.js"></script>
-
-<!-- 啟動 brython() -->
-
-<script>
-window.onload=function(){
-brython(1);
-}
-</script>
-
-<!-- 以下利用 Brython 程式執行繪圖 -->
-
-<canvas id="plotarea" width="300" height="200"></canvas>
-
-<script type="text/python3">
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-flag_w = canvas.width
-flag_h = canvas.height
-circle_x = flag_w/4
-circle_y = flag_h/4
-# 先畫滿地紅
-ctx.fillStyle='rgb(255, 0, 0)'
-ctx.fillRect(0,0,flag_w,flag_h)
-# 再畫青天
-ctx.fillStyle='rgb(0, 0, 150)'
-ctx.fillRect(0,0,flag_w/2,flag_h/2)
-# 畫十二道光芒白日
-ctx.beginPath()
-star_radius = flag_w/8
-angle = 0
-for i in range(24):
-    angle += 5*math.pi*2/12
-    toX = circle_x + math.cos(angle)*star_radius
-    toY = circle_y + math.sin(angle)*star_radius
-    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
-    if (i):
-        ctx.lineTo(toX, toY)
-    else:
-        ctx.moveTo(toX, toY)
-ctx.closePath()
-# 將填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-# 白日:藍圈
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為藍色
-ctx.fillStyle = 'rgb(0, 0, 149)'
-ctx.fill()
-# 白日:白心
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-</script></div>
+  <div class="entry-content"><p>以下為組員介紹
+組員：<br />
+吳政德  <a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/">40323115</a><br />
+姚承佑  <a href="http://2015fallhw.github.io/2015fallcadpa/user/40323125/">40323125</a><br />
+洪孟瑋  <a href="http://2015fallhw.github.io/2015fallcadpa/user/40323127/">40323127</a><br />
+陳延誠  <a href="http://2015fallhw.github.io/2015fallcadpa/user/40323139/">40323139</a><br />
+陳律廷  <a href="http://2015fallhw.github.io/2015fallcadpa/user/40323141/">40323141</a><br />
+劉彥沛  <a href="http://2015fallhw.github.io/2015fallcadpa/user/40323153/">40323153</a><br />
+<hr/></p>
+<p>組長 : 40323139 陳延誠</p>
+<p>心得 : 
+         關於這次的報告作業，我認為比期中的難多了，雖然都是同樣的指令，git clone 、 git checkout ，還有最重要、常用的 git add -A 、git commit -m 、git pull origin、git push origin 等等，雖然很難，但是最後對他們的了解也更多了，還有學到兩種繪圖軟體，一個是Creo；一個是Onshape ，我覺得Creo 在一開始使用的時候非常的不好用，因為標註不太好標註，但是軟體的流暢度是不錯的，那另外一個Onshape 我覺得Onshape比Creo好了解，不用那麼麻煩，最重要的一點是他可以跟別人分享；可以大家一起畫圖，但是他也有個大缺點就是他在使用的過程中是非常的延遲的，這是比較麻煩的問題。
+         二年級上學期就這樣過去了，雖然上課不是很認真的聽，但在期末的時候還是學到了非常多的東西，過程當然有很多不懂得地方，所以我馬上找同學求助，到後來自己也對使用過程有點了解，可以自己試著推看看，但是有時候還是會忘記一些步驟，需要同學提醒。</p>
+<p>組員 : 40323115 吳政德</p>
+<p>心得 : 
+         最後這一個學期，學到了很多，有關於軟體的操作和運用，最後也順便的打出了報告，還有學會了Creo和onshape 希望下學期可以更進步，學到更多東西。</p>
+<p>組員 : 40323125 姚承佑</p>
+<p>心得 : 
+         期末了，我覺得我學了很多東西，不只python而已，還有一些繪圖軟體，雖然繪圖軟體一開始用還不習慣，不過用久了，發現這學期學的繪圖軟體很好用，學習不同繪圖軟體，才能增加自己繪圖能力。</p>
+<p>組員 : 40323127 洪孟瑋</p>
+<p>心得 : 
+         這學期感覺跟以往的上課內容差蠻多的，雖然都還是不停的got clone,hit push... 但是有多學了繪圖軟體，那就是on shape跟creo，這兩個算是我這學期學起來最上手的了，跟以往學的3D繪圖軟體差蠻多的，其中on shape可以在線上繪畫讓我覺得很方便，以後在業界的使用率我想也是很高的吧！
+經過這學期下來，也算是吸收了滿多東西，有不懂的就要趕快去問同學，期末報告關於leo的也是一直在尋求幫助，可能自己在推上去還是有些問題，不過已經算是很了解他的操作模式了，之後再遇到這些，應該也會慢慢得心應手的！</p>
+<p>組員 : 40323141 陳律廷</p>
+<p>心得 : 
+         不管是Creo還是onshape介面一開始都很陌生，聽老師在講解時真的覺得這個好麻煩不好畫，但實際操作起來卻發現沒有想像中的難，而且滿腦好上手都，只是有時候會卡卡的，onshape的組合雖然看起來也複雜，不過懂了介面後就簡單多啦，反而覺得真正難的是creo的組合圖，常常點錯，後面不太會組裝，後來問了同學好幾次才學會。</p>
+<p>組員 : 40323153 劉彥沛</p>
+<p>心得 : 
+         這次的小組合作，我們分配了繪圖，拍影片，小組網站等等的工作。分配工作後便開始做各自的任務，但雖然說是大家的工作內容都不一樣，但是還是有一些相似之處，因此我們更容易可以互相幫忙分工。在這學期中學習到了很多新的軟體，像是onshape,credo,還有錄影程式，之前從來沒有螢幕錄影的經驗。本來想說操作會很複雜，但其實實際操作是非常簡單的。雖然說這次學到的這些軟體都只有認識到皮毛而已，但還是很希望在未來還是有機會可以繼續的研究使用這些軟體。</p></div>
     <footer>
 <p class="meta">
   <span class="byline author vcard">
@@ -255,15 +182,7 @@ ctx.fill()
 
   <section>
   <h1>Tags</h1>
-<<<<<<< HEAD
-    <a href="./tag/onshape-ying-yong.html">OnShape 應用</a>,    <a href="./tag/leo-editor-ying-yong.html">leo editor 應用</a>,    <a href="./tag/mechanism.html">mechanism</a>,    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/qi-mo-ping-fen.html">期末評分</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/ipython.html">IPython</a>  </section>
-=======
-<<<<<<< HEAD
-    <a href="./tag/onshape-ying-yong.html">OnShape 應用</a>,    <a href="./tag/mechanism.html">mechanism</a>,    <a href="./tag/qi-mo-ping-fen.html">期末評分</a>,    <a href="./tag/ipython.html">IPython</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/leo-editor-ying-yong.html">leo editor 應用</a>,    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/pelican.html">pelican</a>  </section>
-=======
-    <a href="./tag/onshape-ying-yong.html">OnShape 應用</a>,    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/pelican.html">pelican</a>,    <a href="./tag/mechanism.html">mechanism</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/qi-mo-ping-fen.html">期末評分</a>,    <a href="./tag/leo-editor-ying-yong.html">leo editor 應用</a>,    <a href="./tag/ipython.html">IPython</a>  </section>
->>>>>>> fbca88fd7dc655dde20666b08198f498c89a9d1d
->>>>>>> 1e9445d197beb077ccba76e650eaa22b58b5cd52
+    <a href="./tag/jupyter.html">Jupyter</a>,    <a href="./tag/qi-mo-ping-fen.html">期末評分</a>,    <a href="./tag/onshape-ying-yong.html">OnShape 應用</a>,    <a href="./tag/mechanism.html">mechanism</a>,    <a href="./tag/publishing.html">publishing</a>,    <a href="./tag/leo-editor-ying-yong.html">leo editor 應用</a>,    <a href="./tag/ipython.html">IPython</a>,    <a href="./tag/pelican.html">pelican</a>  </section>
 
 
     <section>
@@ -287,7 +206,7 @@ ctx.fill()
     var disqus_shortname = '2015fall';
     var disqus_identifier = '/g6_w17_1.html';
     var disqus_url = './g6_w17_1.html';
-    var disqus_title = '2015 電腦輔助設計實習 CADPA G6  W17  報告';
+    var disqus_title = '2015 電腦輔助設計實習 CADPA G6  W17';
     (function() {
       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
       dsq.src = "//" + disqus_shortname + '.disqus.com/embed.js';
