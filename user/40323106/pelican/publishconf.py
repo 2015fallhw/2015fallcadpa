@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),('我的github', 'https://github.com/dora40323106/2015cadpa/tree/gh-pages'),('我的個人網頁', 'http://dora40323106.github.io/2015cadpa/'))
+         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),('我的github', 'https://github.com/dora40323106/2015cadpa/tree/gh-pages'),('40323106個人網頁', 'http://dora40323106.github.io/2015cadpa/'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
