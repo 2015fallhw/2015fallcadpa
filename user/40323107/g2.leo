@@ -670,10 +670,8 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/fix-2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/151743624" width="500" height="381" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;iframe src="https://player.vimeo.com/video/151743624" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;/p&gt;
-
-
 </t>
 <t tx="leo.20151210160036.1">@language md
 Title: 2015 電腦輔助設計實習 CADPA G2  W13  報告
@@ -746,7 +744,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
 
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/adjuster1.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/adjuster1.stl"&gt;&lt;/script&gt;   
 
 
 &lt;br /&gt;
