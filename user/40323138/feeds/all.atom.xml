@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40323138FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-17T16:59:00+08:00</updated><entry><title>電腦輔助設計與實習 作業17</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2015-12-17T16:59:00+08:00</updated><author><name>40323138</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;p&gt;以下為作業十七內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL 40323138 CADPA 作業-G8</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-17T16:59:00+08:00</updated><entry><title>電腦輔助設計與實習 作業17</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2015-12-17T16:59:00+08:00</updated><author><name>40323138</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;p&gt;以下為作業十七內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest13.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="simplest16.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest16.html" target="_blank"&gt;作業十七投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h2&gt; creo Assmbly&lt;h2&gt;&lt;/p&gt;
@@ -9,7 +9,7 @@
 
 &lt;iframe width="420" height="315" src="https://www.youtube.com/embed/JfO_2mHBFXA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 作業16</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-12-17T15:59:00+08:00</updated><author><name>40323138</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;以下為作業十六內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="simplest13.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="simplest15.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest15.html" target="_blank"&gt;作業十六投影片&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;h2&gt;cylinder&lt;h2&gt;&lt;/p&gt;
@@ -1368,7 +1368,7 @@ sssssssss
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>電腦輔助設計與實習 作業1</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-16T16:41:00+08:00</updated><author><name>40323138</name></author><id>tag:coursemdetw.github.io,2015-09-16:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>電腦輔助設計與實習 作業1</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-16T16:40:00+08:00</updated><author><name>40323138</name></author><id>tag:coursemdetw.github.io,2015-09-16:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
