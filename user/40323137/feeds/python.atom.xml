@@ -41,6 +41,32 @@
 &lt;iframe src="https://player.vimeo.com/video/149942487" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/149942487"&gt;LEO5.1&lt;/a&gt; from &lt;a href="https://vimeo.com/user44938638"&gt;郭世欣&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;(更新)
+1. 在課程網站中，下載fix.zip壓縮檔。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;在leo-editor的gitcub下載leo-editor-broke-abbrev.zip壓縮檔，放在fix資料夾。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打開\Ana3_lite2\data\SciTE\SciTE.exe&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SciTE開啟fix.bat，新增copy leo-editor-broke-abbrev C:\Ana3_2015\data\。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;SciTE開啟start.bat，內容中，啟動Jupyter從原本的notebook，改成tmp內執行。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在start.bat檔內，將pip install ( http:/ /140.130.17.17/public/leo-editor-master.zip ) 改成leo-editor-broke-abbrev.zip。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;打開fix.bat ，就會依照該路徑、位置進行安裝和執行。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;iframe src="https://player.vimeo.com/video/151209147" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/151209147"&gt;修改start位置、fix設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user44938638"&gt;郭世欣&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/user44938638"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計實習 作業十三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-25T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-12-25:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;p&gt;以下為作業十三內容&lt;/p&gt;
 &lt;p&gt;作業內容投影片:&lt;/p&gt;
 &lt;iframe src=" cadp_w13_simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;

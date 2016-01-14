@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),('2015作業主頁', '../../'),(' my github', 'https://github.com/peipei9728'),(' my HW pages', 'http://peipei9728.github.io/cadpaw2/'),(' my Vimeo', 'https://vimeo.com/home/myvideos'))
+         (' Python', 'http://python.org/'),(' 2015作業主頁', '../../'),(' my github', 'https://github.com/peipei9728'),(' my Vimeo', 'https://vimeo.com/home/myvideos'),(' 40323153 個人網站', 'http://peipei9728.github.io/cadpaw2/'))
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
