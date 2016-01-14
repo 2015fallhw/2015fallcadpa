@@ -27,7 +27,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('KMOL Course Blog (虎尾科大機械設計工程系)', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
-         ('My C.A.D.P', 'http://40323113.github.io/40323113'), )
+         ('40323113 個人網頁', 'http://40323113.github.io/40323113'), )
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
