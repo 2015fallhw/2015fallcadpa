@@ -1,0 +1,61 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>設計二甲</h1>
+    <p>40323102 林宛儒 </p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>做法: </h1>
+    <p>1. 因為新增了班上的協同倉儲,所以要git clone 2015fallcadpa  2.再來git checkout,然後去資料夾裡,進入user
+3. 複製一個9999的檔案,把它改成自己的學號之後再貼上  4.然後把pelican的content裡面的檔案刪掉 5.在leo複製path9999,重新命名成學號  6 .path 40323102再點user-pelican 7.完成
+</p>
+   
+</section>
+				
+<section>
+    <h1>自評與心得</h1>
+    <p>這次上課因為要把之前自己已經推到遠端的資料再一次推到班上的倉儲,又多了一些新的步驟,一些資料刪刪改改的,
+比較複雜的地方我就去問同學,不但比較快而且還可以順便問是什麼意思,也更有印象,很感謝同學的幫忙,
+才順利完成了這堂課的新任務。
+
+</p>
+    <p>自評分數:70<a href="#/hw-task-one"></a>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

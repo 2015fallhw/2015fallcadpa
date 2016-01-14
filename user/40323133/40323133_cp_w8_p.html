@@ -1,0 +1,57 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>設計二甲</h1>
+    <p>40323102 林宛儒 </p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>做法: </h1>
+    <p>1.更新自己最終的近端與遠端 2.把自己的資料更新至班上倉儲  3.學會creo基本操作 4.學會solvespace基本操作
+</p>
+   
+</section>
+				
+<section>
+    <h1>自評與心得</h1>
+    <p>這次上課是最後的總結,每周的作業都要一一做最後的處理,因為要交期中報告了,不知不覺兩個月也過了,這期間學到的東西真的比之前更了解,除了有同學的幫忙之外,也有自己做的筆記,如果來不及記下來,就趕快拍照下來更清楚,知道哪些地方需要修改,不然感覺少改了一個東西,後面延續下去的東西都會錯,所以這門課還蠻需要細心和耐心的,也感謝老師的講解,讓我們去管理自己的資料,以後一定很有幫助!!!
+</p>
+    <p>自評分數:75<a href="#/hw-task-one"></a>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
