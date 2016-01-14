@@ -1,17 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL C.A.D.P_A－40323150</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-12-03T20:00:00+08:00</updated><entry><title>2015 電腦輔助設計實習 作業十一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-03T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL C.A.D.P_A－40323150</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2016-01-09T20:00:00+08:00</updated><entry><title>2015 電腦輔助設計實習 #期末總結</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w_end.html" rel="alternate"></link><updated>2016-01-09T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2016-01-09:reveal/2015cp_hw_w_end.html</id><summary type="html">&lt;iframe src="simplest end.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="simplest9.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="simplest end.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎期末總結:&lt;/h1&gt;
+&lt;p&gt;Nutcracker機構-Assembly&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/asm0002.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150985599"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150931846"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BASE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1base.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150805720"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150932966"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;HINGE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt01.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150805725"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927520"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ADJUSTER BASE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt03.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150805726"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927515"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CYLINDER&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt09.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150805722"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927519"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PISTON&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/2prt02.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150805724"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927521"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ADJUSTER&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt04.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150805723"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150933506"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;CONNECTION&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt05.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150808153"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927526"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;HANDLE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt06.stl"&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/150808152"&gt;Working On Creo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/150927524"&gt;Working On Onshape&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="creo parametric"></category><category term="onshape"></category><category term="assemble"></category></entry><entry><title>2015 電腦輔助設計實習 作業十七</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w17.html" rel="alternate"></link><updated>2016-01-09T10:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2016-01-09:reveal/2015cp_hw_w17.html</id><summary type="html">&lt;iframe src="simplest17.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest17.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ17:&lt;/h1&gt;
+&lt;h2&gt;Nutcracker機構組裝影片:&lt;/h2&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150931846" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="onshape"></category><category term="assemble"></category></entry><entry><title>2015 電腦輔助設計實習 作業十六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2016-01-03T22:05:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2016-01-03:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;iframe src="simplest16.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest16.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ16:&lt;/h1&gt;
+&lt;p&gt;PISTON&lt;img src="https://copy.com/zuGYkCXeWNziCWDK"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927521" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ADJUSTER&lt;img src="https://copy.com/csvWAJEoahoCXPkx"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150933506" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;CONNECTION&lt;img src="https://copy.com/W4lP8phZbBLQm7yo"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927526" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;HANDLE&lt;img src="https://copy.com/1ADqBqvzHfNC3fpO"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927524" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="onshape"></category></entry><entry><title>2015 電腦輔助設計實習 作業十五</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w15.html" rel="alternate"></link><updated>2016-01-03T22:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2016-01-03:reveal/2015cp_hw_w15.html</id><summary type="html">&lt;iframe src="simplest15.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest15.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ15:&lt;/h1&gt;
+&lt;p&gt;BASE&lt;img src="https://copy.com/mHTybiLVZUdsMnpX"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150932966" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;HINGE&lt;img src="https://copy.com/PF2apNvUet1mB3GQ"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927520" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ADJUSTER BASE&lt;img src="https://copy.com/xaAom4m6Z8QHlaKu"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927520" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;CYLINDER&lt;img src="https://copy.com/QNGS8x6uz8SBunsh"&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/150927519" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="onshape"></category></entry><entry><title>2015 電腦輔助設計實習 作業十四</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w14.html" rel="alternate"></link><updated>2016-01-03T21:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2016-01-03:reveal/2015cp_hw_w14.html</id><summary type="html">&lt;iframe src="simplest14.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest14.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ14:&lt;/h1&gt;
+&lt;h2&gt;Nutcracker-Assembly&lt;/h2&gt;
+
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/asm0002.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150985599" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="creo parametric"></category><category term="assemble"></category></entry><entry><title>2015 電腦輔助設計實習 作業十三</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w13.html" rel="alternate"></link><updated>2015-12-03T22:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/2015cp_hw_w13.html</id><summary type="html">&lt;iframe src="simplest13.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest13.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ13:&lt;/h1&gt;
+&lt;p&gt;零件表可參考&lt;a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86"&gt;這裡&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PISTON&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/2prt02.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805724" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ADJUSTER&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt04.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805723" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;CONNECTION&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt05.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150808153" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;HANDLE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/3prt06.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150808152" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="creo parametric"></category></entry><entry><title>2015 電腦輔助設計實習 作業十二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w12.html" rel="alternate"></link><updated>2015-12-03T21:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/2015cp_hw_w12.html</id><summary type="html">&lt;iframe src="simplest12.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest12.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ12:&lt;/h1&gt;
+&lt;p&gt;零件表可參考&lt;a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86"&gt;這裡&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BASE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1base.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805720" width="300" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;HINGE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt01.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805725" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;ADJUSTER BASE&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt03.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805726" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;CYLINDER&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/1prt09.stl"&gt;&lt;/script&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/150805722" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="creo parametric"></category></entry><entry><title>2015 電腦輔助設計實習 作業十一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w11.html" rel="alternate"></link><updated>2015-12-03T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/2015cp_hw_w11.html</id><summary type="html">&lt;iframe src="simplest11.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest11.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;◎Ｗｅｅｋ11:&lt;/h1&gt;
-&lt;p&gt;↑↑↑詳情請見投影片~&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業十</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-12-02T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-12-02:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest9.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;◎Ｗｅｅ10:&lt;/h1&gt;
-&lt;p&gt;↑↑↑詳情請見投影片~&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業九</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w9.html" rel="alternate"></link><updated>2015-12-01T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-12-01:reveal/2015cp_hw_w9.html</id><summary type="html">&lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="simplest9.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;◎Ｗｅｅｋ9:&lt;/h1&gt;
-&lt;p&gt;↑↑↑詳情請見投影片~&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 #期中總結</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_wall.html" rel="alternate"></link><updated>2015-11-08T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-11-08:reveal/2015cp_hw_wall.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;p&gt;↑↑↑詳情請見投影片~&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g7.html"&gt;班級協同網站－第八組&lt;/a&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 #期中總結</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_wall.html" rel="alternate"></link><updated>2015-11-08T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-11-08:reveal/2015cp_hw_wall.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;◎總結:&lt;/h1&gt;
@@ -85,7 +214,17 @@
 &lt;p&gt;2015 電腦輔助設計實習&lt;a href="http://wordpress-2015course.rhcloud.com/?cat=76"&gt;http://wordpress-2015course.rhcloud.com/?cat=76&lt;/a&gt;&lt;/p&gt;&amp;#160;&lt;a class="footnote-backref" href="#fnref:9" rev="footnote" title="Jump back to footnote 9 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="solvespace"></category><category term="creo parametric"></category></entry><entry><title>2015 電腦輔助設計實習 作業八</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-05T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-11-05:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category><category term="solvespace"></category><category term="creo parametric"></category></entry><entry><title>2015 電腦輔助設計實習 作業十</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w10.html" rel="alternate"></link><updated>2015-11-05T22:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-11-05:reveal/2015cp_hw_w10.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ10:&lt;/h1&gt;
+&lt;p&gt;↑↑↑詳情請見投影片~&lt;/p&gt;
+&lt;p&gt;段考週!!!! 休稿一次喔~~&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業九</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w9.html" rel="alternate"></link><updated>2015-11-05T21:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-11-05:reveal/2015cp_hw_w9.html</id><summary type="html">&lt;iframe src="simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;◎Ｗｅｅｋ9:&lt;/h1&gt;
+&lt;p&gt;↑↑↑詳情請見投影片~&lt;/p&gt;
+&lt;p&gt;段考週!!!! 休稿一次喔~~&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計實習 作業八</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w8.html" rel="alternate"></link><updated>2015-11-05T20:00:00+08:00</updated><author><name>40323150</name></author><id>tag:coursemdetw.github.io,2015-11-05:reveal/2015cp_hw_w8.html</id><summary type="html">&lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest8.html" target="_blank"&gt;→→→連結投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;◎Ｗｅｅｋ８:&lt;/h1&gt;

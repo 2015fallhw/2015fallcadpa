@@ -1,0 +1,57 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <h1>電腦輔助設計與實習</h1>
+    <p>40323141 陳律廷 </p>		
+</section>
+	
+<section id="hw-task-one">
+    <h1>第十四週作業</h1>
+    <br>
+    <h2>將上星期沒畫完的零件補上，在CREO中開啟組裝圖，將零件組起來。</h2>
+</section>
+				
+<section>
+    <h1>自評分數與實作心得</h1>
+    <p>這次是畫上禮拜剩下來的，不過因為上禮拜劃過，這禮拜操作起來也熟練多了，
+再來就是把零件組合起來，這又是一個全新的東西，請教同學之後終於搞懂了，
+指示標註尺寸那邊有點難標，之後才發現原來案滾輪可以自訂標註。</p>
+     <p>自評分數:70</p>
+</section>
+				
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="leo.20151121093513.1" a="E"><vh>@settings</vh>
+<v t="leo.20151121093513.1"><vh>@settings</vh>
 <v t="leo.20151121093513.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151121093513.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -23,7 +23,6 @@
 <v t="leo.20151121110402.1"><vh>stop.bat</vh></v>
 </v>
 <v t="leo.20151121095153.1"><vh>有關 Brython</vh></v>
-<v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151121095330.1"><vh>以下為投影片 ------------</vh></v>
 <v t="leo.20151121095339.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
 <v t="leo.20151121095422.1"><vh>@path pelican</vh>
@@ -41,10 +40,28 @@
 <v t="leo.20151210143156.4"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
-<v t="leo.20151210143206.1" a="E"><vh>@path ./../../pelican/content/</vh>
+<v t="leo.20151210143206.1"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151210143206.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20151210143206.3" a="E"><vh>@clean g1_w13_1.md</vh>
+<v t="leo.20151210143206.3"><vh>@clean g1_w11_1.md</vh>
 <v t="leo.20151210143206.4"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160111131841.1" a="E"><vh>@clean g1_w12_1.md</vh>
+<v t="leo.20160111131841.2"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160110204112.1" a="E"><vh>@clean g1_w13_1.md</vh>
+<v t="leo.20160110204112.2"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160111131936.1" a="E"><vh>@clean g1_w14_1.md</vh>
+<v t="leo.20160111131936.2"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160111132000.1" a="E"><vh>@clean g1_w15_1.md</vh>
+<v t="leo.20160111132000.2"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160111132018.1" a="E"><vh>@clean g1_w16_1.md</vh>
+<v t="leo.20160111132018.2"><vh>其他內容</vh></v>
+</v>
+<v t="leo.20160111132040.1" a="E"><vh>@clean g1_w17_1.md</vh>
+<v t="leo.20160111132040.2"><vh>其他內容</vh></v>
 </v>
 </v>
 </vnodes>
@@ -144,10 +161,6 @@ copy pelican 節點
 refresh 各資料節點內容, 確定可以進行編輯存檔
 
 測試 user-pelican 按鈕是否可以正確將 .md 檔案轉為靜態網頁</t>
-<t tx="leo.20151121095254.1">@language python
-import os
-os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../theme/pelican-octopress")
-g.es("user pelican 執行完畢")</t>
 <t tx="leo.20151121095330.1"></t>
 <t tx="leo.20151121095422.1"></t>
 <t tx="leo.20151121095422.2"></t>
@@ -255,11 +268,11 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151210143206.1"></t>
 <t tx="leo.20151210143206.2"></t>
 <t tx="leo.20151210143206.3">@language md
-Title: 2015 電腦輔助設計實習 CADPa W13 G1.leo 測試
+Title: 2015 電腦輔助設計實習 CADPa W11 G1.
 Date: 2015-12-10 13:30
 Category: G1
 Tags: leo editor 應用
-Slug: g1_w13_1
+Slug: g1_w11_1
 Authors: 40323108
 Summary: 讓組員各自利用 Leo 檔案維護分組報告
 @others</t>
@@ -377,5 +390,182 @@ ctx.fill()
 
 {% notebook g9999/g9999_u9999_w13.ipynb %}
 </t>
+<t tx="leo.20160110204112.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W13 G1.
+Date: 2015-12-10 13:30
+Category: G1
+Tags: leo editor 應用
+Slug: g1_w13_1
+Authors: 40323108
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+以下為組員介紹
+組員：&lt;br /&gt;
+江宜臻  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323101/"&gt;40323101&lt;/a&gt;&lt;br /&gt; 
+林宛儒  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323102/"&gt;40323102&lt;/a&gt;&lt;br /&gt;
+林意欣  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323103/"&gt;40323103&lt;/a&gt; &lt;br /&gt;
+謝馨慧  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323108/"&gt;40323108&lt;/a&gt;&lt;br /&gt;
+邱君洛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323124/"&gt;40323124&lt;/a&gt;&lt;br /&gt;
+@others</t>
+<t tx="leo.20160110204112.2">creo零件繪製
+
+零件六: connection   負責人:江宜臻 40323101
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/connection.stl"&gt;&lt;/script&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/-yfnmrtdxGk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件七: adjuster      負責人:林宛儒 40323102
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/adjuster.stl"&gt;&lt;/script&gt;
+&lt;iframe src="https://player.vimeo.com/video/151217350" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+零件四: cylinder        負責人:林意欣 40323103
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/cylinder.stl"&gt;&lt;/script&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/TxzWM7th-o4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件六: connection  負責人:謝馨慧 40323108
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/connection.stl"&gt;&lt;/script&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/_sx42hyy1Hw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件八: handle        負責人:邱君洛 40323124
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/handle.stl"&gt;&lt;/script&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/82VvZ6Vp7I4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20160111131841.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W12 G1.
+Date: 2015-12-10 13:30
+Category: G1
+Tags: leo editor 應用
+Slug: g1_w12_1
+Authors: 40323108
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+以下為組員介紹
+組員：&lt;br /&gt;
+江宜臻  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323101/"&gt;40323101&lt;/a&gt;&lt;br /&gt; 
+林宛儒  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323102/"&gt;40323102&lt;/a&gt;&lt;br /&gt;
+林意欣  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323103/"&gt;40323103&lt;/a&gt; &lt;br /&gt;
+謝馨慧  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323108/"&gt;40323108&lt;/a&gt;&lt;br /&gt;
+邱君洛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323124/"&gt;40323124&lt;/a&gt;&lt;br /&gt;
+@others</t>
+<t tx="leo.20160111131841.2">creo零件繪製
+
+零件一: adjuster_base   負責人:江宜臻 40323101
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/adjuster_base.stl"&gt;&lt;/script&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/VrAWEZfZsCw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件二: hinge      負責人:林宛儒 40323102
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/hinge.stl"&gt;&lt;/script&gt;
+&lt;iframe src="https://player.vimeo.com/video/151217351" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+零件三: base        負責人:林意欣 40323103
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/base.stl"&gt;&lt;/script&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/y32gcqsgEJI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件四: cylinder  負責人:謝馨慧 40323108
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/cylinder.stl"&gt;&lt;/script&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w9SqOIPhWwU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件五: piston     負責人:邱君洛 40323124
+&lt;script src="https://embed.github.com/view/3d/40323108/2015cadp/gh-pages/creo/piston.stl"&gt;&lt;/script&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/RBO70iEtT8k" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20160111131936.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W14 G1.
+Date: 2015-12-10 13:30
+Category: G1
+Tags: leo editor 應用
+Slug: g1_w14_1
+Authors: 40323108
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+以下為組員介紹
+組員：&lt;br /&gt;
+江宜臻  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323101/"&gt;40323101&lt;/a&gt;&lt;br /&gt; 
+林宛儒  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323102/"&gt;40323102&lt;/a&gt;&lt;br /&gt;
+林意欣  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323103/"&gt;40323103&lt;/a&gt; &lt;br /&gt;
+謝馨慧  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323108/"&gt;40323108&lt;/a&gt;&lt;br /&gt;
+邱君洛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323124/"&gt;40323124&lt;/a&gt;&lt;br /&gt;
+@others</t>
+<t tx="leo.20160111131936.2">creo 組裝
+
+40323101  江宜臻
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/ILBimz5-X7c" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+40323103  林意欣
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/JIzFd3-m13w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+40323108  謝馨慧
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/YNHoKSIvatQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20160111132000.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W15 G1.
+Date: 2015-12-10 13:30
+Category: G1
+Tags: leo editor 應用
+Slug: g1_w15_1
+Authors: 40323108
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+以下為組員介紹
+組員：&lt;br /&gt;
+江宜臻  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323101/"&gt;40323101&lt;/a&gt;&lt;br /&gt; 
+林宛儒  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323102/"&gt;40323102&lt;/a&gt;&lt;br /&gt;
+林意欣  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323103/"&gt;40323103&lt;/a&gt; &lt;br /&gt;
+謝馨慧  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323108/"&gt;40323108&lt;/a&gt;&lt;br /&gt;
+邱君洛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323124/"&gt;40323124&lt;/a&gt;&lt;br /&gt;
+@others</t>
+<t tx="leo.20160111132000.2">
+onshape零件繪製
+
+零件一: adjuster_base   負責人:江宜臻 40323101
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/E0aRuCKeOVA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件二: hinge      負責人:林宛儒 40323102
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/HNBk9YU1zEE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件三: base        負責人:林意欣 40323103
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/p1NkTp8rEKs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件四: cylinder  負責人:謝馨慧 40323108
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/0gD6LeuWFZ4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件五: piston     負責人:邱君洛 40323124
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/bzpey4ZvvUU" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20160111132018.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W16 G1.
+Date: 2015-12-10 13:30
+Category: G1
+Tags: leo editor 應用
+Slug: g1_w16_1
+Authors: 40323108
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+以下為組員介紹
+組員：&lt;br /&gt;
+江宜臻  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323101/"&gt;40323101&lt;/a&gt;&lt;br /&gt; 
+林宛儒  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323102/"&gt;40323102&lt;/a&gt;&lt;br /&gt;
+林意欣  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323103/"&gt;40323103&lt;/a&gt; &lt;br /&gt;
+謝馨慧  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323108/"&gt;40323108&lt;/a&gt;&lt;br /&gt;
+邱君洛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323124/"&gt;40323124&lt;/a&gt;&lt;br /&gt;
+@others</t>
+<t tx="leo.20160111132018.2">
+onshape零件繪製
+
+零件六: connection   負責人:江宜臻 40323101
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/tISJtg140ck" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件七: adjuster      負責人:林宛儒 40323102
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/9GzFK4Snl28" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件四: cylinder        負責人:林意欣 40323103
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/AN4ALJdlFk4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件六: connection  負責人:謝馨慧 40323108
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/vvtVNRte0MM" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+零件八: handle     負責人:邱君洛 40323124
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/iPbv4231pkk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20160111132040.1">@language md
+Title: 2015 電腦輔助設計實習 CADPa W17 G1.
+Date: 2015-12-10 13:30
+Category: G1
+Tags: leo editor 應用
+Slug: g1_w17_1
+Authors: 40323108
+Summary: 讓組員各自利用 Leo 檔案維護分組報告
+以下為組員介紹
+組員：&lt;br /&gt;
+江宜臻  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323101/"&gt;40323101&lt;/a&gt;&lt;br /&gt; 
+林宛儒  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323102/"&gt;40323102&lt;/a&gt;&lt;br /&gt;
+林意欣  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323103/"&gt;40323103&lt;/a&gt; &lt;br /&gt;
+謝馨慧  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323108/"&gt;40323108&lt;/a&gt;&lt;br /&gt;
+邱君洛  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323124/"&gt;40323124&lt;/a&gt;&lt;br /&gt;
+@others</t>
+<t tx="leo.20160111132040.2">
+onshape組裝
+
+40323101  江宜臻
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/c3c2owX_Fiw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+40323102  林宛儒
+&lt;iframe src="https://player.vimeo.com/video/151221667" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+40323103  林意欣
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/7PcW6Qvmjz0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+40323108  謝馨慧
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/eLahp3q6-40" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+40323124  邱君洛
+&lt;iframe width="772" height="435" src="https://www.youtube.com/embed/9oYtIg3CvYA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>

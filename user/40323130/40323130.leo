@@ -115,9 +115,6 @@
 <v t="yee.20160107141543.7" a="E"><vh>投影頁面1 封面</vh>
 <v t="yee.20160107141543.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="yee.20160107141543.9" a="E"><vh>投影頁面2 筆記</vh>
-<v t="yee.20160107141543.12"></v>
-</v>
 <v t="yee.20160107141543.11" a="E"><vh>投影頁面 自評與心得</vh>
 <v t="yee.20160107141543.12"></v>
 </v>
@@ -136,9 +133,6 @@
 <v t="yee.20160107141545.7" a="E"><vh>投影頁面1 封面</vh>
 <v t="yee.20160107141545.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
 </v>
-<v t="yee.20160107141545.9" a="E"><vh>投影頁面2 筆記</vh>
-<v t="yee.20160107141545.12"></v>
-</v>
 <v t="yee.20160107141545.11" a="E"><vh>投影頁面 自評與心得</vh>
 <v t="yee.20160107141545.12"></v>
 </v>
@@ -156,9 +150,6 @@
 <v t="yee.20160107141550.6" a="E"><vh>div class="slides"</vh>
 <v t="yee.20160107141550.7" a="E"><vh>投影頁面1 封面</vh>
 <v t="yee.20160107141550.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
-</v>
-<v t="yee.20160107141550.9" a="E"><vh>投影頁面2 筆記</vh>
-<v t="yee.20160107141550.12"></v>
 </v>
 <v t="yee.20160107141550.11" a="E"><vh>投影頁面 自評與心得</vh>
 <v t="yee.20160107141550.12"></v>
@@ -214,9 +205,9 @@ g.es("user pelican 執行完畢")</t>
 
     &lt;h3&gt;心得與自評成績&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這週要更新leo到5.1版本，除此之外還要安裝pelican跟Markdown，整個學完之後感覺還不錯，在學校測試fix的時候都很ok，但回家後要如法炮製卻出現了一點問題，原來是放置leo的路徑跟學校的路徑不一樣所導致的，只要將安裝路徑改為正確的就沒事了&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;自評分數 :&lt;/p&gt; 
+    &lt;p&gt;自評分數 :80&lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
@@ -224,7 +215,7 @@ g.es("user pelican 執行完畢")</t>
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</t>
 <t tx="yee.20160107141235.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -297,11 +288,18 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
     &lt;section&gt;
     &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
+    &lt;p align="left"&gt;1.利用pip install指令來安裝pelican跟Markdown&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;2.&lt;/p&gt;
+    &lt;p align="left"&gt;2.下載leo-editor-broke-abbrev並置於fix中&lt;/p&gt;
     &lt;br&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;3.fix.bat的路徑如下:
+    REM 複製 start.bat, launchleo.py 與 python.properties
+copy start.bat C:\Ana3_2015\
+copy launchLeo.py C:\Ana3_2015\data\apps\
+copy python.properties C:\Ana3_2015\data\SciTE\
+copy leo-editor-broke-abbrev.zip C:\Ana3_2015\data\
+
+rem ROBOCOPY OperaPortable C:\Ana3_2015\data\OperaPortable\ /E&lt;/p&gt;
     &lt;br&gt;
     &lt;/section&gt;
 &lt;/section&gt;
@@ -329,7 +327,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</t>
 <t tx="yee.20160107141536.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -402,11 +400,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
     &lt;section&gt;
     &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;中文版creo位置:Ana3_2015→data→apps→creo2_64bit→Parametric→bin→parametric.exe&lt;/p&gt;
     &lt;br&gt;
     &lt;/section&gt;
 &lt;/section&gt;
@@ -424,9 +418,9 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 
     &lt;h3&gt;心得與自評成績&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這週除了繪製零件外，還要進行組裝的動作，但礙於練習不足的狀況，所以組裝的過程一直都不是很順利&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;自評分數 :&lt;/p&gt; 
+    &lt;p&gt;自評分數 :70&lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
@@ -434,7 +428,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</t>
 <t tx="yee.20160107141540.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -507,11 +501,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
     &lt;section&gt;
     &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;中文版creo位置:Ana3_2015→data→apps→creo2_64bit→Parametric→bin→parametric.exe&lt;/p&gt;
     &lt;br&gt;
     &lt;/section&gt;
 &lt;/section&gt;
@@ -529,9 +519,9 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 
     &lt;h3&gt;心得與自評成績&lt;/h3&gt;
     &lt;br&gt;
-    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;這週除了完成creo以外多了一個新東西:建立各組的工作目錄，但第一次做卻失敗了，希望之後能搞定它&lt;/p&gt;
     &lt;br&gt;
-    &lt;p&gt;自評分數 :&lt;/p&gt; 
+    &lt;p&gt;自評分數 :70&lt;/p&gt; 
 &lt;/section&gt;		
 		
 </t>
@@ -539,7 +529,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</t>
 <t tx="yee.20160107141541.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -612,11 +602,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
     &lt;section&gt;
     &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
     &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;在git pull之後要回到2015fallcadpa資料夾的最外層按右鍵grepwin，在search的地方輸入7個(&lt;)檢查是否有衝突，確認無誤後再上推&lt;/p&gt;
     &lt;br&gt;
     &lt;/section&gt;
 &lt;/section&gt;
@@ -644,7 +630,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</t>
 <t tx="yee.20160107141543.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -713,23 +699,6 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 &lt;/section&gt;
 	
 </t>
-<t tx="yee.20160107141543.9">&lt;&lt; header &gt;&gt;
-    &lt;section&gt;
-    &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-
-
-
-
-</t>
 <t tx="yee.20160107141545.1">@language xml
 @tabwidth -4
 @others
@@ -749,7 +718,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</t>
 <t tx="yee.20160107141545.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -818,23 +787,6 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 &lt;/section&gt;
 	
 </t>
-<t tx="yee.20160107141545.9">&lt;&lt; header &gt;&gt;
-    &lt;section&gt;
-    &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-
-
-
-
-</t>
 <t tx="yee.20160107141550.1">@language xml
 @tabwidth -4
 @others
@@ -854,7 +806,7 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
 &lt;style&gt;.header1 header:after { 
 display: block;
 white-space: pre;
-content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt;</t>
+content: "課程: 電腦輔助設計實習A 學號: 40323130"; }&lt;/style&gt;</t>
 <t tx="yee.20160107141550.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -922,23 +874,6 @@ content: "課程: 電腦輔助設計實習B \A 學號: 40323130"; }&lt;/style&gt
     
 &lt;/section&gt;
 	
-</t>
-<t tx="yee.20160107141550.9">&lt;&lt; header &gt;&gt;
-    &lt;section&gt;
-    &lt;h3&gt;產生個人reveal.leo檔案&lt;/h3&gt;
-    &lt;hr size="1" align="center" noshade width="100%" color=blue&gt;
-    &lt;p align="left"&gt;1.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;2.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
-    &lt;br&gt;
-    &lt;/section&gt;
-&lt;/section&gt;
-
-
-
-
 </t>
 </tnodes>
 </leo_file>

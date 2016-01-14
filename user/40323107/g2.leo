@@ -470,12 +470,8 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;
 
 &lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/F99NUfaBAgw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323105/fix-2.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;
 
 
 
@@ -518,7 +514,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/adjuster-base1.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/uz_ddzBfAGc" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -544,7 +540,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/adjuster1.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/v4-s0MSA6ZQ" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -768,7 +764,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/base2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/gWssw3_S_M8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -782,7 +778,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/connection2.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/hRpZyt1WtR8" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1045,7 +1041,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/CYLINDER_5.5.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/RWEwGMoKJT0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1059,7 +1055,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323148/HANDLE_6.STL"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/ttjIir3IH1w" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1294,8 +1290,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/HANDLE_6.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
-&lt;/p&gt;
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/uP9XYrBokH4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;br /&gt;
 
@@ -1308,7 +1303,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/HANDLE_6.stl"&gt;&lt;/script&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/Ko18T8kqEvI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1425,7 +1420,7 @@ By：40323146
 &lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 
 By：40323148
-&lt;iframe src="https://player.vimeo.com/video/150393214" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+
 
 </t>
 <t tx="leo.20151231142551.1">是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行

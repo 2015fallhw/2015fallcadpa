@@ -14,7 +14,7 @@
 <v t="leo.20151121093513.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20151121093513.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20151121093509.2" a="E"><vh>個人專案系統</vh>
+<v t="leo.20151121093509.2"><vh>個人專案系統</vh>
 <v t="leo.20151121095223.1"><vh>設置步驟</vh></v>
 <v t="leo.20151121110456.1" a="E"><vh>以下為參考用的 batch 檔案</vh>
 <v t="leo.20151121110509.1"><vh>特別注意</vh></v>
@@ -25,10 +25,25 @@
 <v t="leo.20151121095153.1"><vh>有關 Brython</vh></v>
 <v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151121095330.1"><vh>以下為投影片 ------------</vh></v>
+<v t="leo.20160110221225.1"><vh>@edit 40323141_cp_w11_p.html</vh></v>
+<v t="leo.20160110221220.1"><vh>@edit 40323141_cp_w12_p.html</vh></v>
+<v t="leo.20160110210218.1"><vh>@edit 40323141_cp_w13_p.html</vh></v>
+<v t="leo.20160110210242.1"><vh>@edit 40323141_cp_w14_p.html</vh></v>
+<v t="leo.20160110210247.1"><vh>@edit 40323141_cp_w15_p.html</vh></v>
+<v t="leo.20160110210254.1"><vh>@edit 40323141_cp_w16_p.html</vh></v>
+<v t="leo.20160110221231.1"><vh>@edit 40323141_cp_w17_p.html</vh></v>
 <v t="leo.20151121095422.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151121095422.2"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151121095422.4" a="E"><vh>@path content</vh>
-<v t="leo.20151121095422.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160110205242.1"><vh>@edit publishconf.py</vh></v>
+<v t="leo.20160110210404.1" a="E"><vh>@path content</vh>
+<v t="leo.20160110210404.2"><vh>以下為網誌 md 檔案 ------------</vh></v>
+<v t="leo.20160110210404.13"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20160110210404.14"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo.20160110210404.15"><vh>@edit 2015cphww13.md</vh></v>
+<v t="leo.20160110210404.16"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo.20160110210404.17"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20160110210404.18"><vh>@edit 2015cphww16.md</vh></v>
+<v t="leo.20160110210404.19"><vh>@edit 2015cphww17.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -135,8 +150,6 @@ g.es("user pelican 執行完畢")</t>
 <t tx="leo.20151121095330.1"></t>
 <t tx="leo.20151121095422.1"></t>
 <t tx="leo.20151121095422.2"></t>
-<t tx="leo.20151121095422.4"></t>
-<t tx="leo.20151121095422.5"></t>
 <t tx="leo.20151121110353.1">@echo off
 REM 設定 V 硬碟代號與 data 目錄對應
 set Disk=y
@@ -230,5 +243,7 @@ EXIT
 <t tx="leo.20151121110509.1">若在 Leo Editor 以 @edit 編輯 .bat 檔案, 必須將 @language batch 刪除, 否則 .bat 無法正確執行
 
 發生此一錯誤的原因不明</t>
+<t tx="leo.20160110210404.1"></t>
+<t tx="leo.20160110210404.2"></t>
 </tnodes>
 </leo_file>

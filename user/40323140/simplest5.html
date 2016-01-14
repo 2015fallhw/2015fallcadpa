@@ -1,0 +1,76 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+<section>
+    <section>
+        <h2>介紹自己</h2>
+        <p>40323140  陳冠宇</p>
+    </section>
+    <section>	
+        <h2>班級</h2>
+        <p>四設計二甲</p>	
+    </section>        
+</section>
+	
+<section id="hw-task-one">
+    <h2>作業任務六</h2>
+    <p>筆記(第六週)</p>
+    <p>1.延續上禮拜未完成的投影片<br>
+          2.派兩個人開始實物測繪---腳踏車<br>
+          3.已建立班上協同倉儲,要先建立協同倉儲者<br>
+          4.git clone 2015fallcadpa(可先到tmp後再clone)<br>
+          5.切換分支<br>
+          6.資料夾裡有user,複製9999,貼上並將它改成自己的學號,之後點進去<br>
+          7.刪除有關9999的資料(一個是網址檔,一個是在pelican裡的content,有兩個檔案都刪掉)<br>
+          8.在Leo複製path9999,一樣改學號<br>
+          9.有關9999全改成自己的學號(在自己的path裡面改喔!!!!)<br>
+          10.按path 40323105點user-pelican就可以囉~~~~~
+</p>
+          
+</section>
+<section>
+        <h2>第六週心得</h2>
+        <p>我們這組說到分工就會停擺</p>
+        
+    </section>
+				
+<section id="hw-task-one">
+    <h2>自評分數</h2>
+    <p>1.第六週:70</p>
+
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+

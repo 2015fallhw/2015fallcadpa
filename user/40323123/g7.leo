@@ -31,10 +31,10 @@
 <v t="leo.20160104182129.1"><vh>@clean g7_w14_1.md</vh>
 <v t="leo.20160104182129.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160104182723.1"><vh>@clean g7_w15_1.md</vh>
+<v t="leo.20160104182723.1" a="E"><vh>@clean g7_w15_1.md</vh>
 <v t="leo.20160104182723.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20160104185603.1"><vh>@clean g7_w16_1.md</vh>
+<v t="leo.20160104185603.1" a="E"><vh>@clean g7_w16_1.md</vh>
 <v t="leo.20160104185603.2"><vh>其他內容</vh></v>
 </v>
 </v>
@@ -552,6 +552,39 @@ OnShape組裝圖
 使用方法說明: &lt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&gt;
 
 和以前在使用SolideWork沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改
+
+利用 onshape 繪製 Nutcracker 的各個零件
+
+hinge
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/vqm0Rk7wrgI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+adjuster_base
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/cmXGum_OLjE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+base
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/P9qJBka633M" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+cylinder
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/NLB5bWwCeQk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+piston
+
+&lt;iframe src="https://player.vimeo.com/video/150161694" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+adjuster
+
+&lt;iframe src="https://player.vimeo.com/video/149942356" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/149942356"&gt;用onshape繪製Adjuter&lt;/a&gt; from &lt;a href="https://vimeo.com/user44938638"&gt;郭世欣&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+handle
+
+&lt;iframe src="https://player.vimeo.com/video/150401392" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+
+connect
+
+&lt;iframe src="https://player.vimeo.com/video/150161647" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 
 &lt;br /&gt;
 
