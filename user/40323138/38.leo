@@ -12,7 +12,7 @@
 <vnodes>
 <v t="leo.20160107155641.2"><vh>NewHeadline</vh></v>
 <v t="leo.20160107155718.1"><vh>@button user pelican</vh></v>
-<v t="leo.20160107155707.1"><vh>@path ./</vh>
+<v t="leo.20160107155707.1" a="E"><vh>@path ./</vh>
 <v t="123.20160109232054.1"><vh>以下為 reveal 投影片</vh>
 <v t="123.20160109232054.2" a="E"><vh>@clean cadpaw1.html</vh>
 <v t="123.20160109232054.3" a="E"><vh>html 標註</vh>
@@ -627,7 +627,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107155707.4"><vh>@path pelican</vh>
+<v t="leo.20160107155707.4" a="E"><vh>@path pelican</vh>
 <v t="leo.20160107155707.5"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20160107155707.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20160107155707.7" a="E"><vh>@path content</vh>
