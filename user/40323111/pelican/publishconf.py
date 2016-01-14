@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = '40323111'
-SITENAME = '2015FALL 40323111    CADPA 作業'
+SITENAME = '2015FALL 40323111 CADPA 作業'
 SITEURL = ''
 
 PATH = 'content'
@@ -25,12 +25,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Node.js', 'http://python.org/'),('2015作業主頁', '../../'))
+LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
+         (' Python', 'http://python.org/'),(' 2015作業主頁', '../../'),(' my github', 'https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages'),(' g5', 'http://2015fallhw.github.io/2015fallcadpa/category/g5.html'),(' 40323111 個人網頁', 'http://ortiz919.github.io/40323111/'))
 
 # Social widget
-SOCIAL = (('Node.js', 'http://twitter.com/ametaireau'),
-          ('我的github', 'https://github.com/ortiz919/40323111'),)
+SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+          ('github', 'http://github.com/ametaireau'),)
           
 DEFAULT_PAGINATION = 10
 
