@@ -7,7 +7,17 @@
 &lt;p&gt;&lt;h2&gt; creo Assmbly&lt;h2&gt;&lt;/p&gt;
 &lt;script src="https://embed.github.com/view/3d/40323150/2015cadp/gh-pages/images/asm0002.stl"&gt;&lt;/script&gt;
 
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/JfO_2mHBFXA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 作業16</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-12-17T15:59:00+08:00</updated><author><name>40323138</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;以下為作業十六內容&lt;/p&gt;
+&lt;p&gt;onshape  Assmbly
+&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/JfO_2mHBFXA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+總零件
+&lt;script src="https://github.com/40323138-1/40323138/blob/gh-pages/theme/images/adjuster.stl"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/40323138-1/40323138/blob/gh-pages/theme/images/adjuster_base.stl"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/40323138-1/40323138/blob/gh-pages/theme/images/base.stl"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/40323138-1/40323138/blob/gh-pages/theme/images/connection.stl"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/40323138-1/40323138/blob/gh-pages/theme/images/cylinder.stl"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/40323138-1/40323138/blob/gh-pages/theme/images/handle.stl"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/40323138-1/40323138/blob/gh-pages/theme/images/cylinder.stl"&gt;&lt;/script&gt;
+&lt;script src="https://github.com/40323138-1/40323138/blob/gh-pages/theme/images/hinge.stl"&gt;&lt;/script&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>電腦輔助設計與實習 作業16</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-12-17T15:59:00+08:00</updated><author><name>40323138</name></author><id>tag:coursemdetw.github.io,2015-12-17:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;p&gt;以下為作業十六內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest15.html" width="500" height="300"&gt;&lt;/iframe&gt;
 

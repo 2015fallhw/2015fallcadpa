@@ -2623,14 +2623,14 @@ This slide has fragments which are also stepped through in the notes window.
 	
 </t>
 <t tx="123.20160109232054.371">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;作業任務十五&lt;/h2&gt;
-    &lt;p&gt;筆記(第十五周)&lt;/p&gt;
+    &lt;h2&gt;作業任務十七&lt;/h2&gt;
+    &lt;p&gt;筆記(第十七周)&lt;/p&gt;
     &lt;p&gt;1.onshape組合 2.點名 3.打自評
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="123.20160109232054.372">&lt;section&gt;
-        &lt;h2&gt;第十四周心得&lt;/h2&gt;
+        &lt;h2&gt;第十七周心得&lt;/h2&gt;
         &lt;p&gt;其中將近開始要我們打自評,根據上次經驗,我自評打了70分,但其中分數公佈後老師只給我50分,我個人倉儲連結失敗了!!都有做都就差這一步,相信這次把連結做成公,能拿到應該有的分數,給自己一個交代,而我這次打了75希望能達成這分數&lt;/p&gt;
         
     &lt;/section&gt;
