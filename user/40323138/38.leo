@@ -13,8 +13,8 @@
 <v t="leo.20160107155641.2"><vh>NewHeadline</vh></v>
 <v t="leo.20160107155718.1"><vh>@button user pelican</vh></v>
 <v t="leo.20160107155707.1" a="E"><vh>@path ./</vh>
-<v t="123.20160109232054.1"><vh>以下為 reveal 投影片</vh>
-<v t="123.20160109232054.2" a="E"><vh>@clean cadpaw1.html</vh>
+<v t="123.20160109232054.1" a="E"><vh>以下為 reveal 投影片</vh>
+<v t="123.20160109232054.2"><vh>@clean cadpaw1.html</vh>
 <v t="123.20160109232054.3" a="E"><vh>html 標註</vh>
 <v t="123.20160109232054.4" a="E"><vh>head</vh>
 <v t="123.20160109232054.5"><vh>title - 標題</vh></v>
@@ -632,24 +632,24 @@
 <v t="leo.20160107155707.6"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20160107155707.7" a="E"><vh>@path content</vh>
 <v t="leo.20160107155707.8"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="123.20160109232441.2"><vh>@edit 2015cphww2.md</vh></v>
 <v t="123.20160109232441.3"><vh>@edit 2015cphww1.md</vh></v>
+<v t="123.20160109232441.2"><vh>@edit 2015cphww2.md</vh></v>
+<v t="123.20160109232441.18"><vh>@edit 2015cphww4.md</vh></v>
 <v t="123.20160109232441.5"><vh>@edit 2015cphww6.md</vh></v>
+<v t="123.20160109232441.17"><vh>@edit 2015cphww3.md</vh></v>
 <v t="123.20160109232441.7"><vh>@edit 2015cphww8.md</vh></v>
+<v t="123.20160109232441.4"><vh>@edit 2015cphww5.md</vh></v>
 <v t="123.20160109232441.6"><vh>@edit 2015cphww7.md</vh></v>
 <v t="123.20160109232441.8"><vh>@edit 2015cphww9.md</vh></v>
-<v t="123.20160109232441.11"><vh>@edit 2015cphww12.md</vh></v>
-<v t="123.20160109232441.12"><vh>@edit 2015cphww13.md</vh></v>
-<v t="123.20160109232441.10"><vh>@edit 2015cphww11.md</vh></v>
-<v t="123.20160109232441.15"><vh>@edit 2015cphww16.md</vh></v>
 <v t="123.20160109232441.9"><vh>@edit 2015cphww10.md</vh></v>
+<v t="123.20160109232441.11"><vh>@edit 2015cphww12.md</vh></v>
+<v t="123.20160109232441.10"><vh>@edit 2015cphww11.md</vh></v>
+<v t="123.20160109232441.12"><vh>@edit 2015cphww13.md</vh></v>
 <v t="123.20160109232441.13"><vh>@edit 2015cphww14.md</vh></v>
+<v t="123.20160109232441.14"><vh>@edit 2015cphww15.md</vh></v>
+<v t="123.20160109232441.15"><vh>@edit 2015cphww16.md</vh></v>
 <v t="123.20160109232441.16"><vh>@edit 2015cphww17.md</vh></v>
 <v t="123.20160109232441.19"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="123.20160109232441.14"><vh>@edit 2015cphww15.md</vh></v>
-<v t="123.20160109232441.18"><vh>@edit 2015cphww4.md</vh></v>
-<v t="123.20160109232441.4"><vh>@edit 2015cphww5.md</vh></v>
-<v t="123.20160109232441.17"><vh>@edit 2015cphww3.md</vh></v>
 </v>
 </v>
 </v>
@@ -2623,14 +2623,14 @@ This slide has fragments which are also stepped through in the notes window.
 	
 </t>
 <t tx="123.20160109232054.371">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;作業任務十五&lt;/h2&gt;
-    &lt;p&gt;筆記(第十五周)&lt;/p&gt;
+    &lt;h2&gt;作業任務十七&lt;/h2&gt;
+    &lt;p&gt;筆記(第十七周)&lt;/p&gt;
     &lt;p&gt;1.onshape組合 2.點名 3.打自評
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="123.20160109232054.372">&lt;section&gt;
-        &lt;h2&gt;第十四周心得&lt;/h2&gt;
+        &lt;h2&gt;第十七周心得&lt;/h2&gt;
         &lt;p&gt;其中將近開始要我們打自評,根據上次經驗,我自評打了70分,但其中分數公佈後老師只給我50分,我個人倉儲連結失敗了!!都有做都就差這一步,相信這次把連結做成公,能拿到應該有的分數,給自己一個交代,而我這次打了75希望能達成這分數&lt;/p&gt;
         
     &lt;/section&gt;

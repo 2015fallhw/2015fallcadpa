@@ -33,7 +33,7 @@
 <v t="fasev.20160114141147.20" a="E"><vh>@path pelican</vh>
 <v t="fasev.20160114141147.21"><vh>以下為設定檔 ------------</vh></v>
 <v t="fasev.20160114141147.22"><vh>@edit publishconf.py</vh></v>
-<v t="fasev.20160114141147.23"><vh>@path content</vh>
+<v t="fasev.20160114141147.23" a="E"><vh>@path content</vh>
 <v t="fasev.20160114141147.24"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="fasev.20160114141147.25"><vh>@edit 40323152_cp_w1.md</vh></v>
 <v t="fasev.20160114141147.26"><vh>@edit 40323152_cp_w2.md</vh></v>
