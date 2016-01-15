@@ -27,7 +27,7 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (('KMOL Course Blog (虎尾科大機械設計工程系)', 'http://wordpress-2015course.rhcloud.com/'),
          ('Python', 'http://python.org/'),
-         ('My wordpress', 'https://wp40323150-889988.rhcloud.com/'), ('My C.A.D.P', 'http://40323150.github.io/2015cadp'), ('班級個人偕同倉儲', 'http://2015fallhw.github.io/2015fallcadpa/2015cp_hw_w7.html'), ('My Group', 'http://2015fallhw.github.io/2015fallcadpa/category/g8.html'), ('班級各組偕同倉儲', 'http://2015fallhw.github.io/2015fallcadpa/category/cadpa-ke-cheng.html'), ('返回首頁', 'http://2015fallhw.github.io/2015fallcadpa/user/40323150/'))
+         ('My wordpress', 'https://wp40323150-889988.rhcloud.com/'), ('班級個人偕同倉儲', 'http://2015fallhw.github.io/2015fallcadpa/2015cp_hw_w7.html'), ('班級各組偕同倉儲', 'http://2015fallhw.github.io/2015fallcadpa/category/cadpa-ke-cheng.html'), ('40323150 G8 分組網頁', 'http://2015fallhw.github.io/2015fallcadpa/category/g8.html'),('40323150 個人網頁', 'http://40323150.github.io/2015cadp'))
 
 # Social widget
 SOCIAL = (('about.me', 'http://about.me/40323150'),

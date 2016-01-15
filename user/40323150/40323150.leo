@@ -400,7 +400,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151121095422.1"><vh>@path pelican</vh>
+<v t="leo.20151121095422.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151121095422.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151121095422.3"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151121095422.4" a="E"><vh>@path content</vh>
