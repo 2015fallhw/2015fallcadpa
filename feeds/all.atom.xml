@@ -681,35 +681,9 @@ ctx.fill()
 &lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p&gt;By：40323146
 &lt;iframe src="https://player.vimeo.com/video/150322692" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;
-&lt;p&gt;By：40323148&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W16 g3 OnShape 活動</title><link href="http://coursemdetw.github.io/reveal/g3_w16_1.html" rel="alternate"></link><updated>2015-12-31T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-31:reveal/g3_w16_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
-&lt;p&gt;第十六週課程:&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;2015 Fall CADP W16&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;組員:&lt;br /&gt;
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323109/2015cp_hw_w16.html"&gt;40323109 W16&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323135/2015cp_hw_w16.html"&gt;40323135 W16&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323136/2015cp_hw_w16.html"&gt;40323136 W16&lt;/a&gt;&lt;br /&gt;
-&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323144/2015cp_hw_w16.html"&gt;40323144 W16&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;p&gt;計算 Nutcracker 機構有效運動距離:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;老師提到的方法&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;
-
-&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;實際利用&lt;/span&gt; &lt;span class="n"&gt;Onshape&lt;/span&gt; &lt;span class="err"&gt;中的組立&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;移動&lt;/span&gt; &lt;span class="n"&gt;piston&lt;/span&gt; &lt;span class="err"&gt;零件&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;靠目測概略決定&lt;/span&gt; &lt;span class="n"&gt;piston&lt;/span&gt; &lt;span class="err"&gt;的有效行程&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="err"&gt;目測法&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;只能得到大概的行程範圍&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;
-
-&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;利用&lt;/span&gt; &lt;span class="n"&gt;Solvespace&lt;/span&gt; &lt;span class="err"&gt;繪製&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;D&lt;/span&gt; &lt;span class="err"&gt;約束圖&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;然後利用約束點在線或圓上的方式&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;以圖解法解出有效行程&lt;/span&gt;
-
-&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;利用&lt;/span&gt; &lt;span class="n"&gt;Jupyter&lt;/span&gt; &lt;span class="err"&gt;與&lt;/span&gt; &lt;span class="n"&gt;Python3&lt;/span&gt; &lt;span class="err"&gt;的&lt;/span&gt; &lt;span class="n"&gt;sympy&lt;/span&gt; &lt;span class="err"&gt;模組&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;先進行符號式推導&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;然後再利用數值分析解出&lt;/span&gt; &lt;span class="n"&gt;piston&lt;/span&gt; &lt;span class="err"&gt;的有效行程&lt;/span&gt;
-
-&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;採用基因演算法&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;p&gt;詳細內容請參考&lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;2015 Fall CADP W16&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在用Onshape畫出的零件上加上限制條件:&lt;/p&gt;
-&lt;p&gt;1.點選想要加限制條件的定義&lt;br /&gt;
-&lt;img src="user\40323143\content/w16-1.jpg" width="500" alt="w16-1"&gt;&lt;/img&gt;&lt;br /&gt;
-&lt;img src="user\40323143\content/w16-4.jpg" width="500" alt="w16-4"&gt;&lt;/img&gt;&lt;br /&gt;
-2.點Limits &lt;br /&gt;
-&lt;img src="user\40323143\content/w16-2.jpg" width="500" alt="w16-2"&gt;&lt;/img&gt;&lt;br /&gt;
-3.填入計算好的限制條件&lt;br /&gt;
-&lt;img src="user\40323143\content/w16-3.jpg" width="500" alt="w16-3"&gt;&lt;/img&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;By：40323148&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W16 g3</title><link href="http://coursemdetw.github.io/reveal/g3_w16_1.html" rel="alternate"></link><updated>2015-12-31T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-31:reveal/g3_w16_1.html</id><summary type="html">&lt;p&gt;Piston 零件的有效運動範圍&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/Zg4NYjeBCEnnRrWU"&gt;
+&lt;img src="https://copy.com/Mw0fQyG8akM1sSYK"&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="OnShape 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPA G6 W16 ONSHAPE 組合</title><link href="http://coursemdetw.github.io/reveal/g6_w16_1.html" rel="alternate"></link><updated>2015-12-31T13:30:00+08:00</updated><author><name>G6</name></author><id>tag:coursemdetw.github.io,2015-12-31:reveal/g6_w16_1.html</id><summary type="html">&lt;p&gt;以下為組員介紹
 組員：&lt;br /&gt;
 吳政德  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323115/"&gt;40323115&lt;/a&gt;&lt;br /&gt;
@@ -965,14 +939,18 @@ ctx.fill()
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pBMQmXwqeSs" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W15 g3 OnShape 繪製</title><link href="http://coursemdetw.github.io/reveal/g3_w15_1.html" rel="alternate"></link><updated>2015-12-21T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/g3_w15_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
-&lt;h1&gt;OnShape組裝圖&lt;/h1&gt;
-&lt;p&gt;組員畫的Onshape&lt;/p&gt;
-&lt;p&gt;基本介紹:OnShape是網路上參數式設計很重要的一環，他將版次加入到我們一般不會去管理的板次問題，在目前是一大進展。&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/Nn6duGlEKuJECHUw"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/HXKuqaNT4LOFUOzs"&gt;&lt;/p&gt;
-&lt;p&gt;使用方法說明: &lt;a href="https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide"&gt;https://www.onshape.com/cad-blog/tech-tip-lets-build-a-frame-guide&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;和以前在使用SolidWorks沒什麼樣的差別，一樣也是草圖→擠出→草圖→修改&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W15 g3</title><link href="http://coursemdetw.github.io/reveal/g3_w15_1.html" rel="alternate"></link><updated>2015-12-21T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/g3_w15_1.html</id><summary type="html">&lt;p&gt;組裝Nutcracker 機構零件&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/GSOuGAzrQym4k282"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/IoBduf1ba6JTbqZQ"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/K9BSNW6DaiaydadM"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/LPkNa3iZBzff3LUa"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/Kg9J99kD3ATG1toX"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/EKH9KvSc0v4tqAiZ"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/9za9htEYUQQnhQU4"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/rBuAWRlcP0pC1YBJ"width="450"height="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/98Q2ptFtRdt3VBxZ"width="450"height="350"&gt;&lt;/p&gt;
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/components/perfect.stl"&gt;&lt;/script&gt;
+
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="OnShape 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W15 g7 OnShape 繪製</title><link href="http://coursemdetw.github.io/reveal/g7_w15_1.html" rel="alternate"></link><updated>2015-12-21T13:30:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-21:reveal/g7_w15_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
 &lt;h1&gt;OnShape組裝圖&lt;/h1&gt;
 &lt;p&gt;組員畫的Onshape&lt;/p&gt;
@@ -1237,99 +1215,24 @@ ctx.fill()
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;hr/&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W14 g3</title><link href="http://coursemdetw.github.io/reveal/g3_w14_1.html" rel="alternate"></link><updated>2015-12-14T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/g3_w14_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
-&lt;p&gt;零件檔案位於: &lt;a href="https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13"&gt;https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;使用方法說明: &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;https://help.github.com/articles/3d-file-viewer/&lt;/a&gt;&lt;/p&gt;
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;
-
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster_base.stl"&gt;&lt;/script&gt;
-
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/base.stl"&gt;&lt;/script&gt;
-
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/connection.stl"&gt;&lt;/script&gt;
-
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/cylinder.stl"&gt;&lt;/script&gt;
-
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/handle.stl"&gt;&lt;/script&gt;
-
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/hinge.stl"&gt;&lt;/script&gt;
-
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/piston.stl"&gt;&lt;/script&gt;
-
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/components/perfect.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;&lt;br /&gt;
-以下利用 Brython 語法, 在網頁繪圖:&lt;/p&gt;
-&lt;p&gt;使用方法: &lt;a href="http://www.brython.info/"&gt;http://www.brython.info/&lt;/a&gt;&lt;/p&gt;
-&lt;!-- 導入 brython_dist.js --&gt;
-
-&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
-
-&lt;!-- 啟動 brython() --&gt;
-
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
-
-&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
-
-&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
-
-&lt;script type="text/python3"&gt;
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-flag_w = canvas.width
-flag_h = canvas.height
-circle_x = flag_w/4
-circle_y = flag_h/4
-# 先畫滿地紅
-ctx.fillStyle='rgb(255, 0, 0)'
-ctx.fillRect(0,0,flag_w,flag_h)
-# 再畫青天
-ctx.fillStyle='rgb(0, 0, 150)'
-ctx.fillRect(0,0,flag_w/2,flag_h/2)
-# 畫十二道光芒白日
-ctx.beginPath()
-star_radius = flag_w/8
-angle = 0
-for i in range(24):
-    angle += 5*math.pi*2/12
-    toX = circle_x + math.cos(angle)*star_radius
-    toY = circle_y + math.sin(angle)*star_radius
-    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
-    if (i):
-        ctx.lineTo(toX, toY)
-    else:
-        ctx.moveTo(toX, toY)
-ctx.closePath()
-# 將填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-# 白日:藍圈
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為藍色
-ctx.fillStyle = 'rgb(0, 0, 149)'
-ctx.fill()
-# 白日:白心
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-&lt;/script&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W14 g7</title><link href="http://coursemdetw.github.io/reveal/g7_w14_1.html" rel="alternate"></link><updated>2015-12-14T13:30:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/g7_w14_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W14 g3</title><link href="http://coursemdetw.github.io/reveal/g3_w14_1.html" rel="alternate"></link><updated>2015-12-14T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/g3_w14_1.html</id><summary type="html">&lt;p&gt;繪製Nutcracker 機構零件&lt;/p&gt;
+&lt;p&gt;piston&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/pOaLJkit4ME2GdMZ"&gt;
+&lt;iframe src="https://player.vimeo.com/video/151982373" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/piston.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;adjuster&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/UfhAzplor71pgBxY"&gt;
+&lt;iframe src="https://player.vimeo.com/video/151982368" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;handle&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/8Ow21j1q3aO6MeqB"&gt;
+&lt;iframe src="https://player.vimeo.com/video/151982370" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/handle.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;connection&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/KhxN6cQOdso6vCEY"&gt;
+&lt;iframe src="https://player.vimeo.com/video/151982371" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/connection.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W14 g7</title><link href="http://coursemdetw.github.io/reveal/g7_w14_1.html" rel="alternate"></link><updated>2015-12-14T13:30:00+08:00</updated><author><name>40323123</name></author><id>tag:coursemdetw.github.io,2015-12-14:reveal/g7_w14_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
 &lt;p&gt;零件檔案位於: &lt;a href="https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13"&gt;https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;使用方法說明: &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;https://help.github.com/articles/3d-file-viewer/&lt;/a&gt;&lt;/p&gt;
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;
@@ -1967,118 +1870,24 @@ creo 組裝&lt;/p&gt;
 
 &lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W13 g3 組員名單</title><link href="http://coursemdetw.github.io/reveal/g3_w13_1.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/g3_w13_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
-&lt;p&gt;零件檔案位於: &lt;a href="https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13"&gt;https://github.com/smpss91341/2015cadpa_g7/gh-pages/w13&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;使用方法說明: &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;https://help.github.com/articles/3d-file-viewer/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;繪製Nutcracker 機構與組裝&lt;/p&gt;
-&lt;p&gt;零件adjuster&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/scRqAnyqFnoGHf4O"&gt;
-&lt;iframe src="https://player.vimeo.com/video/148461711" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster.stl"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;零件adjuster_base
-&lt;img src="https://copy.com/wCeBt4IfP0T2VmL7"&gt;
-&lt;iframe src="https://player.vimeo.com/video/148457759" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster_base.stl"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;零件base&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/xyZ1CzoQ7DIU01FU"&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/PGPUGZul3Uw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W13 g3</title><link href="http://coursemdetw.github.io/reveal/g3_w13_1.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/g3_w13_1.html</id><summary type="html">&lt;p&gt;繪製Nutcracker 機構零件&lt;/p&gt;
+&lt;p&gt;base&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/36Vue8m4BNwgOSbC"&gt;
+&lt;iframe src="https://player.vimeo.com/video/151978096" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/base.stl"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;零件connection&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/pR6Ls2fAeyv6n2gb"&gt;
-&lt;iframe src="https://player.vimeo.com/video/149249005" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/connection.stl"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;零件cylinder&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/gscxbmHWHuGPHmsO"&gt;
-&lt;iframe src="https://player.vimeo.com/video/149247675" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;cylinder&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/Bog7u3UP6kKQQgTO"&gt;
+&lt;iframe src="https://player.vimeo.com/video/151978095" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/cylinder.stl"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;零件handle&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/fiNf9rC40EYLXj47"&gt;
-&lt;iframe src="https://player.vimeo.com/video/150400339" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/handle.stl"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;零件hinge&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/BAV6csvkC7jkb1sP"&gt;
-&lt;iframe src="https://player.vimeo.com/video/148457739" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;hinge&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://copy.com/dB1dHSLRgT2Hu30k"&gt;
+&lt;iframe src="https://player.vimeo.com/video/151982372" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 &lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/hinge.stl"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;零件piston&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/JPg9zGxcGPgT7V4H"&gt;&lt;/p&gt;
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/piston.stl"&gt;&lt;/script&gt;
-
-&lt;p&gt;組裝&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://copy.com/OaG0cfYIWFaoIDUg"&gt;
-&lt;iframe width="420" height="315" src="https://www.youtube.com/embed/c6HSNTaFVQg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/components/perfect.stl"&gt;&lt;/script&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-以下利用 Brython 語法, 在網頁繪圖:&lt;/p&gt;
-&lt;p&gt;使用方法: &lt;a href="http://www.brython.info/"&gt;http://www.brython.info/&lt;/a&gt;&lt;/p&gt;
-&lt;!-- 導入 brython_dist.js --&gt;
-
-&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
-
-&lt;!-- 啟動 brython() --&gt;
-
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
-
-&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
-
-&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
-
-&lt;script type="text/python3"&gt;
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-flag_w = canvas.width
-flag_h = canvas.height
-circle_x = flag_w/4
-circle_y = flag_h/4
-# 先畫滿地紅
-ctx.fillStyle='rgb(255, 0, 0)'
-ctx.fillRect(0,0,flag_w,flag_h)
-# 再畫青天
-ctx.fillStyle='rgb(0, 0, 150)'
-ctx.fillRect(0,0,flag_w/2,flag_h/2)
-# 畫十二道光芒白日
-ctx.beginPath()
-star_radius = flag_w/8
-angle = 0
-for i in range(24):
-    angle += 5*math.pi*2/12
-    toX = circle_x + math.cos(angle)*star_radius
-    toY = circle_y + math.sin(angle)*star_radius
-    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
-    if (i):
-        ctx.lineTo(toX, toY)
-    else:
-        ctx.moveTo(toX, toY)
-ctx.closePath()
-# 將填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-# 白日:藍圈
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為藍色
-ctx.fillStyle = 'rgb(0, 0, 149)'
-ctx.fill()
-# 白日:白心
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-&lt;/script&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W13 g4.leo</title><link href="http://coursemdetw.github.io/reveal/g4_w13_1.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/g4_w13_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
+&lt;p&gt;adjuster_base
+&lt;img src="https://copy.com/9fH7pKzKw9jtytLM"&gt;
+&lt;iframe src="https://player.vimeo.com/video/151982369" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+&lt;script src="https://embed.github.com/view/3d/smpss91341/2015cadpa_g7/gh-pages/w13/adjuster_base.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W13 g4.leo</title><link href="http://coursemdetw.github.io/reveal/g4_w13_1.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>40323116</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/g4_w13_1.html</id><summary type="html">&lt;p&gt;以下利用各組員倉儲下的 stl 檔案, 進行分組報告零件檢視:&lt;/p&gt;
 &lt;p&gt;零件檔案位於: &lt;a href="https://github.com/2015fallhw/user9999/tree/master/parts"&gt;https://github.com/2015fallhw/user9999/tree/master/parts&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;使用方法說明: &lt;a href="https://help.github.com/articles/3d-file-viewer/"&gt;https://help.github.com/articles/3d-file-viewer/&lt;/a&gt;&lt;/p&gt;
 &lt;script src="https://embed.github.com/view/3d/pkluke22/2015cadp1/gh-pages/content/1.stl"&gt;&lt;/script&gt;
@@ -3872,108 +3681,13 @@ star(40, 40, 30, 0, True, "#f00")
 
 &lt;p&gt;
 &lt;iframe src="https://player.vimeo.com/video/151743624" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W12 g3 修改start位置、fix設定</title><link href="http://coursemdetw.github.io/reveal/g3_w12_1.html" rel="alternate"></link><updated>2015-12-03T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/g3_w12_1.html</id><summary type="html">&lt;p&gt;修改start.bat檔的pip install pelican Markdown路徑、
-更改啟動jupyter的路徑、
-和新增fix.bat內，在該路徑內新增leo-editor-broke-abbrev。&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;在課程網站中，下載fix.zip壓縮檔。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在leo-editor的gitcub下載leo-editor-broke-abbrev.zip壓縮檔，放在fix資料夾。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;打開\Ana3_lite2\data\SciTE\SciTE.exe&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SciTE開啟fix.bat，新增copy leo-editor-broke-abbrev C:\Ana3_2015\data\。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;SciTE開啟start.bat，內容中，啟動Jupyter從原本的notebook，改成tmp內執行。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;在start.bat檔內，將pip install ( http:/ /140.130.17.17/public/leo-editor-master.zip )
-   改成leo-editor-broke-abbrev.zip。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;打開fix.bat ，就會依照該路徑、位置進行安裝和執行。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;iframe src="https://player.vimeo.com/video/151209147" width="500" height="283" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/151209147"&gt;修改start位置、fix設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user44938638"&gt;郭世欣&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br /&gt;
-以下利用 Brython 語法, 在網頁繪圖:&lt;/p&gt;
-&lt;p&gt;使用方法: &lt;a href="http://www.brython.info/"&gt;http://www.brython.info/&lt;/a&gt;&lt;/p&gt;
-&lt;!-- 導入 brython_dist.js --&gt;
-
-&lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
-
-&lt;!-- 啟動 brython() --&gt;
-
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
-
-&lt;!-- 以下利用 Brython 程式執行繪圖 --&gt;
-
-&lt;canvas id="plotarea" width="300" height="200"&gt;&lt;/canvas&gt;
-
-&lt;script type="text/python3"&gt;
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-flag_w = canvas.width
-flag_h = canvas.height
-circle_x = flag_w/4
-circle_y = flag_h/4
-# 先畫滿地紅
-ctx.fillStyle='rgb(255, 0, 0)'
-ctx.fillRect(0,0,flag_w,flag_h)
-# 再畫青天
-ctx.fillStyle='rgb(0, 0, 150)'
-ctx.fillRect(0,0,flag_w/2,flag_h/2)
-# 畫十二道光芒白日
-ctx.beginPath()
-star_radius = flag_w/8
-angle = 0
-for i in range(24):
-    angle += 5*math.pi*2/12
-    toX = circle_x + math.cos(angle)*star_radius
-    toY = circle_y + math.sin(angle)*star_radius
-    # 只有 i 為 0 時移動到 toX, toY, 其餘都進行 lineTo
-    if (i):
-        ctx.lineTo(toX, toY)
-    else:
-        ctx.moveTo(toX, toY)
-ctx.closePath()
-# 將填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-# 白日:藍圈
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w*17/240, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為藍色
-ctx.fillStyle = 'rgb(0, 0, 149)'
-ctx.fill()
-# 白日:白心
-ctx.beginPath()
-ctx.arc(circle_x, circle_y, flag_w/16, 0, math.pi*2, True)
-ctx.closePath()
-# 填色設為白色
-ctx.fillStyle = '#fff'
-ctx.fill()
-&lt;/script&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W12 g5.leo</title><link href="http://coursemdetw.github.io/reveal/g5_w12_1.html" rel="alternate"></link><updated>2015-12-03T13:30:00+08:00</updated><author><name>40323120</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/g5_w12_1.html</id><summary type="html">&lt;p&gt;是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行&lt;/p&gt;
+&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W12 g3 組員名單</title><link href="http://coursemdetw.github.io/reveal/g3_w12_1.html" rel="alternate"></link><updated>2015-12-03T13:30:00+08:00</updated><author><name>40323109</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/g3_w12_1.html</id><summary type="html">&lt;p&gt;組員:&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323109"&gt;40323109王立杰&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323112/"&gt;40323112何秉霖&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323135"&gt;40323135莊子賢&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323136"&gt;40323136許兆毅&lt;/a&gt;&lt;br /&gt;
+&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323144"&gt;40323144曾炫期&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W12 g5.leo</title><link href="http://coursemdetw.github.io/reveal/g5_w12_1.html" rel="alternate"></link><updated>2015-12-03T13:30:00+08:00</updated><author><name>40323120</name></author><id>tag:coursemdetw.github.io,2015-12-03:reveal/g5_w12_1.html</id><summary type="html">&lt;p&gt;是有檔案重疊的風險, 但是若能各自採用特定格式命名的檔案, 應該還是可行&lt;/p&gt;
 &lt;p&gt;以下可以引入 reveal.js 投影片&lt;/p&gt;
 &lt;p&gt;可以引入 vimeo 影片&lt;/p&gt;
 &lt;p&gt;可以導入組員的 Jupyter notebook&lt;/p&gt;
