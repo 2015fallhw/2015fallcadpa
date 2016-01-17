@@ -1,0 +1,135 @@
+<!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 <section></section> 標示
+且支援平行與垂直的投影片配置方法
+-->
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>最簡單的 reveal 超文件</title>
+<link rel="stylesheet" href="css/reveal.min.css">
+	<link rel="stylesheet" href="css/theme/default.css" id="theme">	
+	<!--增加對於 IE 早期版本的支援 -->
+	<!--[if lt IE 9]>
+	<script src="lib/js/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+<!-- 將整個投影片包在 "reveal" class 中 -->
+
+<!-- 出現在每一頁的 header 格式 -->
+
+<header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"></header>
+
+<div class="reveal">
+<!-- 將所有投影片包在 "slides" class 中 -->
+<div class="slides">
+<!-- 以下為投影片 -->
+<!-- 每一個 section 都代表一張投影片,  -->
+<!-- section 標註中的多 section 標註, 將往下垂直延伸 -->
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "電腦輔助設計實習A 學號: 40323129"; }</style>
+
+    <p><font size="10"><marquee direction="left" behavior="alternate">
+    版本更新於105年1月5日
+  </marquee></font></p>
+    <h1>第十七週作業</h1>
+    <br>
+    <p>四設二甲 40323129 翁振端 </p>		
+</section>
+	
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "電腦輔助設計實習A 學號: 40323129"; }</style>
+    <h1>上課筆記</h1>
+    <br>
+<p>編輯個人偕同倉儲網站</p>
+<br>
+<p>編輯自評分數</p>
+</section>
+
+
+
+
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "電腦輔助設計實習A 學號: 40323129"; }</style>
+
+  <h1>心得與自評</h1>
+    <p>自評:75</p>
+    <p>心得1:
+    Leo editor 使用心得
+在使用完Leo editor後我發現，想要流利的使用這套編輯器，首先必須具備python 3的基礎，越熟悉python 3在Leo editor的使用上就更加得心應手，Leo editor提供很多功能，像是他能管理大鋼、可以編輯文字、可以拿來當作C/C++等等的程式開發環境、也可以拿來做網站內容管理。
+Leo editor畫面包含了大綱區、內文區、記錄區、緩衝指令區、執行狀態區、圖標指令區，在大綱區的節點有分為，小藍色方形(這是表是節點有內文)、紅色直條(表示節點已標示)、紅色圓形箭頭(表示節點以複製)。而這次的任務就是把.leo 檔案中的 @path user 節點, 各學員必須自行建立學號目錄下的個人 .leo 檔案, 以維護各自的檔案. (請參考 user/9999 中的 9999.leo).完成。
+    </section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "電腦輔助設計實習A 學號: 40323129"; }</style>
+
+  <section>
+  <h1>心得與自評</h1>
+    <p>心得2:
+Github操作心得
+git是一個分散式版本控制系統，常用在團隊合作開發上，因為git得一個大特點就是可以開分支(branch：我們在課程上開的分支叫master)，而開分支的好處在於今天如果要修BUG、或是開發新功能等等都可以把它分開分清楚的一一執行。而我們使用的指令有git clone(複製檔案)、用git add將檔案加入stage(這個指令會將所有編輯過的檔案加入stage新增但沒commit過的檔案不會加入)、git reset可以將add的檔案從stage中移除、使用git commit會將stage狀態的檔案做commit的動作。
+    </section>
+    <section>
+建立分支的使用上可以git branch 可以列出本地端所有的分支、git branch-r可以列出遠端所有分支、git branch-a可以列出所有本地及遠端的分支、git branch"branch名稱"可以建立新分支、git chechout-b"branch名稱"可以建立一個新分支並切換過去。在遠端操作上git remote add remote名稱remote網址可以加入一個remoterepositry、git push操作類似pull可以將本地端的branch上傳到遠端。而使用gitHub可以將本地儲存庫上傳到遠端的儲存庫，來版次管理。
+    </section>
+</section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "電腦輔助設計實習A 學號: 40323129"; }</style>
+
+  <h1>心得與自評</h1>
+    <p>心得3:
+solvespace和creo parametric操作心得
+solvespace和creo可以利用套件執行零件參數繪圖，執行組件參數繪圖solvespace雖然只能用於幾單零組件設計繪圖，但他可以提供原始碼，所以除了可以編譯程式外也可以自行增加功能，creo則是誌是參數繪圖與設計套件，而他除了具備完整的零組件參數繪圖功能外，還能提供二次開發環境可用c/c++程式延伸，因為學過autocad所以在畫圖上沒遇到甚麼困難只有一開始不太熟悉他的操作環境，但在看完<a href="https://www.copy.com/s/t%3ADXQiGkDoe9K8Cz7m%3Bp%3A%252FProEMechanism.pdf%3Boid%3A86">這些</a>說明之後就開始上手了。
+</section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "電腦輔助設計實習A 學號: 40323129"; }</style>
+
+  <h1>心得與自評</h1>
+    <p>心得4:
+vimeo和copy.com操作心得
+講到vimeo繼會想到youtube，那2個影音分享軟體差在哪呢，vimeo的優點在於隻元很多影片檔案格式像是mov.mp4.mpg等等比youtube得4種格是多上一大截，youtube限制影片長度不能超過10分鐘，相較下vimeo不會限制影片時間，而是限制你的使用容量，新註冊可以獲得500MB空間之後每週自動補空間道500MB，非常的夠用。copy.com用起來就有點像google雲端硬碟，提供10GB免費空間，我覺得也是非常夠用。
+</section>
+<section data-state="header1">
+<style>.header1 header:after { 
+display: block;
+white-space: pre;
+content: "電腦輔助設計實習A 學號: 40323129"; }</style>
+
+  <h1>心得與自評</h1>
+    <p>心得5:
+jupyter使用心得
+jupyter可以做程式的開發、儲存、執行，他的介面像筆記本讓我們可以python的開發或維護，再來打pip install"ipython[notebook]"他就會自動下載安裝ipythonnotebook的套件，安裝到本機端後就可以做程式的編輯和開發，在來在本機端打上ipythonnotebook，就可以在本機端使用。</p>
+</section>
+</div>
+</div>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.min.js"></script>
+<script>
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+</script>
+	
+</body>
+
