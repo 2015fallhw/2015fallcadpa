@@ -25,8 +25,8 @@
 <v t="leo.20151121095153.1"><vh>有關 Brython</vh></v>
 <v t="leo.20151121095254.1"><vh>@button user pelican</vh></v>
 <v t="leo.20151121095330.1"><vh>以下為投影片 ------------</vh></v>
-<v t="12.20160107133126.1" a="E"><vh>@button open html</vh>
-<v t="12.20160107133126.2" a="E"><vh>@clean cadp_w12_lecture.html</vh>
+<v t="12.20160107133126.1"><vh>@button open html</vh>
+<v t="12.20160107133126.2"><vh>@clean cadp_w12_lecture.html</vh>
 <v t="12.20160107133126.3"><vh>檔案說明</vh></v>
 <v t="12.20160107133126.4" a="E"><vh>html 標註</vh>
 <v t="12.20160107133126.5" a="E"><vh>body 標註</vh>
@@ -71,7 +71,7 @@
 </v>
 </v>
 </v>
-<v t="12.20160107133126.30" a="E"><vh>@clean cadp_w12_simplest.html</vh>
+<v t="12.20160107133126.30"><vh>@clean cadp_w12_simplest.html</vh>
 <v t="12.20160107133126.31"><vh>檔案說明</vh></v>
 <v t="12.20160107133126.32" a="E"><vh>html 標註</vh>
 <v t="12.20160107133126.33" a="E"><vh>body 標註</vh>
@@ -101,7 +101,49 @@
 </v>
 </v>
 </v>
-<v t="12.20160107133126.49" a="E"><vh>@clean cadp_w15_simplest.html</vh>
+<v t="leo.20160117225436.1"><vh>@clean cadp_w13_simplest.html</vh>
+<v t="leo.20160117225436.2"><vh>檔案說明</vh></v>
+<v t="leo.20160117225436.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160117225436.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160117225436.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160117225436.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160117225436.7" a="E"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20160117225436.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160117225436.9" a="E"><vh>作業任務</vh>
+<v t="leo.20160117225436.10"></v>
+</v>
+<v t="leo.20160117225436.11" a="E"><vh>成績</vh>
+<v t="leo.20160117225436.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160117225436.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160117225438.1"><vh>@clean cadp_w14_simplest.html</vh>
+<v t="leo.20160117225438.2"><vh>檔案說明</vh></v>
+<v t="leo.20160117225438.3" a="E"><vh>html 標註</vh>
+<v t="leo.20160117225438.4" a="E"><vh>body 標註</vh>
+<v t="leo.20160117225438.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20160117225438.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20160117225438.7" a="E"><vh>第 11 週開始的規劃</vh>
+<v t="leo.20160117225438.10"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+<v t="leo.20160117225438.9" a="E"><vh>作業任務</vh>
+<v t="leo.20160117225438.10"></v>
+</v>
+<v t="leo.20160117225438.11" a="E"><vh>成績</vh>
+<v t="leo.20160117225438.12"><vh>&lt;&lt; header &gt;&gt;</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20160117225438.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="12.20160107133126.49"><vh>@clean cadp_w15_simplest.html</vh>
 <v t="12.20160107133126.50"><vh>檔案說明</vh></v>
 <v t="12.20160107133126.51" a="E"><vh>html 標註</vh>
 <v t="12.20160107133126.52" a="E"><vh>body 標註</vh>
@@ -122,7 +164,7 @@
 </v>
 </v>
 </v>
-<v t="12.20160107133126.62" a="E"><vh>@clean cadp_w16_simplest.html</vh>
+<v t="12.20160107133126.62"><vh>@clean cadp_w16_simplest.html</vh>
 <v t="12.20160107133126.63"><vh>檔案說明</vh></v>
 <v t="12.20160107133126.64" a="E"><vh>html 標註</vh>
 <v t="12.20160107133126.65" a="E"><vh>body 標註</vh>
@@ -143,6 +185,7 @@
 </v>
 </v>
 </v>
+<v t="12.20160107133126.17" a="E"></v>
 </v>
 <v t="leo.20151121095339.1"><vh>@edit 40323145_cp_w12_p.html</vh></v>
 <v t="leo.20151121095422.1" a="E"><vh>@path pelican</vh>
@@ -152,8 +195,11 @@
 <v t="leo.20151121095422.5"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="12.20160107132637.1"><vh>@edit 40323145_cp_w11.md</vh></v>
 <v t="12.20160107132648.1"><vh>@edit 40323145_cp_w12.md</vh></v>
+<v t="leo.20160117224836.1"><vh>@edit 40323145_cp_w13.md</vh></v>
+<v t="leo.20160117224839.1"><vh>@edit 40323145_cp_w14.md</vh></v>
 <v t="12.20160107132719.1"><vh>@edit 40323145_cp_w16.md</vh></v>
 <v t="12.20160107132700.1"><vh>@edit 40323145_cp_w15.md</vh></v>
+<v t="leo.20160117224843.1"><vh>@edit 40323145_cp_w17.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -256,7 +302,7 @@ cadp w12 講課內容投影片
 
     &lt;section&gt;
     &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
-    &lt;h1&gt;第 13 週作業&lt;/h1&gt;
+    &lt;h1&gt;第 11 週作業&lt;/h1&gt;
     &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
     &lt;p&gt;40323145曾嘉威 12/09&lt;/p&gt;
     &lt;/section&gt;
@@ -270,9 +316,6 @@ cadp w12 講課內容投影片
     &lt;ol&gt;
     &lt;li&gt;畫出各組員分配到的零件&lt;/li&gt;
     &lt;li&gt;拍繪圖過程影片&lt;/li&gt;
-    &lt;li&gt;作業影片在下方&lt;/li&gt;
-    &lt;/ol&gt;		
-    &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3678"&gt;2015 Fall CADP W11&lt;/a&gt;
     &lt;/section&gt;
 
 &lt;/section&gt;</t>
@@ -285,7 +328,7 @@ content: "課程: 電腦輔助設計實習 學號: 40323145"; }&lt;/style&gt;</t
 
     &lt;h1&gt;第3張投影片&lt;/h1&gt;
     &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;自評60分&lt;/a&gt;
+    &lt;p&gt;自評70分&lt;/a&gt;
     &lt;p&gt;檔案、影片皆完成&lt;/a&gt;
 &lt;/section&gt;
 				
@@ -900,5 +943,193 @@ EXIT
 <t tx="leo.20151121110509.1">若在 Leo Editor 以 @edit 編輯 .bat 檔案, 必須將 @language batch 刪除, 否則 .bat 無法正確執行
 
 發生此一錯誤的原因不明</t>
+<t tx="leo.20160117225436.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160117225436.10">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習 學號: 40323145"; }&lt;/style&gt;</t>
+<t tx="leo.20160117225436.11">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;自評65分&lt;/a&gt;
+    &lt;p&gt;檔案、影片皆完成&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160117225436.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習 學號: 40323145"; }&lt;/style&gt;</t>
+<t tx="leo.20160117225436.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160117225436.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160117225436.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160117225436.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160117225436.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160117225436.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160117225436.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 13 週作業&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;p&gt;40323145曾嘉威 12/09&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160117225436.9">&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業任務&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;畫出各組員分配到的零件&lt;/li&gt;
+    &lt;li&gt;拍繪圖過程影片&lt;/li&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20160117225438.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20160117225438.10">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習 學號: 40323145"; }&lt;/style&gt;</t>
+<t tx="leo.20160117225438.11">&lt;&lt; header &gt;&gt;
+
+    &lt;h1&gt;第3張投影片&lt;/h1&gt;
+    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
+    &lt;p&gt;自評65分&lt;/a&gt;
+    &lt;p&gt;檔案、影片皆完成&lt;/a&gt;
+&lt;/section&gt;
+				
+</t>
+<t tx="leo.20160117225438.12">&lt;section data-state="header1"&gt;
+&lt;style&gt;.header1 header:after { 
+display: block;
+white-space: pre;
+content: "課程: 電腦輔助設計實習 學號: 40323145"; }&lt;/style&gt;</t>
+<t tx="leo.20160117225438.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20160117225438.2">&lt;!--
+cadp w12 講課內容投影片
+--&gt;
+</t>
+<t tx="leo.20160117225438.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;CADP W12 課程內容&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20160117225438.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20160117225438.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+
+&lt;!-- 出現在每一頁的 header 格式 --&gt;
+
+&lt;header style="position: absolute;top: 20px; left: 20px; z-index:300; font-size:30px;background-color: rgba(255,255,255,0.2)"&gt;&lt;/header&gt;
+
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160117225438.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20160117225438.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;&lt; header &gt;&gt;
+
+    &lt;section&gt;
+    &lt;style&gt;.header1 header:after { content: "Header 1 Example"; }&lt;/style&gt;
+    &lt;h1&gt;第 14 週作業&lt;/h1&gt;
+    &lt;p&gt;2015Fall 電腦輔助設計實習&lt;/p&gt;
+    &lt;p&gt;40323145曾嘉威 12/09&lt;/p&gt;
+    &lt;/section&gt;
+    
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20160117225438.9">&lt;&lt; header &gt;&gt;
+    &lt;section&gt;
+    &lt;h1&gt;作業任務&lt;/h1&gt;
+    &lt;ol&gt;
+    &lt;li&gt;畫出各組員分配到的零件&lt;/li&gt;
+    &lt;li&gt;拍繪圖過程影片&lt;/li&gt;
+    &lt;/section&gt;
+
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
