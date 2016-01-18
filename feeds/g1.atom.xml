@@ -103,78 +103,7 @@ ctx.fill()
 &lt;/script&gt;
 
 &lt;p&gt;以下導入 g9999_u9999_w13.ipynb, 理論上可以放到 content/notebook/g9999 目錄下, 然後利用 g9999/ 相對目錄呼叫&lt;/p&gt;
-&lt;p&gt;
-&lt;div class="cell border-box-sizing text_cell rendered"&gt;
-&lt;div class="prompt input_prompt"&gt;
-&lt;/div&gt;
-&lt;div class="inner_cell"&gt;
-&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
-&lt;script type="text/python3"&gt;
-# 導入 doc
-from browser import document as doc
-import math
-
-# 準備繪圖畫布
-canvas = doc["plotarea"]
-ctx = canvas.getContext("2d")
-# 進行座標轉換, x 軸不變, y 軸反向且移動 canvas.height 單位光點
-# ctx.setTransform(1, 0, 0, -1, 0, canvas.height)
-# 以下採用 canvas 原始座標繪圖
-# 定義畫線函式
-def draw_line(x1, y1, x2, y2, linethick = 3, color = "black"):
-    ctx.beginPath()
-    ctx.lineWidth = linethick
-    ctx.moveTo(x1, y1)
-    ctx.lineTo(x2, y2)
-    ctx.strokeStyle = color
-    ctx.stroke()
-
-# x, y 為中心,  r 為半徑, angle 旋轉角,  solid 空心或實心,  color 顏色
-def star(x, y, r, angle=0, solid=False, color="#f00"):
-    # 以 x, y 為圓心, 計算五個外點
-    deg = math.pi/180
-    # 圓心到水平線距離
-    a = r*math.cos(72*deg)
-    # a 頂點向右到內點距離
-    b = (r*math.cos(72*deg)/math.cos(36*deg))*math.sin(36*deg)
-    # 利用畢氏定理求內點半徑
-    rin = math.sqrt(a**2 + b**2)
-    # 查驗 a, b 與 rin
-    #print(a, b, rin)
-    if(solid):
-        ctx.beginPath()
-    for i in range(5):
-        xout = (x + r*math.sin((360/5)*deg*i+angle*deg))
-        yout = (y + r*math.cos((360/5)*deg*i+angle*deg))
-        # 外點增量 + 1
-        xout2 = x + r*math.sin((360/5)*deg*(i+1)+angle*deg)
-        yout2 = y + r*math.cos((360/5)*deg*(i+1)+angle*deg)
-        xin = x + rin*math.sin((360/5)*deg*i+36*deg+angle*deg)
-        yin = y + rin*math.cos((360/5)*deg*i+36*deg+angle*deg)
-        # 查驗外點與內點座標
-        #print(xout, yout, xin, yin)
-        if(solid):
-            # 填色
-            if(i==0):
-                ctx.moveTo(xout, yout)
-                ctx.lineTo(xin, yin)
-                ctx.lineTo(xout2, yout2)
-            else:
-                ctx.lineTo(xin, yin)
-                ctx.lineTo(xout2, yout2)
-        else:
-            # 空心
-            draw_line(xout, yout, xin, yin, color)
-            # 畫空心五芒星, 無關畫線次序, 若實心則與畫線次序有關
-            draw_line(xout2, yout2, xin, yin, color)
-    if(solid):
-        ctx.fillStyle = color
-        ctx.fill()
-star(40, 40, 30, 0, True, "#f00")
-&lt;/script&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W12 G1.</title><link href="http://coursemdetw.github.io/reveal/g1_w12_1.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>40323108</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/g1_w12_1.html</id><summary type="html">&lt;p&gt;以下為組員介紹
+&lt;p&gt;{% notebook g9999/g9999_u9999_w13.ipynb %}&lt;/p&gt;</summary><category term="leo editor 應用"></category></entry><entry><title>2015 電腦輔助設計實習 CADPa W12 G1.</title><link href="http://coursemdetw.github.io/reveal/g1_w12_1.html" rel="alternate"></link><updated>2015-12-10T13:30:00+08:00</updated><author><name>40323108</name></author><id>tag:coursemdetw.github.io,2015-12-10:reveal/g1_w12_1.html</id><summary type="html">&lt;p&gt;以下為組員介紹
 組員：&lt;br /&gt;
 江宜臻  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323101/"&gt;40323101&lt;/a&gt;&lt;br /&gt; 
 林宛儒  &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323102/"&gt;40323102&lt;/a&gt;&lt;br /&gt;
