@@ -43,7 +43,7 @@
 </v>
 <v t="leo.20151210143206.1" a="E"><vh>@path ./../../pelican/content/</vh>
 <v t="leo.20151210143206.2"><vh>利用學號與週次, 確認 md 與 slug 不會互相干擾覆寫</vh></v>
-<v t="leo.20160120031249.1" a="E"><vh>@clean g2_w10_1.md</vh>
+<v t="leo.20160120031249.1"><vh>@clean g2_w10_1.md</vh>
 <v t="leo.20160120031249.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20151210145146.1" a="E"><vh>@clean g2_w11_1.md</vh>
@@ -52,13 +52,13 @@
 <v t="leo.20151210155148.1"><vh>@clean g2_w12_1.md</vh>
 <v t="leo.20151210155148.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151210160036.1"><vh>@clean g2_w13_1.md</vh>
+<v t="leo.20151210160036.1" a="E"><vh>@clean g2_w13_1.md</vh>
 <v t="leo.20151210160036.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151231140716.1"><vh>@clean g2_w14_1.md</vh>
+<v t="leo.20151231140716.1" a="E"><vh>@clean g2_w14_1.md</vh>
 <v t="leo.20151231142439.1"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151231140719.1"><vh>@clean g2_w15_1.md</vh>
+<v t="leo.20151231140719.1" a="E"><vh>@clean g2_w15_1.md</vh>
 <v t="leo.20151231142517.1"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20151231140720.1"><vh>@clean g2_w16_1.md</vh>
@@ -821,7 +821,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
 
 2.零件 3D 圖。&lt;br /&gt;
-&lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/40323148-connection.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/40323148-connection.stl"&gt;&lt;/script&gt;
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
@@ -1058,7 +1058,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;
 
 2.零件 3D 圖。&lt;br /&gt;
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/BASE_3-3.stll"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/BASE_3-3.stl"&gt;&lt;/script&gt;
 
 3.零件繪製流程。&lt;br /&gt;
 &lt;img src="https://copy.com/tFWrg4zm4iBB2TOS"width="450"height="350"&gt;
@@ -1087,7 +1087,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
 
 2.零件 3D 圖。&lt;br /&gt;
-&lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/CONNECTION_4-4.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/CONNECTION_4-4.stl"&gt;&lt;/script&gt;
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
@@ -1293,7 +1293,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;
 
 2.零件 3D 圖。&lt;br /&gt;
-&lt;script src=""https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/CONNECTION_4-4.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/CONNECTION_4-4.stl"&gt;&lt;/script&gt;
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
@@ -1340,7 +1340,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
 
 2.零件 3D 圖。&lt;br /&gt;
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323146/HANDLE_6-6.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323146/HANDLE_6-6.stl"&gt;&lt;/script&gt;
 
 3.零件繪製流程。&lt;br /&gt;
 &lt;img src="https://copy.com/WaqT4DCZEWDNqdEd"width="450"height="350"&gt;
