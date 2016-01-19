@@ -9,15 +9,15 @@
 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323145/2015cp_hw_w16.html"&gt;40323145 W16&lt;/a&gt;&lt;br /&gt;
 &lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323154/2015cp_hw_w16.html"&gt;40323154 W16&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;計算 Nutcracker 機構有效運動距離:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;老師提到的方法:
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;老師提到的方法&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;
 
-1.實際利用 Onshape 中的組立, 移動 piston 零件, 靠目測概略決定 piston 的有效行程. (目測法, 只能得到大概的行程範圍)
+&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;實際利用&lt;/span&gt; &lt;span class="n"&gt;Onshape&lt;/span&gt; &lt;span class="err"&gt;中的組立&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;移動&lt;/span&gt; &lt;span class="n"&gt;piston&lt;/span&gt; &lt;span class="err"&gt;零件&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;靠目測概略決定&lt;/span&gt; &lt;span class="n"&gt;piston&lt;/span&gt; &lt;span class="err"&gt;的有效行程&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt; &lt;span class="o"&gt;(&lt;/span&gt;&lt;span class="err"&gt;目測法&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;只能得到大概的行程範圍&lt;/span&gt;&lt;span class="o"&gt;)&lt;/span&gt;
 
-2.利用 Solvespace 繪製 2D 約束圖, 然後利用約束點在線或圓上的方式, 以圖解法解出有效行程
+&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;利用&lt;/span&gt; &lt;span class="n"&gt;Solvespace&lt;/span&gt; &lt;span class="err"&gt;繪製&lt;/span&gt; &lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="n"&gt;D&lt;/span&gt; &lt;span class="err"&gt;約束圖&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;然後利用約束點在線或圓上的方式&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;以圖解法解出有效行程&lt;/span&gt;
 
-3.利用 Jupyter 與 Python3 的 sympy 模組, 先進行符號式推導, 然後再利用數值分析解出 piston 的有效行程
+&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;利用&lt;/span&gt; &lt;span class="n"&gt;Jupyter&lt;/span&gt; &lt;span class="err"&gt;與&lt;/span&gt; &lt;span class="n"&gt;Python3&lt;/span&gt; &lt;span class="err"&gt;的&lt;/span&gt; &lt;span class="n"&gt;sympy&lt;/span&gt; &lt;span class="err"&gt;模組&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;先進行符號式推導&lt;/span&gt;&lt;span class="o"&gt;,&lt;/span&gt; &lt;span class="err"&gt;然後再利用數值分析解出&lt;/span&gt; &lt;span class="n"&gt;piston&lt;/span&gt; &lt;span class="err"&gt;的有效行程&lt;/span&gt;
 
-4.採用基因演算法
+&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="o"&gt;.&lt;/span&gt;&lt;span class="err"&gt;採用基因演算法&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
