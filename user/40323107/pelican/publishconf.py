@@ -26,7 +26,7 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015 CADP 課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('2015 FALL CADPA 作業主頁','http://2015fallhw.github.io/2015fallcadpa/'),('Github','https://github.com/2015fallhw/2015fallcadpa/wiki'),('40323107 作業主頁','http://2015fallhw.github.io/2015fallcadpa/user/40323107/'),('Vimeo','https://vimeo.com/user24079973/videos'),('Python', 'http://python.org/'),('My Github','https://github.com/40323107/2015fallcadpa/tree/gh-pages'),('My 作業主頁','http://40323107.github.io/2015fallcadpa/'),('My Vimeo','https://vimeo.com/home/myvideos'))
+         ('2015 FALL CADPA 作業主頁','http://2015fallhw.github.io/2015fallcadpa/'),('Github','https://github.com/2015fallhw/2015fallcadpa/wiki'),('40323107 作業主頁','http://2015fallhw.github.io/2015fallcadpa/user/40323107/'),('Vimeo','https://vimeo.com/user24079973/videos'),('Python', 'http://python.org/'),('My Github','https://github.com/40323107/2015fallcadpa/tree/gh-pages'),('My 作業主頁','http://40323107.github.io/2015fallcadpa/'),('My Vimeo','https://vimeo.com/home/myvideos'),('40323107 個人網頁','http://40323107.github.io/2015fallcadpa/'))
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/ametaireau'),
