@@ -61,7 +61,7 @@
 <v t="leo.20151231140719.1" a="E"><vh>@clean g2_w15_1.md</vh>
 <v t="leo.20151231142517.1"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151231140720.1"><vh>@clean g2_w16_1.md</vh>
+<v t="leo.20151231140720.1" a="E"><vh>@clean g2_w16_1.md</vh>
 <v t="leo.20151231142541.1"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20151231141029.1" a="E"><vh>@clean g2_w17_1.md</vh>
@@ -1519,6 +1519,7 @@ By：40323146
 &lt;br /&gt;
 
 By：40323148
+&lt;iframe width="854" height="480" src="https://www.youtube.com/embed/NHwoIP_oGXI" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 
