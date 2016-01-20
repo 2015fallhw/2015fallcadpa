@@ -49,7 +49,7 @@
 <v t="leo.20151210145146.1" a="E"><vh>@clean g2_w11_1.md</vh>
 <v t="leo.20151210145146.2"><vh>其他內容</vh></v>
 </v>
-<v t="leo.20151210155148.1"><vh>@clean g2_w12_1.md</vh>
+<v t="leo.20151210155148.1" a="E"><vh>@clean g2_w12_1.md</vh>
 <v t="leo.20151210155148.2"><vh>其他內容</vh></v>
 </v>
 <v t="leo.20151210160036.1" a="E"><vh>@clean g2_w13_1.md</vh>
@@ -417,7 +417,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148202510" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/152468947" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -434,7 +434,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832384" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/152470110" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -672,7 +672,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148832386" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/152470821" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -689,7 +689,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148773495" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/152471254" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -938,9 +938,8 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;
 
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/152475136" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/p&gt;
-
 
 </t>
 <t tx="leo.20151231140716.1">@language md
@@ -1014,7 +1013,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/149567333" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/152472555" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1029,20 +1028,10 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 2.零件 3D 圖。&lt;br /&gt;
 &lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/ADJUSTER_2-2.stl"&gt;&lt;/script&gt;
 
-3.零件繪製流程。&lt;br /&gt;
-&lt;img src="https://copy.com/pKaZTquStVwKWCpV"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/FvVXuWvJJImMzVf9"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/S3xudB1Vf3ZgrTvk"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/euzcEQQGLK6EuQVO"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CBWAhZwDrWiNvgM8"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/CWCoeUmCBU9je9me"&gt;&lt;/img&gt;
-
-&lt;img src="https://copy.com/1WAOTgzdMrMyAvcn"&gt;&lt;/img&gt;
+3.零件繪製影片。&lt;br /&gt;
+&lt;p&gt;
+&lt;iframe src="https://player.vimeo.com/video/152472929" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;/p&gt;
 
 &lt;br /&gt;
 
@@ -1280,7 +1269,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/148771994" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/152475922" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
@@ -1297,7 +1286,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
-&lt;iframe src="https://player.vimeo.com/video/147972526" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
+&lt;iframe src="https://player.vimeo.com/video/152476284" width="500" height="266" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  
 &lt;/p&gt;
 
 &lt;br /&gt;
