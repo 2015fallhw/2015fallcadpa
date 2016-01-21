@@ -1114,7 +1114,7 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 &lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;
 
 2.零件 3D 圖。&lt;br /&gt;
-&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/blob/gh-pages/40323148/40323148-handle.stl"&gt;&lt;/script&gt;
+&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323148/40323148-handle.stl"&gt;&lt;/script&gt;
 
 3.零件繪製影片。&lt;br /&gt;
 &lt;p&gt;
@@ -1434,9 +1434,9 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;By：40323106    零件1、零件2&lt;/span&gt; 
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oyDG8a9rIbA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
-
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/k2pFB36Ao7A" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/oyDG8a9rIbA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
 ============
 
@@ -1450,17 +1450,51 @@ Summary: 讓組員各自利用 Leo 檔案維護分組報告
 
 &lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;By：40323105    零件5、零件6&lt;/span&gt; 
 
-&lt;iframe src="https://player.vimeo.com/video/150013185" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
-
 &lt;iframe src="https://player.vimeo.com/video/150013184" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
+
+&lt;iframe src="https://player.vimeo.com/video/150013185" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; 
 
 ============
 
 &lt;span style="font-size: 16pt; font-family: 'arial black', 'avant garde';"&gt;&amp;nbsp;&lt;strong&gt;&lt;span style="color: #00AA88;"&gt;By：40323107    零件7、零件8&lt;/span&gt; 
 
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+零件7繪製流程。&lt;br /&gt;
 
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;img src="https://copy.com/Eo6gZnyaLQuYB0F7"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/YaTpf9ASUaWVIIsG"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/pMhgXxhMseCRMZrZ"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/hcGFD1GRDTqHWvJw"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/HqlLGZieIaqGxOut"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/JmsqOCm3nTUC6TPG"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/Cq6b4PUpdRe8K6AL"&gt;&lt;/img&gt;
+
+
+零件8繪製流程。&lt;br /&gt;
+
+&lt;img src="https://copy.com/E0GYdrZlMDSJAFbv"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/yA9JubVuMyHHh10V"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/j2CqaBI3eHIuduqh"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/ts1WVnZeSWzhFNvF"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/V9QN9EmJja7g9w1F"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/t6NQBHNaXvdaXeq1"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/uGnpoGxTvRaRQQlG"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/0xZhDobFLy1Uxj8H"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/vIAtGH8KgBWLljHv"&gt;&lt;/img&gt;
+
 
 &lt;br /&gt;
 
@@ -1498,7 +1532,10 @@ By：40323106
 &lt;br /&gt;
 
 By：40323107
-&lt;iframe src="https://player.vimeo.com/video/150149100" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;img src="https://copy.com/nUtDHndz6k8FKRF1"&gt;&lt;/img&gt;
+
+&lt;img src="https://copy.com/2DfCCXbxYcawNHp1"&gt;&lt;/img&gt;
 
 &lt;br /&gt;
 
