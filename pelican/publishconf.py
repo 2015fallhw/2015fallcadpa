@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = 'KMOL'
-SITENAME = '2015FALL CADPA 作業主頁'
+SITENAME = '2015FALL CADPA 協同作業主頁面 (課程已經結束)'
 SITEURL = ''
 
 # Path to content directory to be processed by Pelican.
