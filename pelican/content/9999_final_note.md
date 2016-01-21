@@ -6,7 +6,7 @@ Slug: 2015fall_cadpa_final
 Authors: coursemdetw
 Summary: 2015Fall CADP 課程結束說明
 
-本網站為國立虎尾科技大學 (Taiwan), 機械設計工程系, 電腦輔助設計實習課程協同作業網站, 各學員作業連結如下:
+本網站為國立虎尾科技大學 (Taiwan), 機械設計工程系, 電腦輔助設計實習課程協同作業網站 (大二甲班), 各學員作業連結如下:
 
 <a href='http://2015fallhw.github.io/2015fallcadpa/user/40223116/'>40223116</a>
 <a href='http://2015fallhw.github.io/2015fallcadpa/user/40223252/'>40223252</a>
